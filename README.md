@@ -6,6 +6,7 @@ Support .7z, .zip, .rar
 
 Support folder name with database
 
-[__Download DKWDRV Game Installer__]([https://github.com/DKWDRV/DKWDRV](https://github.com/GDX-X/DKWDRV-Batch-Game-Installer/releases/latest))
+[__Download DKWDRV Game Installer__](https://github.com/GDX-X/DKWDRV-Batch-Game-Installer/releases/latest)
+
 [__Download DKWDRV.ELF__](https://github.com/DKWDRV/DKWDRV)
 
