@@ -1,4 +1,5 @@
 @echo off
+chcp 65001 >nul 2>&1
 title DKWDRV Batch Game Installer By GDX
 
 REM ##################################
@@ -67,14 +68,12 @@ set /a gamecount+=1
 	"%~dp0BAT\binmerge" "!HDDPATH!\!filename!" "!filename:~0,-4!" -o "!HDDPATHOUTPUT!\DKWDRV\BIN\!filename:~0,-4!" | findstr "Merging ERROR"
 
 	REM Get Gameid
-	"%~dp0BAT\POPS_VCD_ID" "!HDDPATHOUTPUT!\DKWDRV\BIN\!fname!\!fname!.bin" > "%~dp0TMP\gameid.txt" & set /p gameid=<"%~dp0TMP\gameid.txt"
+	"%~dp0BAT\UPSX_SID" "!HDDPATHOUTPUT!\DKWDRV\BIN\!fname!\!fname!.bin" > "%~dp0TMP\gameid.txt" & set /p gameid=<"%~dp0TMP\gameid.txt"
 	
 	REM Get Title
-	if !usedb!==yes (
-	for /f "tokens=1*" %%A in ('findstr !gameid! "%~dp0BAT\TitlesDB_PS1_English.txt"' ) do set dbtitle=%%B
-	)
+	if !usedb!==yes for /f "tokens=1*" %%A in ('findstr !gameid! "%~dp0BAT\TitlesDB_PS1_English.txt"' ) do set dbtitle=%%B
 	
-	if defined dbtitle ren "!HDDPATHOUTPUT!\DKWDRV\BIN\!filename:~0,-4!" "!dbtitle! [!gameid!]"
+	if defined dbtitle (ren "!HDDPATHOUTPUT!\DKWDRV\BIN\!filename:~0,-4!" "!dbtitle! [!gameid!]") else (ren "!HDDPATHOUTPUT!\DKWDRV\BIN\!filename:~0,-4!" "!filename:~0,-4! [!gameid!]")
 
 	if !DelExtracted!==yes del "!HDDPATH!\!filename:~0,-4! (Track *).bin" >nul 2>&1 & del "!HDDPATH!\!filename:~0,-4!.cue" >nul 2>&1 & del "!HDDPATH!\!filename:~0,-4!.bin" >nul 2>&1
 	endlocal
