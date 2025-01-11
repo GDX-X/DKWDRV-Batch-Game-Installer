@@ -49,7 +49,7 @@ SLES_038.34 2002 FIFA World Cup
 SLUS_014.49 2002 FIFA World Cup
 SCES_004.00 2Xtreme
 SCUS_945.08 2Xtreme
-SLES_031.20 3, 2, 1, Smurf^^! My First Racing Game
+SLES_031.20 3, 2, 1, Smurf^! My First Racing Game
 SLES_020.89 360 Three Sixty
 SLUS_000.66 3D Baseball
 SLPS_006.93 3D Baseball - The Majors
@@ -85,8 +85,8 @@ SLPS_000.04 A Ressha de Ikou 4 - Evolution
 SLPS_000.11 A Ressha de Ikou 4 - Evolution (Gentei)
 SLPS_001.25 A Ressha de Ikou 4 - Evolution Global
 SLPS_910.19 A Ressha de Ikou 4 - Evolution Global
-SLPS_020.50 A Ressha de Ikou Z - Mezase^^! Tairiku Oudan
-SLPS_028.12 A Ressha de Ikou Z - Mezase^^! Tairiku Oudan
+SLPS_020.50 A Ressha de Ikou Z - Mezase^! Tairiku Oudan
+SLPS_028.12 A Ressha de Ikou Z - Mezase^! Tairiku Oudan
 SCES_021.53 A Sangre Fría (Disc 1)
 SCES_121.53 A Sangre Fría (Disc 2)
 SCES_021.52 A Sangue Freddo (Disc 1)
@@ -186,7 +186,7 @@ SLUS_005.47 Adidas Power Soccer 98
 SLED_013.10 Adidas Power Soccer 98 (Demo)
 SLED_013.11 Adidas Power Soccer 98 (Demo)
 SLES_002.70 Adidas Power Soccer International '97
-SLPS_035.10 Adlib Ouji - ...to Fuyukai na Nakama-tachi^^!
+SLPS_035.10 Adlib Ouji - ...to Fuyukai na Nakama-tachi^!
 SLPS_016.89 Advan Racing
 SLES_003.86 Advanced Dungeons & Dragons - Iron & Blood - Warriors of Ravenloft
 SLUS_003.78 Advanced Dungeons & Dragons - Iron & Blood - Warriors of Ravenloft
@@ -256,7 +256,7 @@ SLPS_015.27 Alive (Disc 2)
 SLPS_015.28 Alive (Disc 2)
 SLPS_015.27 Alive (Disc 3)
 SLPS_015.29 Alive (Disc 3)
-SLES_041.62 All Music Dance^^!
+SLES_041.62 All Music Dance^!
 SLES_041.07 All Star Action (Disc 1)
 SLES_141.07 All Star Action (Disc 2)
 SLES_039.58 All Star Boxing
@@ -455,7 +455,7 @@ SLES_007.39 Arcade's Greatest Hits - The Midway Collection 2
 SLUS_004.50 Arcade's Greatest Hits - The Midway Collection 2
 SLPS_014.38 Arcana Senki Ludo
 SLES_040.96 Archer Maclean's 3D Pool
-SLPS_004.28 Are^^!Mo KoreMo Momotarou
+SLPS_004.28 Are^!Mo KoreMo Momotarou
 SLES_005.78 Area 51
 SLES_037.83 Area 51
 SLPS_007.25 Area 51
@@ -523,7 +523,7 @@ SLPS_024.05 Art Camion - Geijutsuden
 SLPS_027.10 Art Camion - Sugorokuden
 SLPM_801.44 Artdink Preview (Taikenban)
 SLPS_003.63 Arthur to Astaroth no Nazo Makaimura - Incredible Toons
-SLUS_010.90 Arthur^^! Ready to Race
+SLUS_010.90 Arthur^! Ready to Race
 SLUS_900.27 Asciiware Training CD
 SLPS_035.40 Asonde AIUEO
 SLPS_035.42 Asonde Chinou Up
@@ -601,7 +601,7 @@ SLES_009.09 Auto Destruct
 SLUS_005.22 Auto Destruct
 SLES_023.41 Autobahn Raser II
 SCED_013.06 Autorennen Spezial '98
-SCED_002.73 AutumnChristmas Releases '96
+SCED_002.73 Autumn-Christmas Releases '96
 SLPS_009.46 Ayakashi Ninden Kunoichiban (Disc 1)
 SLPS_009.47 Ayakashi Ninden Kunoichiban (Disc 2)
 SLES_004.93 Ayrton Senna Kart Duel
@@ -651,12 +651,12 @@ SLPS_005.41 Bakuretsu Hunter - Mahjong Special
 SLPS_007.18 Bakuretsu Hunter - Sorezore no Omoi ... Nowaanchatte
 SLPS_034.37 Bakuretsu Soccer
 SLPS_024.29 Bakuryuu
-SLPS_001.58 Bakushou^^!^^! All Yoshimoto Quiz-ou Kettei-sen DX
+SLPS_001.58 Bakushou^!^! All Yoshimoto Quiz-ou Kettei-sen DX
 SLPM_805.06 Bakusou Dekotora Densetsu 2 - Otoko Jinsei Yume Ichiro
 SLPS_024.65 Bakusou Dekotora Densetsu 2 - Otoko Jinsei Yume Ichiro
 SLPS_912.19 Bakusou Dekotora Densetsu 2 - Otoko Jinsei Yume Ichiro
 SLPS_014.41 Bakusou Dekotora Densetsu - Otoko Ippiki Yume Kaidou
-SLPS_014.89 Bakusou Kyoudai Let's & Go^^!^^! Eternal Wings
+SLPS_014.89 Bakusou Kyoudai Let's & Go^!^! Eternal Wings
 SLPM_871.30 Bakuten Shoot Beyblade 2002 - Bey Battle Tournament 2 (Gentei)
 SLPM_869.80 Bakuten Shoot Beyblade - Bey Battle Tournament
 SLES_040.91 Baldies
@@ -705,7 +705,7 @@ SLES_026.15 Barça Manager 2000
 SLPS_006.87 Baseball Navigator
 SLPS_011.23 Baseball Navigator
 SLPM_866.50 Baseball Simulation - ID Pro Yakyuu
-SLPS_030.55 Baseball - Pro-nami Kusayakyuu^^!
+SLPS_030.55 Baseball - Pro-nami Kusayakyuu^!
 SLUS_000.86 Bases Loaded '96 - Double Header
 SLPS_013.04 Bass Fisherman - Texas
 SLPS_017.65 Bass Landing
@@ -715,10 +715,10 @@ SLPM_803.54 Bass Landing (Taikenban)
 SLPS_026.46 Bass Landing 2
 SLPS_026.47 Bass Landing 2
 SLUS_009.05 Bass Rise
-SLPS_019.14 Bass Tsuri ni Ikou^^!
+SLPS_019.14 Bass Tsuri ni Ikou^!
 SLPS_028.59 Bassing Beat 2
-SLPS_005.42 Bastard^^!^^! Utsuronaru Kamigami no Utsuwa
-SLPM_800.51 Bastard^^!^^! Utsuronaru Kamigami no Utsuwa (Taikenban)
+SLPS_005.42 Bastard^!^! Utsuronaru Kamigami no Utsuwa
+SLPM_800.51 Bastard^!^! Utsuronaru Kamigami no Utsuwa (Taikenban)
 SLES_001.02 Batman & Robin
 SLES_012.20 Batman & Robin
 SLUS_003.93 Batman & Robin
@@ -846,14 +846,14 @@ SLUS_006.48 Black Bass with Blue Marlin
 SLES_004.07 Black Dawn
 SLPS_006.63 Black Dawn
 SLUS_003.21 Black Dawn
-SLPS_029.62 BlackMatrix + (Disc 1)
-SLPS_034.15 BlackMatrix + (Disc 1)
-SLPS_029.63 BlackMatrix + (Disc 2)
-SLPS_034.16 BlackMatrix + (Disc 2)
-SLPS_035.73 BlackMatrix 00 (Disc 1)
-SLPS_035.71 BlackMatrix 00 (Disc 1) (Shokai Genteiban)
-SLPS_035.74 BlackMatrix 00 (Disc 2)
-SLPS_035.72 BlackMatrix 00 (Disc 2) (Shokai Genteiban)
+SLPS_029.62 Black-Matrix + (Disc 1)
+SLPS_034.15 Black-Matrix + (Disc 1)
+SLPS_029.63 Black-Matrix + (Disc 2)
+SLPS_034.16 Black-Matrix + (Disc 2)
+SLPS_035.73 Black-Matrix 00 (Disc 1)
+SLPS_035.71 Black-Matrix 00 (Disc 1) (Shokai Genteiban)
+SLPS_035.74 Black-Matrix 00 (Disc 2)
+SLPS_035.72 Black-Matrix 00 (Disc 2) (Shokai Genteiban)
 SLPS_019.83 Blackjack vs. Matsuda Jun
 SLES_032.13 Blade
 SLES_032.14 Blade
@@ -861,10 +861,10 @@ SLES_032.15 Blade
 SLUS_012.15 Blade
 SLPM_866.02 Blade Arts - Tasogare no Miyako R'lyeh
 SLPS_017.95 Blade Maker
-SLES_003.49 Blam^^! Machinehead
-SLES_003.50 Blam^^! Machinehead
-SLES_003.51 Blam^^! Machinehead
-SLPS_007.98 Blam^^! Machinehead
+SLES_003.49 Blam^! Machinehead
+SLES_003.50 Blam^! Machinehead
+SLES_003.51 Blam^! Machinehead
+SLPS_007.98 Blam^! Machinehead
 SLES_004.76 Blast Chamber
 SLUS_002.19 Blast Chamber
 SLUS_013.80 Blast Lacrosse
@@ -892,7 +892,7 @@ SLES_040.67 Block Buster
 SLPM_872.36 Block Kuzushi
 SLPS_025.78 Block Kuzushi 2
 SLPS_003.53 Block Kuzushi - Deden no Gyakushuu
-SLPS_030.42 Block Kuzushi - Kowashite Help^^!
+SLPS_030.42 Block Kuzushi - Kowashite Help^!
 SLPM_806.19 Block Wars
 SLPS_032.19 Block Wars
 SCED_008.77 Blockbuster Playstation Challenge (Demo)
@@ -928,7 +928,7 @@ SLPS_011.22 Blue Breaker - Egao no Yakusoku
 SLES_035.70 Blue's Clues - Blue's Big Musical
 SLUS_011.98 Blue's Clues - Blue's Big Musical
 SLES_036.74 Bob Aggiustatutto
-SLES_037.98 Bob le Bricoleur - Réparer C'est Gagné^^!
+SLES_037.98 Bob le Bricoleur - Réparer C'est Gagné^!
 SLES_028.56 Bob the Builder - Can We Fix It
 SLUS_014.07 Bob the Builder - Can We Fix It
 SLPS_008.65 Body Hazard
@@ -988,8 +988,8 @@ SLPS_005.14 BrainDead 13 (Disc 1)
 SLUS_000.83 BrainDead 13 (Disc 1)
 SLPS_005.15 BrainDead 13 (Disc 2)
 SLUS_001.71 BrainDead 13 (Disc 2)
-SLES_039.92 Bratz - Dress Up, Get Down and Be a Bratz Superstar^^!
-SLUS_015.08 Bratz - Dress Up, Get Down and Be a Bratz Superstar^^!
+SLES_039.92 Bratz - Dress Up, Get Down and Be a Bratz Superstar^!
+SLUS_015.08 Bratz - Dress Up, Get Down and Be a Bratz Superstar^!
 SLUS_007.26 Brave Fencer Musashi
 SLPS_014.90 Brave Fencer Musashiden
 SLPS_027.69 Brave Fencer Musashiden
@@ -1002,10 +1002,10 @@ SLPS_028.89 Brave Sword
 SLUS_004.88 Bravo Air Race
 SLES_002.58 Break Point
 SLPM_860.44 Break Point
-SLPS_001.29 Break Thru^^!
+SLPS_001.29 Break Thru^!
 SLPS_023.75 Break Volley
 SLUS_011.70 Breakout
-SLES_028.54 Breakout - A Story of Bat Meets Ball...^^!
+SLES_028.54 Breakout - A Story of Bat Meets Ball...^!
 SLES_013.04 Breath of Fire III
 SLES_013.19 Breath of Fire III
 SLES_013.20 Breath of Fire III
@@ -1047,7 +1047,7 @@ SLUS_003.70 Bubble Bobble also featuring Rainbow Islands
 SLPS_017.10 Bubblegun Kid
 SLES_001.22 Bubsy 3D - Furbitten Planet
 SLUS_001.10 Bubsy 3D - Furbitten Planet
-SLPS_011.05 Buckle Up^^!
+SLPS_011.05 Buckle Up^!
 SLES_001.74 Buggy
 SLPM_861.33 Bugi
 SLES_008.75 Bugriders - The Race of Kings
@@ -1059,7 +1059,7 @@ SLUS_008.38 Bugs Bunny - Lost in Time
 SLED_021.25 Bugs Bunny - Lost in Time (Demo)
 SLUS_900.58 Bugs Bunny - Lost in Time (Demo)
 SLUS_010.86 Builder's Block
-SLPS_004.97 Building Crush^^!
+SLPS_004.97 Building Crush^!
 SLES_025.64 Bundesliga 2000 - Der Fussball-Manager
 SLES_021.43 Bundesliga Stars 2000
 SLES_030.65 Bundesliga Stars 2001
@@ -1071,9 +1071,9 @@ SLES_003.45 Burning Road
 SLPS_005.18 Burning Road
 SLUS_003.24 Burning Road
 SLUS_900.02 Burning Road (Demo)
-SLES_033.38 BursTrick - Wake Boarding^^!^^!
-SLPS_027.92 BursTrick - Wake Boarding^^!^^!
-SLUS_013.17 BursTrick - Wake Boarding^^!^^!
+SLES_033.38 BursTrick - Wake Boarding^!^!
+SLPS_027.92 BursTrick - Wake Boarding^!^!
+SLUS_013.17 BursTrick - Wake Boarding^!^!
 SCES_008.99 Bushido Blade
 SCUS_941.80 Bushido Blade
 SLPM_860.20 Bushido Blade
@@ -1117,7 +1117,7 @@ SLES_013.63 C3 Racing - Car Constructors Championship
 SLUS_004.99 C - The Contra Adventure
 SCUS_944.16 CART World Series
 SLES_012.16 CBZ - CyBall Zone
-SLPS_002.30 CG Mukashi Banashi - Jiisan 2-do Bikkuri^^!^^!
+SLPS_002.30 CG Mukashi Banashi - Jiisan 2-do Bikkuri^!^!
 SLPS_002.20 CRW - Counter Revolution War
 SLES_039.86 CT Special Forces
 SLES_041.55 CT Special Forces 3 - Bioterror
@@ -1140,8 +1140,8 @@ LSP20011.001 Calamity 1 - The Natural World
 LSP20022.001 Calamity 2 - People and Traditions
 LSP20033.001 Calamity 3 - Around the World
 SLES_026.14 Calcio Manager 2000
-SLPS_010.71 Calcolo^^! Ochimono Shooting
-SLPM_801.47 Calcolo^^! Ochimono Shooting (Taikenban)
+SLPS_010.71 Calcolo^! Ochimono Shooting
+SLPM_801.47 Calcolo^! Ochimono Shooting (Taikenban)
 LSP02019.001 Cali's Geo Tools
 SLES_039.21 California Surfing
 SLES_029.50 California Watersports
@@ -1215,7 +1215,7 @@ SCPS_100.13 Center Shiken Trial - Eigo no Tetsujin
 SLES_016.64 Centipede
 SLES_019.00 Centipede
 SLUS_008.07 Centipede
-SCED_019.92 Cha Cha Special 0499 Demo
+SCED_019.92 Cha Cha Special 04-99 Demo
 SLPS_024.22 Chakushin Melody da mon
 SLPS_028.47 Chakushin Melody da mon Gold
 SLPS_025.56 Chakushin Melody da mon Volume. 2
@@ -1269,8 +1269,8 @@ SLES_021.17 Chessmaster II
 SLUS_008.86 Chessmaster II
 SLES_035.82 Chi Vuol Essere Miliardario
 SLES_039.17 Chi Vuol Essere Milionario Seconda Edizione
-SLPS_018.34 Chibi Chara Game - Ginga Eiyuu Densetsu (Disc 1) (Go^^! Go^^! Casino) (Genteiban)
-SLPS_020.25 Chibi Chara Game - Ginga Eiyuu Densetsu (Disc 1) (Go^^! Go^^! Casino) (Genteiban)
+SLPS_018.34 Chibi Chara Game - Ginga Eiyuu Densetsu (Disc 1) (Go^! Go^! Casino) (Genteiban)
+SLPS_020.25 Chibi Chara Game - Ginga Eiyuu Densetsu (Disc 1) (Go^! Go^! Casino) (Genteiban)
 SLPS_018.35 Chibi Chara Game - Ginga Eiyuu Densetsu (Disc 2) (Let's Sugoroku) (Genteiban)
 SLPS_020.26 Chibi Chara Game - Ginga Eiyuu Densetsu (Disc 2) (Let's Surogoku) (Genteiban)
 SLPS_001.66 Chibi Maruko-chan - Maruko Enikki World
@@ -1287,7 +1287,7 @@ SLES_020.90 Chine - Intrigue dans la Cité Interdite
 SLPS_027.88 Chinmoku no Kantai - The Silent Service
 SLPS_018.53 Chippoke Ralph no Daibouken - The Adventure of Little Ralph
 SLPM_804.33 Chippoke Ralph no Daibouken - The Adventure of Little Ralph (Taikenban)
-SLPS_018.93 Chivas 1-2-3 - Destiny^^! Unmei o Kaeru Mono^^!
+SLPS_018.93 Chivas 1-2-3 - Destiny^! Unmei o Kaeru Mono^!
 SLES_020.79 Chocobo Racing
 SLUS_008.44 Chocobo Racing
 SLPS_019.51 Chocobo Racing - Genkai e no Road
@@ -1312,8 +1312,8 @@ SLPS_014.36 Choro Q Marine - Q-Boat
 SLPS_911.52 Choro Q Marine - Q-Boat
 SLPM_802.27 Choro Q Marine - Q-Boat (Taikenban)
 SLPS_910.15 Choro Q Ver. 1.02
-SLPM_869.02 Choro Q Wonderful^^!
-SLPS_022.05 Choro Q Wonderful^^!
+SLPM_869.02 Choro Q Wonderful^!
+SLPS_022.05 Choro Q Wonderful^!
 SLPM_868.73 Chou Aniki - Kyuukyoku Muteki Ginga Saikyou Otoko
 SLPS_001.83 Chou Aniki - Kyuukyoku Muteki Ginga Saikyou Otoko
 SLPM_800.13 Chou Aniki - Kyuukyoku Muteki Ginga Saikyou Otoko - Shotaiken Manual CD-ROM
@@ -1413,10 +1413,10 @@ PCPX_961.40 Circadia (Taikenban)
 SLPS_003.11 Circuit Beat
 SLES_007.53 Circuit Breakers
 SLUS_006.97 Circuit Breakers
-SLED_014.03 Circuit Breakers (DemoAdd-On Disc) (Demo)
-SLPS_003.61 City Bravo^^!
-SLPS_021.66 City Bravo^^!
-SLPS_024.21 City Bravo^^! Business-hen
+SLED_014.03 Circuit Breakers (Demo-Add-On Disc) (Demo)
+SLPS_003.61 City Bravo^!
+SLPS_021.66 City Bravo^!
+SLPS_024.21 City Bravo^! Business-hen
 SLES_017.94 Civilization II
 SLES_017.95 Civilization II
 SLES_017.96 Civilization II
@@ -1434,8 +1434,8 @@ SLPS_031.87 Cleopatra Fortune
 SLUS_014.91 Cleopatra's Fortune
 SLPM_804.82 Click Manga (Taikenban)
 SLPS_023.54 Click Manga - Click no Hi
-SLPS_021.31 Click Manga - Dynamic Robot Taisen 1 - Shutsugeki^^! Kyoui no Robot Gundan^^!^^!
-SLPS_024.07 Click Manga - Dynamic Robot Taisen 2 - Kyoufu^^! Akuma Zoku Fukkatsu
+SLPS_021.31 Click Manga - Dynamic Robot Taisen 1 - Shutsugeki^! Kyoui no Robot Gundan^!^!
+SLPS_024.07 Click Manga - Dynamic Robot Taisen 2 - Kyoufu^! Akuma Zoku Fukkatsu
 SLPS_021.28 Click Manga - Ginga Eiyuu Densetsu 1 - Eien no Yoru no Naka de
 SLPS_023.53 Click Manga - Ginga Eiyuu Densetsu 2 - Iserlohn Kouryaku
 SLPS_021.30 Click Manga - Opera-za no Kaijin
@@ -1507,7 +1507,7 @@ SLPS_031.15 Colorful Logic 2
 SLPS_032.39 Colorful Logic 3
 SLPS_019.04 Combat Choro Q
 SLPM_865.15 Combi Mahjong Awase uchi with Maboroshi Tsukiyo Characters
-SLPS_014.29 Combination Pro Soccer - J.League no Kantoku ni Natte Sekai o Mezase^^!
+SLPS_014.29 Combination Pro Soccer - J.League no Kantoku ni Natte Sekai o Mezase^!
 SLPM_804.02 Comic Bom Bom - DigimonWorld Premium Disc
 SLPM_805.36 Comic Bom Bom - Special Movie Disc
 SLED_006.52 Command & Conquer (Demo)
@@ -1534,7 +1534,7 @@ SLES_009.49 Command & Conquer - Red Alert (Disc 1) (Allies)
 SLUS_004.31 Command & Conquer - Red Alert (Disc 1) (Allies)
 SLES_109.49 Command & Conquer - Red Alert (Disc 2) (Soviet)
 SLUS_004.85 Command & Conquer - Red Alert (Disc 2) (Soviet)
-SLED_012.55 Command & Conquer - Red Alert  Bloody Roar (Demo)
+SLED_012.55 Command & Conquer - Red Alert - Bloody Roar (Demo)
 SLES_013.43 Command & Conquer - Red Alert - Retaliation (Disc 1) (Allies)
 SLUS_006.65 Command & Conquer - Red Alert - Retaliation (Disc 1) (Allies)
 SLES_113.43 Command & Conquer - Red Alert - Retaliation (Disc 2) (Soviet)
@@ -1605,17 +1605,17 @@ SCPS_913.04 Crash Bandicoot
 SCUS_949.00 Crash Bandicoot
 SCES_009.67 Crash Bandicoot 2 - Cortex Strikes Back
 SCUS_941.54 Crash Bandicoot 2 - Cortex Strikes Back
-SCPS_100.47 Crash Bandicoot 2 - Cortex no Gyakushuu^^!
-SCPS_451.80 Crash Bandicoot 2 - Cortex no Gyakushuu^^!
-SCPS_910.92 Crash Bandicoot 2 - Cortex no Gyakushuu^^!
-SCPS_913.09 Crash Bandicoot 2 - Cortex no Gyakushuu^^!
-PCPX_960.98 Crash Bandicoot 2 - Cortex no Gyakushuu^^! (Taikenban)
-SCPS_100.73 Crash Bandicoot 3 - Buttobi^^! Sekai Isshuu
-SCPS_453.50 Crash Bandicoot 3 - Buttobi^^! Sekai Isshuu
-SCPS_911.64 Crash Bandicoot 3 - Buttobi^^! Sekai Isshuu
-SCPS_913.18 Crash Bandicoot 3 - Buttobi^^! Sekai Isshuu
-PAPX_900.70 Crash Bandicoot 3 - Buttobi^^! Sekai Isshuu (Taikenban)
-PCPX_961.45 Crash Bandicoot 3 - Buttobi^^! Sekai Isshuu (Taikenban)
+SCPS_100.47 Crash Bandicoot 2 - Cortex no Gyakushuu^!
+SCPS_451.80 Crash Bandicoot 2 - Cortex no Gyakushuu^!
+SCPS_910.92 Crash Bandicoot 2 - Cortex no Gyakushuu^!
+SCPS_913.09 Crash Bandicoot 2 - Cortex no Gyakushuu^!
+PCPX_960.98 Crash Bandicoot 2 - Cortex no Gyakushuu^! (Taikenban)
+SCPS_100.73 Crash Bandicoot 3 - Buttobi^! Sekai Isshuu
+SCPS_453.50 Crash Bandicoot 3 - Buttobi^! Sekai Isshuu
+SCPS_911.64 Crash Bandicoot 3 - Buttobi^! Sekai Isshuu
+SCPS_913.18 Crash Bandicoot 3 - Buttobi^! Sekai Isshuu
+PAPX_900.70 Crash Bandicoot 3 - Buttobi^! Sekai Isshuu (Taikenban)
+PCPX_961.45 Crash Bandicoot 3 - Buttobi^! Sekai Isshuu (Taikenban)
 SCES_014.20 Crash Bandicoot 3 - Warped
 SCPS_101.40 Crash Bandicoot Carnival
 SCPS_913.19 Crash Bandicoot Carnival
@@ -1665,13 +1665,13 @@ SLED_021.19 Croc 2 (Demo)
 SLUS_900.56 Croc 2 (Demo)
 SLPM_863.10 Croc Adventure
 SLPM_804.73 Croc Adventure (Taikenban)
-SLPM_801.73 Croc^^! Pau-Pau Island
-SLPS_010.55 Croc^^! Pau-Pau Island
+SLPM_801.73 Croc^! Pau-Pau Island
+SLPS_010.55 Croc^! Pau-Pau Island
 SLES_005.93 Croc - Legend of the Gobbos
 SLUS_005.30 Croc - Legend of the Gobbos
 SLED_000.38 Croc - Legend of the Gobbos (Demo)
-SLPM_872.35 Croket^^! Kindan no Kinka Box^^!
-SLPM_873.41 Croket^^! Kindan no Kinka Box^^!
+SLPM_872.35 Croket^! Kindan no Kinka Box^!
+SLPM_873.41 Croket^! Kindan no Kinka Box^!
 SLPS_007.13 Cross Romance - Koi to Mahjong to Hanafuda to
 SLPS_025.15 Cross Romance - Koi to Mahjong to Hanafuda to
 SLPM_862.80 Cross Tantei Monogatari (Disc 1)
@@ -1701,7 +1701,7 @@ SLPM_804.77 Culdcept - Cepter's Guild Vol. 2
 SLPM_862.23 Culdcept - Expansion
 SLPM_866.58 Culdcept - Expansion Plus
 SLPS_017.11 Curiosity Kills the Cat Koukishin wa Neko o Korosu ka
-SLPS_018.64 Cyber Daisenryaku - Shutsugeki^^! Haruka-tai
+SLPS_018.64 Cyber Daisenryaku - Shutsugeki^! Haruka-tai
 SLPS_010.48 Cyber Egg - Battle Champion
 SLPS_019.10 Cyber Org
 SCES_000.06 CyberSled
@@ -1758,8 +1758,8 @@ SLPS_910.46 DX Okuman Chouja Game - The Money Battle
 SLPS_021.05 DX Shachou Game
 SLPS_030.71 DX Shachou Game
 SLPS_024.06 Dai-2-Ji Super Robot Taisen
-SLPM_871.56 Dai-2-kai^^! Quiz Darake no Jinsei Game
-SLPM_873.46 Dai-2-kai^^! Quiz Darake no Jinsei Game
+SLPM_871.56 Dai-2-kai^! Quiz Darake no Jinsei Game
+SLPM_873.46 Dai-2-kai^! Quiz Darake no Jinsei Game
 SLPS_025.30 Dai-3-Ji Super Robot Taisen
 SLPS_001.96 Dai-4-Ji Super Robot Taisen S
 SLPS_910.14 Dai-4-Ji Super Robot Taisen S
@@ -1797,16 +1797,16 @@ SLUS_012.81 Dance Dance Revolution - Disney Mix
 SLPM_866.67 Dance Dance Revolution - Disney's Rave
 SLPM_868.31 Dance Dance Revolution - Extra Mix
 SLES_041.29 Dance Europe
-SLPM_861.50 Dance^^! Dance^^! Dance^^!
-SLPM_803.48 Dance^^! Dance^^! Dance^^! (Taikenban)
+SLPM_861.50 Dance^! Dance^! Dance^!
+SLPM_803.48 Dance^! Dance^! Dance^! (Taikenban)
 SLES_041.21 Dance -UK
 SLES_041.61 Dance -UK eXtra Trax
 SLPM_862.10 Dancing Blade Katte ni Momotenshi II - Tears of Eden (Disc 1)
 SLPM_862.11 Dancing Blade Katte ni Momotenshi II - Tears of Eden (Disc 2)
 SLPM_862.12 Dancing Blade Katte ni Momotenshi II - Tears of Eden (Disc 3)
-SLPM_861.00 Dancing Blade Katte ni Momotenshi^^! (Disc 1)
-SLPM_861.01 Dancing Blade Katte ni Momotenshi^^! (Disc 2)
-SLPM_861.02 Dancing Blade Katte ni Momotenshi^^! (Disc 3)
+SLPM_861.00 Dancing Blade Katte ni Momotenshi^! (Disc 1)
+SLPM_861.01 Dancing Blade Katte ni Momotenshi^! (Disc 2)
+SLPM_861.02 Dancing Blade Katte ni Momotenshi^! (Disc 3)
 SLES_040.97 Dancing Stage Fever
 SLES_041.63 Dancing Stage Fusion
 SLPM_865.05 Dancing Stage featuring Dreams Come True
@@ -1884,7 +1884,7 @@ SLUS_000.09 Defcon 5 - Peace Has a Price...
 SLPS_008.53 Defeat Lightning
 SCES_021.74 Defi au Tetris Magique
 SLPS_008.64 Deka Yonku - Tough the Truck
-SLPS_018.10 Dekiru^^! Game Center
+SLPS_018.10 Dekiru^! Game Center
 SLES_038.90 Delta Force Urban Warfare
 SLES_039.19 Delta Force Urban Warfare
 SLES_039.52 Delta Force Urban Warfare
@@ -1927,7 +1927,7 @@ PCPX_960.11 DemoDemo PlayStation Vol. 8
 PCPX_960.13 DemoDemo PlayStation Vol. 9
 SLES_020.18 Demolition Racer
 SLUS_009.69 Demolition Racer
-SLPS_012.15 Dengeki Construction - Ochigee Yarou ze^^!
+SLPS_012.15 Dengeki Construction - Ochigee Yarou ze^!
 SLPM_800.71 Dengeki PlayStation D
 SLPM_802.81 Dengeki PlayStation D10
 SLPM_803.27 Dengeki PlayStation D11
@@ -1983,18 +1983,18 @@ SLPS_004.81 Densetsu no Ogre Battle
 SLPS_910.83 Densetsu no Ogre Battle
 SLPS_022.97 Densetsu-juu no Ana - Monster Complete World Ver. 2
 SLPS_017.53 Densha Daisuki - Plarail ga Ippai
-SLPM_862.63 Densha de Go^^!
-SLPS_011.50 Densha de Go^^!
-SLPM_801.66 Densha de Go^^! (Taikenban)
-SLPM_861.42 Densha de Go^^! 2
-SLPM_866.15 Densha de Go^^! 2
-SLPM_803.46 Densha de Go^^! 2 (Demo)
-SLPM_804.06 Densha de Go^^! 2 (Taikenban)
-SLPM_864.24 Densha de Go^^! Nagoya Tetsudou-hen
-SLPM_805.21 Densha de Go^^! Nagoya Tetsudou-hen (Taikenban)
-SLPM_863.78 Densha de Go^^! Professional Shiyou
-SLPM_867.05 Densha de Go^^! Professional Shiyou
-SLPM_805.11 Densha de Go^^! Professional Shiyou (Taikenban)
+SLPM_862.63 Densha de Go^!
+SLPS_011.50 Densha de Go^!
+SLPM_801.66 Densha de Go^! (Taikenban)
+SLPM_861.42 Densha de Go^! 2
+SLPM_866.15 Densha de Go^! 2
+SLPM_803.46 Densha de Go^! 2 (Demo)
+SLPM_804.06 Densha de Go^! 2 (Taikenban)
+SLPM_864.24 Densha de Go^! Nagoya Tetsudou-hen
+SLPM_805.21 Densha de Go^! Nagoya Tetsudou-hen (Taikenban)
+SLPM_863.78 Densha de Go^! Professional Shiyou
+SLPM_867.05 Densha de Go^! Professional Shiyou
+SLPM_805.11 Densha de Go^! Professional Shiyou (Taikenban)
 SCPS_180.03 Depth
 SLPS_031.31 Derby Jockey 2001
 SLPS_006.16 Derby Jockey R
@@ -2039,8 +2039,8 @@ SLUS_009.12 Destruction Derby Raw
 SLUS_900.79 Destruction Derby Raw (Demo)
 SLUS_900.92 Destruction Derby Raw (Demo)
 SLES_040.73 Destructo 2
-SLPM_860.54 Detana Twinbee Yahoo^^! Deluxe Pack
-SLPS_001.00 Detana Twinbee Yahoo^^! Deluxe Pack
+SLPM_860.54 Detana Twinbee Yahoo^! Deluxe Pack
+SLPS_001.00 Detana Twinbee Yahoo^! Deluxe Pack
 SLES_038.03 Detective Barbie - The Mystery Cruise
 SLUS_012.21 Detective Barbie - The Mystery Cruise
 SLES_041.30 Detective Mouse
@@ -2061,7 +2061,7 @@ SLPS_914.55 DewPrism
 SLES_036.27 Dexter's Laboratory - Mandark's Lab
 SLES_038.29 Dexter's Laboratory - Mandark's Lab
 SLUS_014.21 Dexter's Laboratory - Mandark's Lab
-SLPS_015.03 Dezaemon Kids^^!
+SLPS_015.03 Dezaemon Kids^!
 SLPS_003.35 Dezaemon Plus
 SLPS_015.04 Dezaemon Plus Select 100
 SLES_011.56 Diablo
@@ -2134,15 +2134,15 @@ SLPM_805.87 Dioramos (Taikenban)
 SLPS_021.46 Dirt Champ Motocross No. 1
 SLPM_805.01 Dirt Champ Motocross No. 1 (Taikenban)
 SLUS_015.52 Dirt Jockey - Heavy Equipment Operator
-SLPS_024.28 Disc Derby - Meiba o Tsukurou^^!^^!
+SLPS_024.28 Disc Derby - Meiba o Tsukurou^!^!
 SLPM_801.69 Disc Station Bessatsu - I Miss You. Tanaka Katsumi
 SLPS_002.51 Discworld
 SLPS_026.56 Discworld
 SLED_011.09 Discworld II (Demo)
-SLES_007.93 Discworld II - Missing Presumed...^^!
-SCUS_946.05 Discworld II - Mortality Bytes^^!
+SLES_007.93 Discworld II - Missing Presumed...^!
+SCUS_946.05 Discworld II - Mortality Bytes^!
 SLES_007.94 Discworld II - Mortellement Votre
-SLES_007.95 Discworld II - Vermutlich vermisst...^^!
+SLES_007.95 Discworld II - Vermutlich vermisst...^!
 SLES_015.49 Discworld Noir
 SLES_020.63 Discworld Noir
 SLES_020.64 Discworld Noir
@@ -2157,13 +2157,13 @@ SCES_035.41 Disney Atlantis - El Imperio Perdido
 SCES_035.39 Disney Atlantis - L'Impero Perduto
 SCES_035.43 Disney Atlântida - O Continente Perdido
 SCES_037.15 Disney Aventuras de Peter Pan en el País de Nunca Jamás
-SLES_036.38 Disney Dingo Une Journée de Dingue^^!
+SLES_036.38 Disney Dingo Une Journée de Dingue^!
 SLES_028.91 Disney Dinosaure
 SLES_028.93 Disney Dinosauri
 SLES_028.94 Disney Dinosaurio
 SCES_030.18 Disney El Emperador y sus Locuras
 SCES_039.41 Disney El Planeta del Tesoro
-SCES_020.04 Disney Fais Ton Histoire^^! Mulan
+SCES_020.04 Disney Fais Ton Histoire^! Mulan
 SCES_039.40 Disney Il Pianeta del Tesoro
 SLES_032.71 Disney Il Re Leone - La Grande Avventura di Simba
 SCES_008.92 Disney Jeu d'Action Disney Présente Hercule
@@ -2187,7 +2187,7 @@ SCES_037.17 Disney Peter Pan - Aventuras na Terra do Nunca
 SCES_037.11 Disney Peter Pan - Aventures au Pays Imaginaire
 SCES_037.13 Disney Peter Pan - L'Avventura nell'Isola che non c'è
 SLES_036.40 Disney Pippo Giochi Pazzi
-SCES_037.49 Disney Pooh e Tigro^^! È Qui la Festa
+SCES_037.49 Disney Pooh e Tigro^! È Qui la Festa
 SLUS_012.10 Disney Presents Tigger's Honey Hunt
 SLUS_015.36 Disney Presents Tigger's Honey Hunt
 SCES_015.16 Disney Tarzan
@@ -2197,7 +2197,7 @@ SLES_032.59 Disney Tigger tras un Bote de Miel
 SLES_032.58 Disney Tigro e la Caccia al Miele
 SLES_032.56 Disney Winnie l'Ourson - La Chasse au Miel de Tigrou
 SLES_032.69 Disney le Roi Lion - La Formidable Aventure de Simba
-SCES_037.48 Disney ¡Ven a la Fiesta^^! con Winnie the Pooh
+SCES_037.48 Disney ¡Ven a la Fiesta^! con Winnie the Pooh
 SLUS_015.74 Disney's 101 Dalmatians II - Patch's London Adventure
 SLES_031.89 Disney's 102 Dalmatians - Puppies to the Rescue
 SLES_031.90 Disney's 102 Dalmatians - Puppies to the Rescue
@@ -2243,7 +2243,7 @@ SCED_038.83 Disney's Peter Pan - Adventures in Never Land (Demo)
 SCES_037.09 Disney's Peter Pan - Avonturen in Nooitgedachtland
 SCES_039.42 Disney's Piratenplaneet - De Schat van Kapitein Flint
 SLUS_014.37 Disney's Pooh's Party Game - In Search of the Treasure
-SCES_037.46 Disney's Spelen met Winnie de Poeh en zijn Vriendjes^^!
+SCES_037.46 Disney's Spelen met Winnie de Poeh en zijn Vriendjes^!
 SLUS_010.38 Disney's Story Studio - Mulan
 SCES_014.31 Disney's Tarzan
 SCES_021.85 Disney's Tarzan
@@ -2261,56 +2261,56 @@ SLES_031.79 Disney's Tigger's Honey Hunt
 SCES_039.37 Disney's Treasure Planet
 SCUS_946.47 Disney's Treasure Planet
 SCES_022.64 Disney's Verhalenstudio - Mulan
-SCES_037.06 Disney's Winnie L'Ourson - C' Est La Recre^^!
+SCES_037.06 Disney's Winnie L'Ourson - C' Est La Recre^!
 SLUS_015.13 Disney's Winnie the Pooh - Kindergarten
 SLUS_015.14 Disney's Winnie the Pooh - Preschool
 SLES_033.15 Disney-Pixar's Buzz Lightyear - Guardianes del Espacio
-SCES_014.89 DisneyPixar A Bug's Life
-SCES_015.20 DisneyPixar A Bug's Life
-SCUS_942.88 DisneyPixar A Bug's Life
-SLPM_863.30 DisneyPixar A Bug's Life
-SLUS_015.38 DisneyPixar A Bug's Life
-SCES_024.59 DisneyPixar A Bug's Life - Atelier de Jeux
-SCES_020.14 DisneyPixar A Bug's Life - Disney's Activity Centre
-SCES_024.60 DisneyPixar A Bug's Life - Disneys Malen und Spielen
-SCES_015.22 DisneyPixar A Bug's Life - Megaminimondo
-SCES_015.23 DisneyPixar Bichos - Una Aventura en Miniatura
-SCES_024.61 DisneyPixar Bottega dei Giochi - A Bug's Life Megaminimondo
-SLES_033.14 DisneyPixar Buzz Lightyear da Comando Stellare
-SLES_033.10 DisneyPixar Buzz Lightyear of Star Command
-SLUS_011.92 DisneyPixar Buzz Lightyear of Star Command
-SLES_033.13 DisneyPixar Captain Buzz Lightyear - Star Command
-SCES_015.21 DisneyPixar Das grosse Krabbeln
-SCES_037.64 DisneyPixar Die Monster AG - Schreckens-Insel
-SCES_015.25 DisneyPixar Een Luizenleven
-SCES_015.26 DisneyPixar Ett småkryps liv
-SCES_015.24 DisneyPixar Græs-Rødderne
-SLES_033.12 DisneyPixar Les Aventures de Buzz L'Éclair
-SCES_037.66 DisneyPixar Monsterbedriften - Skrekkøya
-SCES_037.62 DisneyPixar Monsterit Oy - Säikkysaari
-SCES_037.65 DisneyPixar Monsters & Co. - L'Isola dello Spavento
-SCES_037.61 DisneyPixar Monsters en Co. - Schrik Eiland
-SCES_037.69 DisneyPixar Monsters, Inc. - Monstros e Companhia - Ilha Assustadora
-SCES_037.59 DisneyPixar Monsters, Inc. - Scare Island
-SCED_038.11 DisneyPixar Monsters, Inc. - Scare Island (Demo)
-SCUS_946.35 DisneyPixar Monsters, Inc. - Scream Team
-SCES_037.68 DisneyPixar Monsters, Inc. - Skrämmarön
-SCES_037.60 DisneyPixar Monsters, Inc. - Skræmmeøen
-SCES_037.63 DisneyPixar Monstres & Cie - L'ile de l'Épouvante
-SCES_037.67 DisneyPixar Monstruos, S.A. - Isla de los Sustos
-SCES_017.38 DisneyPixar Små-kryp
-SLES_024.06 DisneyPixar Toy Story 2 - Buzz Lightyear eilt zur Hilfe^^!
-SLES_020.67 DisneyPixar Toy Story 2 - Buzz Lightyear to the Rescue^^!
-SLUS_008.93 DisneyPixar Toy Story 2 - Buzz Lightyear to the Rescue^^!
-SLED_024.16 DisneyPixar Toy Story 2 - Buzz Lightyear to the Rescue^^! (Demo)
-SLES_024.05 DisneyPixar Toy Story 2 - Buzz l'Eclair à la Rescousse^^!
-SLES_024.07 DisneyPixar Toy Story 2 - Woody e Buzz alla riscossa^^!
-SLES_024.08 DisneyPixar Toy Story 2 - ¡Buzz Lightyear al Rescate^^!
-SLES_033.96 DisneyPixar Toy Story Racer
-SLES_033.97 DisneyPixar Toy Story Racer
-SLES_033.98 DisneyPixar Toy Story Racer
-SLUS_012.14 DisneyPixar Toy Story Racer
-SCES_017.37 DisneyPixar Ötökän elämää
+SCES_014.89 Disney-Pixar A Bug's Life
+SCES_015.20 Disney-Pixar A Bug's Life
+SCUS_942.88 Disney-Pixar A Bug's Life
+SLPM_863.30 Disney-Pixar A Bug's Life
+SLUS_015.38 Disney-Pixar A Bug's Life
+SCES_024.59 Disney-Pixar A Bug's Life - Atelier de Jeux
+SCES_020.14 Disney-Pixar A Bug's Life - Disney's Activity Centre
+SCES_024.60 Disney-Pixar A Bug's Life - Disneys Malen und Spielen
+SCES_015.22 Disney-Pixar A Bug's Life - Megaminimondo
+SCES_015.23 Disney-Pixar Bichos - Una Aventura en Miniatura
+SCES_024.61 Disney-Pixar Bottega dei Giochi - A Bug's Life Megaminimondo
+SLES_033.14 Disney-Pixar Buzz Lightyear da Comando Stellare
+SLES_033.10 Disney-Pixar Buzz Lightyear of Star Command
+SLUS_011.92 Disney-Pixar Buzz Lightyear of Star Command
+SLES_033.13 Disney-Pixar Captain Buzz Lightyear - Star Command
+SCES_015.21 Disney-Pixar Das grosse Krabbeln
+SCES_037.64 Disney-Pixar Die Monster AG - Schreckens-Insel
+SCES_015.25 Disney-Pixar Een Luizenleven
+SCES_015.26 Disney-Pixar Ett småkryps liv
+SCES_015.24 Disney-Pixar Græs-Rødderne
+SLES_033.12 Disney-Pixar Les Aventures de Buzz L'Éclair
+SCES_037.66 Disney-Pixar Monsterbedriften - Skrekkøya
+SCES_037.62 Disney-Pixar Monsterit Oy - Säikkysaari
+SCES_037.65 Disney-Pixar Monsters & Co. - L'Isola dello Spavento
+SCES_037.61 Disney-Pixar Monsters en Co. - Schrik Eiland
+SCES_037.69 Disney-Pixar Monsters, Inc. - Monstros e Companhia - Ilha Assustadora
+SCES_037.59 Disney-Pixar Monsters, Inc. - Scare Island
+SCED_038.11 Disney-Pixar Monsters, Inc. - Scare Island (Demo)
+SCUS_946.35 Disney-Pixar Monsters, Inc. - Scream Team
+SCES_037.68 Disney-Pixar Monsters, Inc. - Skrämmarön
+SCES_037.60 Disney-Pixar Monsters, Inc. - Skræmmeøen
+SCES_037.63 Disney-Pixar Monstres & Cie - L'ile de l'Épouvante
+SCES_037.67 Disney-Pixar Monstruos, S.A. - Isla de los Sustos
+SCES_017.38 Disney-Pixar Små-kryp
+SLES_024.06 Disney-Pixar Toy Story 2 - Buzz Lightyear eilt zur Hilfe^!
+SLES_020.67 Disney-Pixar Toy Story 2 - Buzz Lightyear to the Rescue^!
+SLUS_008.93 Disney-Pixar Toy Story 2 - Buzz Lightyear to the Rescue^!
+SLED_024.16 Disney-Pixar Toy Story 2 - Buzz Lightyear to the Rescue^! (Demo)
+SLES_024.05 Disney-Pixar Toy Story 2 - Buzz l'Eclair à la Rescousse^!
+SLES_024.07 Disney-Pixar Toy Story 2 - Woody e Buzz alla riscossa^!
+SLES_024.08 Disney-Pixar Toy Story 2 - ¡Buzz Lightyear al Rescate^!
+SLES_033.96 Disney-Pixar Toy Story Racer
+SLES_033.97 Disney-Pixar Toy Story Racer
+SLES_033.98 Disney-Pixar Toy Story Racer
+SLUS_012.14 Disney-Pixar Toy Story Racer
+SCES_017.37 Disney-Pixar Ötökän elämää
 SCES_030.03 Disneyn Aladdin - Nasiran Kosto
 SCES_035.36 Disneyn Atlantis - Kadonnut Kaupunki
 SCES_030.13 Disneyn Keisarin Uudet Kuviot
@@ -2333,8 +2333,8 @@ SCES_008.93 Disneys Hercules Action-Spiel
 SCES_020.05 Disneys Interaktive Abenteuer - Mulan
 SCES_030.19 Disneys Kejsarens Nya Stil
 SCES_030.11 Disneys Kejserens Nye Flip
-SCES_038.79 Disneys Lilo & Stitch - Ballade på Hawaii^^!
-SCES_038.80 Disneys Lilo & Stitch - Hula Baluba^^!
+SCES_038.79 Disneys Lilo & Stitch - Ballade på Hawaii^!
+SCES_038.80 Disneys Lilo & Stitch - Hula Baluba^!
 SCES_038.78 Disneys Lilo & Stitch - Trubbel i Paradiset
 SCES_038.73 Disneys Lilo & Stitch - Zoff auf Hawaii
 SCES_037.14 Disneys Peter Pan - Eventyr i Drømmeland
@@ -2360,13 +2360,13 @@ SLES_015.35 Diver's Dream
 SLPS_013.64 DoDonPachi
 SLPM_802.86 DoDonPachi (Taikenban)
 SLES_010.82 Dodgem Arena
-SLPS_015.59 Dokapon^^! Ikari no Tekken
-SLPS_911.90 Dokapon^^! Ikari no Tekken
-SLPM_802.94 Dokapon^^! Ikari no Tekken (Taikenban)
+SLPS_015.59 Dokapon^! Ikari no Tekken
+SLPS_911.90 Dokapon^! Ikari no Tekken
+SLPM_802.94 Dokapon^! Ikari no Tekken (Taikenban)
 SLPS_014.54 Doki Doki On Air
 SLPS_019.42 Doki Doki On Air 2
-SLPS_015.73 Doki Doki Poyatchio^^!^^!
-SLPM_802.85 Doki Doki Poyatchio^^!^^! (Taikenban)
+SLPS_015.73 Doki Doki Poyatchio^!^!
+SLPM_802.85 Doki Doki Poyatchio^!^! (Taikenban)
 SLPS_007.56 Doki Doki Pretty League
 SLPS_005.13 Doki Doki Pretty League (Shokai Genteiban)
 SLPS_026.73 Doki Doki Pretty League - Lovely Star
@@ -2377,8 +2377,8 @@ SLPM_869.88 Doki Doki Shutter Chance - Koi no Puzzle o Kumitatete
 SLPS_010.38 Doki Doki Shutter Chance - Koi no Puzzle o Kumitatete
 SLPS_001.30 Dokiou-ki
 SLPS_028.19 Doko Demo Hamster 2
-SLPS_032.50 Doko Demo Hamster 4 - Doki Doki Sugoroku Daibouken^^!
-SLPS_033.56 Doko Demo Hamster - Bi^^! Click Tankentai
+SLPS_032.50 Doko Demo Hamster 4 - Doki Doki Sugoroku Daibouken^!
+SLPS_033.56 Doko Demo Hamster - Bi^! Click Tankentai
 SCPM_850.06 Doko Demo Issho
 SCPS_100.92 Doko Demo Issho
 SCPS_101.42 Doko Demo Issho
@@ -2397,18 +2397,18 @@ SLES_001.32 Doom
 SLPS_003.08 Doom
 SLUS_000.77 Doom
 SLES_001.57 Doom (One Level Demo Disc) (Demo)
-SLPS_006.28 Doraemon 2 - SOS^^! Otogi no Kuni
+SLPS_006.28 Doraemon 2 - SOS^! Otogi no Kuni
 SLPS_030.76 Doraemon 3 - Makai no Dungeon
 SLPS_002.33 Doraemon - Nobita to Fukkatsu no Hoshi
 SLPS_017.26 Doraemon - Nobita to Fukkatsu no Hoshi
 SLPS_019.84 Dosukoi Densetsu
-SCPS_101.29 Dotchi Mecha^^!
-SLPS_013.62 Dotchi de Ball^^!
+SCPS_101.29 Dotchi Mecha^!
+SLPS_013.62 Dotchi de Ball^!
 SLPS_028.91 Dotsubo-chan
 SLPS_001.91 Double Dragon
 SCED_022.57 Double Impact - Double Life (Games) (Demo)
 SLPS_035.26 Doubutsu Chara Navi Uranai 2 - Kosei Shinrigaku + Ren'ai Uranai Puzzle
-SLPS_000.77 Douga de Puzzle da^^! Puppukupuu
+SLPS_000.77 Douga de Puzzle da^! Puppukupuu
 SLPS_020.11 Doukyuu Re-mix - Billiards Multiple
 SLPS_013.85 Doukyuu - Billiard Master
 SLPS_023.63 Doukyuu - Billiard Master
@@ -2417,7 +2417,7 @@ SLPS_006.91 Doukyuusei 2
 SLPM_864.69 Doukyuusei Mahjong
 SLPS_006.73 Doukyuusei Mahjong
 SLPS_013.91 Downhill Snow
-SLPM_871.71 Dr. Rin ni Kiite Mite^^! Koi no Happy Four Seasons
+SLPM_871.71 Dr. Rin ni Kiite Mite^! Koi no Happy Four Seasons
 SLPS_019.34 Dr. Slump
 SLES_033.50 Dracula 2 - Die letzte Zufluchtsstätte (Disc 1)
 SLES_133.50 Dracula 2 - Die letzte Zufluchtsstätte (Disc 2)
@@ -2505,8 +2505,8 @@ SLUS_002.26 DragonHeart - Fire & Steel
 SLPS_010.67 Dragonbeat - Legend of Pinball
 SLES_035.25 Dragstars
 SLPS_018.36 Dream Circus
-SLPS_014.82 Dream Generation - Koi ka Shigoto ka^^!...
-SLPS_022.70 Dream Generation - Koi ka Shigoto ka^^!...
+SLPS_014.82 Dream Generation - Koi ka Shigoto ka^!...
+SLPS_022.70 Dream Generation - Koi ka Shigoto ka^!...
 SLES_019.38 Dream Story - Les Aventures de Tim et Lola
 SLES_007.14 Dreams
 SLPM_800.37 Drift King Shutokou Battle - Tsuchiya Keiichi & Bandou Masaaki
@@ -2533,11 +2533,11 @@ SLES_129.94 Driver 2 - Back on the Streets (Disc 2)
 SLES_129.95 Driver 2 - Back on the Streets (Disc 2)
 SLES_129.96 Driver 2 - Back on the Streets (Disc 2)
 SLES_129.97 Driver 2 - Back on the Streets (Disc 2)
-SLPS_026.13 Driver - Sennyuu^^! Car Chase Daisakusen
-SLPS_032.73 Driver - Sennyuu^^! Car Chase Daisakusen
+SLPS_026.13 Driver - Sennyuu^! Car Chase Daisakusen
+SLPS_032.73 Driver - Sennyuu^! Car Chase Daisakusen
 SLUS_008.42 Driver - You Are the Wheelman
 SLUS_900.53 Driver - You Are the Wheelman (Demo)
-SLPS_024.66 Driver - You Are the Wheelman  V-Rally - Championship Edition 2 (Taikenban)
+SLPS_024.66 Driver - You Are the Wheelman - V-Rally - Championship Edition 2 (Taikenban)
 SLPS_012.46 Druid - Yami e no Tsuisekisha
 SLES_027.62 Drácula - A Ressurreição (Disc 1)
 SLES_127.62 Drácula - A Ressurreição (Disc 2)
@@ -2691,11 +2691,11 @@ SLPS_015.84 End Sector
 SLPM_803.28 End Sector (Taikenban)
 SLPM_865.37 Enen Angel
 SLPS_914.59 Enen Angel
-SLPS_022.63 Engacho^^!
+SLPS_022.63 Engacho^!
 SLPS_013.51 Enigma (Disc 1)
 SLPS_013.52 Enigma (Disc 2)
 SLPS_019.37 Enomoto Kanako no Boke Shindan Game
-SLPS_000.51 Entertainment Jansou - That's Pon^^!
+SLPS_000.51 Entertainment Jansou - That's Pon^!
 SLPS_014.65 Epica Stella
 SCES_003.93 Epidemic
 SCUS_941.52 Epidemic
@@ -2739,70 +2739,70 @@ SCED_040.74 Euro Demo (Future) 95
 SCED_040.75 Euro Demo (Future) 96
 SCED_040.76 Euro Demo (Future) 97
 SCED_040.77 Euro Demo (Future) 98
-SCED_039.05 Euro Demo (Germany) 0304-2003
+SCED_039.05 Euro Demo (Germany) 03-04-2003
 SCES_001.07 Euro Demo 01
-SCED_018.44 Euro Demo 0100
-SCED_026.66 Euro Demo 0101
-SCED_011.30 Euro Demo 0199
+SCED_018.44 Euro Demo 01-00
+SCED_026.66 Euro Demo 01-01
+SCED_011.30 Euro Demo 01-99
 SLES_001.50 Euro Demo 02
-SCED_018.45 Euro Demo 0200
-SCED_026.67 Euro Demo 0201
-SCED_017.77 Euro Demo 0299
-SCED_017.86 Euro Demo 0299 Rennspiele
+SCED_018.45 Euro Demo 02-00
+SCED_026.67 Euro Demo 02-01
+SCED_017.77 Euro Demo 02-99
+SCED_017.86 Euro Demo 02-99 Rennspiele
 SLES_001.81 Euro Demo 03
-SCED_018.46 Euro Demo 0300
-SCED_026.68 Euro Demo 0301
-SCED_018.34 Euro Demo 0399
+SCED_018.46 Euro Demo 03-00
+SCED_026.68 Euro Demo 03-01
+SCED_018.34 Euro Demo 03-99
 SCES_001.82 Euro Demo 04
 SLES_001.82 Euro Demo 04
-SCED_018.47 Euro Demo 0400
-SCED_026.69 Euro Demo 0401
-SCED_011.21 Euro Demo 0498
-SCED_018.35 Euro Demo 0499
-SCED_019.95 Euro Demo 0499 'Action Special'
+SCED_018.47 Euro Demo 04-00
+SCED_026.69 Euro Demo 04-01
+SCED_011.21 Euro Demo 04-98
+SCED_018.35 Euro Demo 04-99
+SCED_019.95 Euro Demo 04-99 'Action Special'
 SCES_001.83 Euro Demo 05
-SCED_018.48 Euro Demo 0500
-SCED_011.22 Euro Demo 0598
-SCED_018.36 Euro Demo 0599
+SCED_018.48 Euro Demo 05-00
+SCED_011.22 Euro Demo 05-98
+SCED_018.36 Euro Demo 05-99
 SCES_001.84 Euro Demo 06
-SCED_026.59 Euro Demo 0600
-SCED_011.23 Euro Demo 0698
-SCED_018.37 Euro Demo 0699
-SCED_020.50 Euro Demo 0699 'Special'
+SCED_026.59 Euro Demo 06-00
+SCED_011.23 Euro Demo 06-98
+SCED_018.37 Euro Demo 06-99
+SCED_020.50 Euro Demo 06-99 'Special'
 SCED_006.68 Euro Demo 07
 SCES_001.85 Euro Demo 07
-SCED_026.60 Euro Demo 0700
-SCED_011.24 Euro Demo 0798
-SCED_018.38 Euro Demo 0799
+SCED_026.60 Euro Demo 07-00
+SCED_011.24 Euro Demo 07-98
+SCED_018.38 Euro Demo 07-99
 SCES_001.86 Euro Demo 08
-SCED_026.61 Euro Demo 0800
-SCED_011.25 Euro Demo 0898
-SCED_018.39 Euro Demo 0899
+SCED_026.61 Euro Demo 08-00
+SCED_011.25 Euro Demo 08-98
+SCED_018.39 Euro Demo 08-99
 SCED_008.90 Euro Demo 08b
 SCED_003.61 Euro Demo 09
 SCED_006.74 Euro Demo 09
 SCED_007.72 Euro Demo 09
-SCED_026.62 Euro Demo 0900
-SCED_011.26 Euro Demo 0998
-SCED_018.40 Euro Demo 0999
+SCED_026.62 Euro Demo 09-00
+SCED_011.26 Euro Demo 09-98
+SCED_018.40 Euro Demo 09-99
 SCED_003.62 Euro Demo 10
 SCED_006.75 Euro Demo 10
 SCED_007.73 Euro Demo 10
-SCED_026.63 Euro Demo 1000
-SCED_011.27 Euro Demo 1098
-SCED_018.41 Euro Demo 1099
+SCED_026.63 Euro Demo 10-00
+SCED_011.27 Euro Demo 10-98
+SCED_018.41 Euro Demo 10-99
 SCED_003.63 Euro Demo 11
 SCED_006.76 Euro Demo 11
 SCED_007.74 Euro Demo 11
-SCED_026.64 Euro Demo 1100
-SCED_011.28 Euro Demo 1198
-SCED_018.42 Euro Demo 1199
+SCED_026.64 Euro Demo 11-00
+SCED_011.28 Euro Demo 11-98
+SCED_018.42 Euro Demo 11-99
 SCED_003.64 Euro Demo 12
 SCED_006.77 Euro Demo 12
 SCED_007.75 Euro Demo 12
-SCED_026.65 Euro Demo 1200
-SCED_011.29 Euro Demo 1298
-SCED_018.43 Euro Demo 1299
+SCED_026.65 Euro Demo 12-00
+SCED_011.29 Euro Demo 12-98
+SCED_018.43 Euro Demo 12-99
 SCED_003.65 Euro Demo 13
 SCED_006.78 Euro Demo 13
 SCED_007.76 Euro Demo 13
@@ -2935,26 +2935,26 @@ SCED_009.94 Euro Demo Classics Special
 SCED_006.70 Euro Demo Five
 SCED_006.69 Euro Demo Four
 SCED_040.35 Euro Demo Future 93
-SCED_034.76 Euro Demo Germany 0102
-SCED_039.03 Euro Demo Germany 0103
-SCED_034.77 Euro Demo Germany 0202
-SCED_034.78 Euro Demo Germany 0302
-SCED_034.79 Euro Demo Germany 0402
-SCED_034.68 Euro Demo Germany 0501
-SCED_038.87 Euro Demo Germany 0502
-SCED_034.69 Euro Demo Germany 0601
-SCED_038.92 Euro Demo Germany 0602
-SCED_034.70 Euro Demo Germany 0701
-SCED_038.93 Euro Demo Germany 0702
-SCED_034.71 Euro Demo Germany 0801
-SCED_038.94 Euro Demo Germany 0802
-SCED_034.72 Euro Demo Germany 0901
-SCED_038.95 Euro Demo Germany 0902
-SCED_034.73 Euro Demo Germany 1001
-SCED_038.96 Euro Demo Germany 1002
-SCED_034.74 Euro Demo Germany 1101
-SCED_038.97 Euro Demo Germany 1102
-SCED_034.75 Euro Demo Germany 1201
+SCED_034.76 Euro Demo Germany 01-02
+SCED_039.03 Euro Demo Germany 01-03
+SCED_034.77 Euro Demo Germany 02-02
+SCED_034.78 Euro Demo Germany 03-02
+SCED_034.79 Euro Demo Germany 04-02
+SCED_034.68 Euro Demo Germany 05-01
+SCED_038.87 Euro Demo Germany 05-02
+SCED_034.69 Euro Demo Germany 06-01
+SCED_038.92 Euro Demo Germany 06-02
+SCED_034.70 Euro Demo Germany 07-01
+SCED_038.93 Euro Demo Germany 07-02
+SCED_034.71 Euro Demo Germany 08-01
+SCED_038.94 Euro Demo Germany 08-02
+SCED_034.72 Euro Demo Germany 09-01
+SCED_038.95 Euro Demo Germany 09-02
+SCED_034.73 Euro Demo Germany 10-01
+SCED_038.96 Euro Demo Germany 10-02
+SCED_034.74 Euro Demo Germany 11-01
+SCED_038.97 Euro Demo Germany 11-02
+SCED_034.75 Euro Demo Germany 12-01
 SCED_006.72 Euro Demo Seven
 SCED_006.71 Euro Demo Six
 SCED_006.22 Euro Demo Three
@@ -3144,7 +3144,7 @@ SLPS_034.88 Family Igo 2
 SLPS_033.78 Family Igo - Super Strong
 SLPS_034.89 Family Shougi 2
 SLPS_033.77 Family Shougi - Super Strong
-SLPS_016.65 Famires e Youkoso^^!
+SLPS_016.65 Famires e Youkoso^!
 SLPM_804.83 Famitsu Wave 10gatsu-gou Vol. 15
 SLPM_804.98 Famitsu Wave 11gatsu-gou Vol. 16
 SLPM_803.12 Famitsu Wave 11gatsu-gou Vol. 4
@@ -3403,7 +3403,7 @@ SLPS_910.40 Fish Eyes
 SLPS_914.58 Fish Eyes
 SLPS_023.83 Fish Eyes II
 SLPM_805.23 Fish Eyes II (Taikenban)
-SLPS_022.88 Fish On^^! Bass
+SLPS_022.88 Fish On^! Bass
 SLPS_019.43 Fisher's Road
 SLES_025.96 Fisherman's Bait 2 - Big Ol' Bass
 SLUS_009.99 Fisherman's Bait 2 - Big Ol' Bass
@@ -3453,7 +3453,7 @@ SLES_007.26 Formula Karts - Special Edition
 SLED_004.47 Formula Karts - Special Edition (Demo)
 SLES_025.26 Formula Nippon
 SLES_025.27 Formula Nippon
-SLPS_022.59 Formula Nippon '99 - Racing Driver ni Narou^^!
+SLPS_022.59 Formula Nippon '99 - Racing Driver ni Narou^!
 SLED_004.91 Formula One (Demo)
 SCES_027.77 Formula One 2000
 SCES_027.78 Formula One 2000
@@ -3488,14 +3488,14 @@ SLES_001.00 Frank Thomas Big Hurt Baseball
 SLPS_004.53 Frank Thomas Big Hurt Baseball
 SLUS_000.10 Frank Thomas Big Hurt Baseball
 SLES_012.67 Frankreich 98 - Die Fußball-WM
-SCED_040.09 Free Spin Demo Disc^^! (Press Kit)
-SCED_040.12 Free Spin Demo Disc^^! Völlig Gratis Demo Disc^^! (Demo)
+SCED_040.09 Free Spin Demo Disc^! (Press Kit)
+SCED_040.12 Free Spin Demo Disc^! Völlig Gratis Demo Disc^! (Demo)
 SLPS_009.85 Free Talk Studio - Mari no Kimamana Oshaberi
 SLUS_007.67 Freestyle Boardin' '99
 SLES_028.20 Freestyle Motocross - McGrath vs. Pastrana
 SLUS_001.22 Freestyle Motocross - McGrath vs. Pastrana
 SLES_033.63 Freestyle Scooter
-SLES_007.84 Frenzy^^!
+SLES_007.84 Frenzy^!
 SLES_007.04 Frogger
 SLPS_013.99 Frogger
 SLUS_005.06 Frogger
@@ -3503,11 +3503,11 @@ SLPM_802.41 Frogger (Taikenban)
 SLES_028.53 Frogger 2 - Swampy's Revenge
 SLUS_011.72 Frogger 2 - Swampy's Revenge
 SLPM_802.68 From Software 1998 Summer Preview Movies
-SLPS_031.64 From TV Animation One Piece - Grand Battle^^!
-SLPS_034.08 From TV Animation One Piece - Grand Battle^^! 2
-SLPS_035.50 From TV Animation One Piece - Oceans of Dreams^^!
-SLPS_032.51 From TV Animation One Piece - Tobidase Kaizokudan^^!
-SLPS_032.52 From TV Animation One Piece - Tobidase Kaizokudan^^!
+SLPS_031.64 From TV Animation One Piece - Grand Battle^!
+SLPS_034.08 From TV Animation One Piece - Grand Battle^! 2
+SLPS_035.50 From TV Animation One Piece - Oceans of Dreams^!
+SLPS_032.51 From TV Animation One Piece - Tobidase Kaizokudan^!
+SLPS_032.52 From TV Animation One Piece - Tobidase Kaizokudan^!
 SLPM_873.17 Front Mission 1st
 SLPM_873.30 Front Mission 1st
 SCPS_451.16 Front Mission 2
@@ -3525,9 +3525,9 @@ SLPM_804.67 Front Mission 3 (Taikenban)
 SLPM_873.98 Front Mission Alternative
 SLPS_009.53 Front Mission Alternative
 SLES_027.67 Frontschweine
-SLPS_023.07 Fun^^! Fun^^! Pingu - Youkoso^^! Nankyoku e
-SLPS_023.06 Fun^^! Fun^^! Pingu - Youkoso^^! Nankyoku e (Genteiban)
-SLPM_804.86 Fun^^! Fun^^! Pingu - Youkoso^^! Nankyoku e (Taikenban)
+SLPS_023.07 Fun^! Fun^! Pingu - Youkoso^! Nankyoku e
+SLPS_023.06 Fun^! Fun^! Pingu - Youkoso^! Nankyoku e (Genteiban)
+SLPM_804.86 Fun^! Fun^! Pingu - Youkoso^! Nankyoku e (Taikenban)
 SLPS_034.96 Funky Boxers
 SLPM_868.08 Furimukeba Tonari ni
 SLPM_866.42 Fushigi Deka
@@ -3607,13 +3607,13 @@ SLPS_020.75 GaiaMaster - Kamigami no Board Game
 SLPM_805.24 GaiaMaster - Kamigami no Board Game (Taikenban)
 SLPS_006.24 GaiaSeed - Project Seed Trap
 SLPS_004.04 Gakkou de Atta Kowai Hanashi S
-SLPS_000.78 Gakkou no Kowai Uwasa - Hanako-san ga Kita^^!^^!
-SLPS_016.60 Gakkou o Tsukurou^^!^^! 2
-SLPS_914.85 Gakkou o Tsukurou^^!^^! 2
-SLPS_029.98 Gakkou o Tsukurou^^!^^! Kouchou Sensei Monogatari
-SLPS_033.13 Gakkou o Tsukurou^^!^^! Kouchou Sensei Monogatari
-SLPS_011.03 Gakkou o Tsukurou^^!^^! Let's Make a School^^!^^!
-SLPS_911.20 Gakkou o Tsukurou^^!^^! Let's Make a School^^!^^!
+SLPS_000.78 Gakkou no Kowai Uwasa - Hanako-san ga Kita^!^!
+SLPS_016.60 Gakkou o Tsukurou^!^! 2
+SLPS_914.85 Gakkou o Tsukurou^!^! 2
+SLPS_029.98 Gakkou o Tsukurou^!^! Kouchou Sensei Monogatari
+SLPS_033.13 Gakkou o Tsukurou^!^! Kouchou Sensei Monogatari
+SLPS_011.03 Gakkou o Tsukurou^!^! Let's Make a School^!^!
+SLPS_911.20 Gakkou o Tsukurou^!^! Let's Make a School^!^!
 SLPS_018.52 Gakuen Sentai Solblast
 SLES_022.12 Galaga - Destination Earth
 SLUS_012.58 Galaga - Destination Earth
@@ -3649,7 +3649,7 @@ SLPS_026.23 Gallop Racer 2000
 SLPS_019.81 Gallop Racer 3
 SLPS_914.04 Gallop Racer 3
 SLPS_007.74 Game Nihonshi - Kakumeiji Oda Nobunaga
-SLPS_016.07 Game Soft o Tsukurou - Let's Be a Super Game Creator^^!^^!
+SLPS_016.07 Game Soft o Tsukurou - Let's Be a Super Game Creator^!^!
 SLPS_035.49 Game de Hajimeru TOEIC Test - Mazu wa Nyuumon-hen 1500
 SLPS_013.06 Game de Seishun
 SLPS_000.30 Game no Tatsujin
@@ -3659,8 +3659,8 @@ SLPS_032.97 Game no Tatsujin 2
 SLPS_000.96 Game no Tetsujin - The Shanghai
 SLPS_008.33 Gamera 2000
 SLPM_800.93 Gamera 2000 (Taikenban)
-SLPM_861.55 Ganbare Goemon - Kuru nara Koi^^! Ayashige Ikka no Kuroi Kage
-SLPM_865.72 Ganbare Goemon - Kuru nara Koi^^! Ayashige Ikka no Kuroi Kage
+SLPM_861.55 Ganbare Goemon - Kuru nara Koi^! Ayashige Ikka no Kuroi Kage
+SLPM_865.72 Ganbare Goemon - Kuru nara Koi^! Ayashige Ikka no Kuroi Kage
 SLPM_867.74 Ganbare Goemon - Ooedo Daikaiten
 SLPM_869.40 Ganbare Goemon - Ooedo Daikaiten
 SLPM_871.97 Ganbare Goemon - Ooedo Daikaiten
@@ -3668,7 +3668,7 @@ SLPM_860.30 Ganbare Goemon - Uchuu Kaizoku Akogingu
 SLPS_002.17 Ganbare Goemon - Uchuu Kaizoku Akogingu
 SCPS_100.36 Ganbare Morikawa-kun 2-gou
 SCPS_100.33 Ganbare Morikawa-kun 2-gou (Genteiban)
-SLPM_864.82 Ganbare^^! Nippon^^! Olympic 2000
+SLPM_864.82 Ganbare^! Nippon^! Olympic 2000
 SLPS_014.68 Gangway Monsters
 SLPS_013.73 Ganso Family Mahjong
 SLPS_020.94 Ganso Family Mahjong 2
@@ -3683,8 +3683,8 @@ SLES_029.32 Gauntlet Legends
 SLUS_006.24 Gauntlet Legends
 SLUS_806.24 Gauntlet Legends (Trade Demo)
 SLPS_006.44 GeGeGe no Kitarou
-SLPM_872.86 GeGeGe no Kitarou - Gyakushuu^^! Youma Daikessen
-SLPM_873.42 GeGeGe no Kitarou - Gyakushuu^^! Youma Daikessen
+SLPM_872.86 GeGeGe no Kitarou - Gyakushuu^! Youma Daikessen
+SLPM_873.42 GeGeGe no Kitarou - Gyakushuu^! Youma Daikessen
 SLPS_031.89 Gear Fighter Dendoh
 SLPS_020.56 Geki-Oh - Shienryuu
 SLES_012.41 Gekido - Urban Fighters
@@ -3694,11 +3694,11 @@ SLUS_014.98 Gekioh - Shooting King
 SLPS_006.96 Gekiretsu Pachinkers
 SCPS_100.87 Gekisou Tomarunner
 PCPX_961.64 Gekisou Tomarunner (Taikenban)
-SLPS_013.46 Gekisou^^!^^! Grand Racing - Total Drivin'
+SLPS_013.46 Gekisou^!^! Grand Racing - Total Drivin'
 SCPS_101.34 Gekitotsu Toma L'Arc - Tomarunner vs L'Arc-en-Ciel
-SLPS_009.26 Gekitotsu^^! Yonku Battle 4WD
-SLPS_034.53 Gekitou^^! Crush Gear Turbo
-SLPM_840.16 Gekitou^^! Crush Gear Turbo - Comic Bom Bom Special Disc
+SLPS_009.26 Gekitotsu^! Yonku Battle 4WD
+SLPS_034.53 Gekitou^! Crush Gear Turbo
+SLPM_840.16 Gekitou^! Crush Gear Turbo - Comic Bom Bom Special Disc
 SLPS_004.21 Gekka no Kishi - Ouryuu-sen
 SLPS_004.91 Gen'ei Tougi - Shadow Struggle
 SLPM_861.75 Genghis Khan - Aoki Ookami to Shiroki Mejika IV
@@ -3723,11 +3723,11 @@ SLPS_025.63 Gensou no Artemis
 SLPS_000.07 Geom Cube
 SLUS_000.24 Geom Cube
 SLPS_015.75 Geometry Duel
-SCED_023.83 Germany Speziale 1199
+SCED_023.83 Germany Speziale 11-99
 SLPS_021.07 Germs - Nerawareta Machi
 SLPM_868.48 GetBackers - Dakkan'ya
 SLPM_872.02 GetBackers - Dakkan'ya
-SLPS_022.32 Getter Robo Daikessen^^!
+SLPS_022.32 Getter Robo Daikessen^!
 SLES_001.33 Gex
 SLPS_002.44 Gex
 SLUS_000.42 Gex
@@ -3772,10 +3772,10 @@ SLUS_002.95 Goal Storm '97
 SLPS_014.70 Godzilla - Trading Battle
 SLPM_871.96 Goemon - Shin Sedai Shuumei
 SLPS_015.42 Goiken Muyou II
-SLPM_840.11 Gokui Game Creator ni Narou^^!
-SLPM_860.31 Gokujou Parodius Da^^! Deluxe Pack
-SLPM_873.29 Gokujou Parodius Da^^! Deluxe Pack
-SLPS_000.02 Gokujou Parodius Da^^! Deluxe Pack
+SLPM_840.11 Gokui Game Creator ni Narou^!
+SLPM_860.31 Gokujou Parodius Da^! Deluxe Pack
+SLPM_873.29 Gokujou Parodius Da^! Deluxe Pack
+SLPS_000.02 Gokujou Parodius Da^! Deluxe Pack
 SLPS_000.48 Gokuu Densetsu - Magic Beast Warriors
 SLES_029.34 Gold and Glory - The Road to El Dorado
 SLUS_013.12 Gold and Glory - The Road to El Dorado
@@ -3786,7 +3786,7 @@ SLUS_005.55 Golden Nugget (Disc 2)
 SLES_029.52 Goldie
 SLPS_017.12 Golgo 13 Vol. 1 - Carlyle no Yabou
 SLPS_017.13 Golgo 13 Vol. 2 - Mienai Guntai
-SLPM_862.50 Goo^^! Goo^^! Soundy
+SLPM_862.50 Goo^! Goo^! Soundy
 SLPM_800.61 Goo-Cho de Park - Theme Park Monogatari
 SLPS_006.26 Goo-Cho de Park - Theme Park Monogatari
 SLPS_910.66 Goo-Cho de Park - Theme Park Monogatari
@@ -3797,8 +3797,8 @@ SLPS_014.71 Goujin Senki
 SLPS_028.66 Goujin Senki
 SLPM_800.09 Gouketsuji Ichizoku 2 - Chotto dake Saikyou Densetsu
 SLPS_001.04 Gouketsuji Ichizoku 2 - Chotto dake Saikyou Densetsu
-SLPS_033.81 Gourmet Action Game - Manpuku^^!^^! Nabe Kazoku
-SLPM_806.31 Gourmet Action Game - Manpuku^^!^^! Nabe Kazoku (Taikenban)
+SLPS_033.81 Gourmet Action Game - Manpuku^!^! Nabe Kazoku
+SLPM_806.31 Gourmet Action Game - Manpuku^!^! Nabe Kazoku (Taikenban)
 SLPS_003.03 Gradius Deluxe Pack
 SLPM_860.42 Gradius Gaiden
 SLPM_861.03 Gradius Gaiden
@@ -3853,10 +3853,10 @@ SLPS_021.25 Grandia (Disc 2)
 SLPS_912.06 Grandia (Disc 2)
 SLPM_802.97 Grandia - Prelude (Taikenban)
 SLPM_804.36 Grandia - Prelude (Taikenban)
-SLPS_016.24 Granew-tou^^! Daibouken
+SLPS_016.24 Granew-tou^! Daibouken
 SCPS_100.46 Granstream Denki - The Granstream Saga
 PCPX_960.87 Granstream Denki - The Granstream Saga (Taikenban)
-SCED_040.13 Gratis^^! Demo Disc^^!
+SCED_040.13 Gratis^! Demo Disc^!
 SLPM_861.25 Great Hits
 SLPM_803.13 Great Hits (Taikenban)
 SLPS_012.68 Great Rugby Jikkyou '98 - World Cup e no Michi
@@ -3906,8 +3906,8 @@ SLPS_009.29 GunBullet
 SLPS_009.30 GunBullet
 SLPS_911.47 GunBullet
 SLPS_031.00 Gunbalina
-SLPS_013.22 Gunbare^^! Game Tengoku - The Game Paradise 2
-SLPM_803.03 Gunbare^^! Game Tengoku - The Game Paradise 2 (Taikenban)
+SLPS_013.22 Gunbare^! Game Tengoku - The Game Paradise 2
+SLPM_803.03 Gunbare^! Game Tengoku - The Game Paradise 2 (Taikenban)
 SCPS_452.99 Gunbarl
 SLPS_015.00 Gunbarl
 SLPS_911.95 Gunbarl
@@ -3943,18 +3943,18 @@ SLPS_000.41 Gussun Oyoyo
 SLPS_005.88 Gussun Paradise
 SLPM_861.48 Guuguuthropus
 SLPM_803.65 Guuguuthropus (Taikenban)
-SLES_013.60 Guy Roux Football Manager Saison 9798
+SLES_013.60 Guy Roux Football Manager Saison 97-98
 SLES_019.34 Guy Roux Manager '99
 SLES_026.12 Guy Roux Manager 2000
 SLES_034.03 Guy Roux Manager 2001
-SLPS_025.09 Gyuwambler Jiko Chuushinha - Ippatsu Shoubu^^!
+SLPS_025.09 Gyuwambler Jiko Chuushinha - Ippatsu Shoubu^!
 SLES_027.38 HBO Boxing
 SLUS_010.27 HBO Boxing
-SLPM_801.96 Hacha Mecha Pon^^!
+SLPM_801.96 Hacha Mecha Pon^!
 SLPM_860.66 Haishin 2
 SLPS_024.32 Haishin 2
-SLPS_009.45 Hajime no Ippo - The Fighting^^!
-SLPS_910.63 Hajime no Ippo - The Fighting^^!
+SLPS_009.45 Hajime no Ippo - The Fighting^!
+SLPS_910.63 Hajime no Ippo - The Fighting^!
 SLPS_016.77 Hakai-ou - King of Crusher
 SLES_035.84 Haluatko Miljonaariksi
 SLPS_032.66 Hamster Club-i
@@ -4021,7 +4021,7 @@ SLUS_811.15 Harvest Moon - Back to Nature (Trade Demo)
 SLPS_007.04 Hashiriya - Ookami-tachi no Densetsu
 SLPS_008.31 Hatsukoi Valentine
 SLPS_014.52 Hatsukoi Valentine Special
-SLPS_006.68 Haunted Junction - Seitokai Badge o Oe^^!
+SLPS_006.68 Haunted Junction - Seitokai Badge o Oe^!
 LSP99013.101 Head to Toe 1
 LSP99013.201 Head to Toe 2
 LSP99013.301 Head to Toe 3
@@ -4048,20 +4048,20 @@ SLPS_031.59 Heisa Byouin
 SLPS_004.13 Heiwa Pachinko Daisuki
 SLPS_023.74 Heiwa Pachinko Graffiti Vol. 1
 SLPS_024.95 Heiwa Pachinko Graffiti Vol. 2
-SLPS_033.73 Heiwa Parlor^^! Pro - BunDori King SP
-SLPS_026.89 Heiwa Parlor^^! Pro - Dolphin Ring Special
-SLPS_031.05 Heiwa Parlor^^! Pro - Fujiko ni O-Ma-Ka-Se Special
-SLPS_028.70 Heiwa Parlor^^! Pro - Inakappe Taishou Special
-SLPS_025.41 Heiwa Parlor^^! Pro - Lupin Sansei Special
-SLPS_033.70 Heiwa Parlor^^! Pro - Tsunatori Special
-SLPS_025.74 Heiwa Parlor^^! Pro - Western Special
+SLPS_033.73 Heiwa Parlor^! Pro - BunDori King SP
+SLPS_026.89 Heiwa Parlor^! Pro - Dolphin Ring Special
+SLPS_031.05 Heiwa Parlor^! Pro - Fujiko ni O-Ma-Ka-Se Special
+SLPS_028.70 Heiwa Parlor^! Pro - Inakappe Taishou Special
+SLPS_025.41 Heiwa Parlor^! Pro - Lupin Sansei Special
+SLPS_033.70 Heiwa Parlor^! Pro - Tsunatori Special
+SLPS_025.74 Heiwa Parlor^! Pro - Western Special
 SLPS_033.40 Helix - Fear Effect (Disc 1)
 SLPS_033.41 Helix - Fear Effect (Disc 2)
 SLPS_033.42 Helix - Fear Effect (Disc 3)
 SLPS_033.43 Helix - Fear Effect (Disc 4)
 SLUS_014.14 Hellboy - Asylum Seeker
 SLES_015.62 Hellnight
-SLPM_860.83 Hello Charlie^^!^^!
+SLPM_860.83 Hello Charlie^!^!
 SLPS_014.27 Hello Kitty no Cube de Cute
 SLPM_802.44 Hello Kitty no Cube de Cute (Taikenban)
 SLUS_007.78 Hello Kitty - Cube Frenzy
@@ -4087,11 +4087,11 @@ SLPM_805.28 Hexamoon Guardians (Taikenban)
 SLES_005.55 Hexen
 SLUS_003.48 Hexen
 SLPS_009.72 Hexen - Beyond Heretic
-SLPS_008.21 Hi-Hou-Ou - Mou Omae to wa Kuchi Kikan^^!^^!
+SLPS_008.21 Hi-Hou-Ou - Mou Omae to wa Kuchi Kikan^!^!
 SLES_001.15 Hi-Octane
 SLPS_001.71 Hi-Octane
 SCES_002.31 Hi-Octane + Ridge Racer + Mortal Kombat 3 + Evolva
-SLUS_001.57 Hi-Octane - The Track Fights Back^^!
+SLUS_001.57 Hi-Octane - The Track Fights Back^!
 SLES_036.02 Hidden & Dangerous
 SLUS_008.30 High Heat Baseball 2000
 SLUS_012.44 High Heat Major League Baseball 2002
@@ -4106,7 +4106,7 @@ SLPM_803.90 Himiko-den - Renge (Taikenban)
 SLPS_013.34 Himitsu Kessha Q
 SLPS_016.26 Himitsu Sentai Metamor V Deluxe (Disc 1)
 SLPS_016.27 Himitsu Sentai Metamor V Deluxe (Disc 2)
-SLPS_023.55 Hissatsu Pachi-Slot Station 2 - Bakuto^^! Joushiki Yaburi no 2 Types
+SLPS_023.55 Hissatsu Pachi-Slot Station 2 - Bakuto^! Joushiki Yaburi no 2 Types
 SLPS_026.83 Hissatsu Pachi-Slot Station 3 - Tetra Reel e no Chousen
 SLPS_027.99 Hissatsu Pachi-Slot Station 4 - New Pulsar R & Hot Rod Queen
 SLPS_030.30 Hissatsu Pachi-Slot Station 5 - Invaders 2000
@@ -4127,18 +4127,18 @@ SLPS_021.44 Hissatsu Pachinko Station 6 - Gakideka & Jamaica
 SLPS_024.08 Hissatsu Pachinko Station 7 - CR Chumy House XL & CR Battle Hero V & Fine Play
 SLPS_026.77 Hissatsu Pachinko Station 8 - Kamashi no Kin-chan & Soreyuke Hama-chan
 SLPS_027.65 Hissatsu Pachinko Station 9 - Ushiwaka to Lemi
-SLPS_026.78 Hissatsu Pachinko Station Classic 2 - Tsui ni yomigaeru^^!^^! Bakuretsu Meiki Fukkatsu
-SLPS_019.63 Hissatsu Pachinko Station Classic - Fukkatsu^^! Natsukashi no Meiki-tachi
+SLPS_026.78 Hissatsu Pachinko Station Classic 2 - Tsui ni yomigaeru^!^! Bakuretsu Meiki Fukkatsu
+SLPS_019.63 Hissatsu Pachinko Station Classic - Fukkatsu^! Natsukashi no Meiki-tachi
 SLPS_025.11 Hissatsu Pachinko Station Now 2 - Yatta ze Ippatsu Tsumo Tsumo Tengoku
 SLPS_025.58 Hissatsu Pachinko Station Now 3 - Youkai Engei
-SLPS_027.21 Hissatsu Pachinko Station Now 4 - Ore wa Nekketsu Bouken-ou da^^!^^!
+SLPS_027.21 Hissatsu Pachinko Station Now 4 - Ore wa Nekketsu Bouken-ou da^!^!
 SLPS_028.56 Hissatsu Pachinko Station Now 5 - GeGeGe no Kitarou
-SLPS_029.99 Hissatsu Pachinko Station Now 6 - Shinsei^^!^^! Areddin 21
+SLPS_029.99 Hissatsu Pachinko Station Now 6 - Shinsei^!^! Areddin 21
 SLPS_031.07 Hissatsu Pachinko Station Now 7 - Magical Circus
 SLPS_031.29 Hissatsu Pachinko Station Now 8 - Jarinko Chie
 SLPS_033.65 Hissatsu Pachinko Station Now 9 - Dirty Pair
-SLPS_022.84 Hissatsu Pachinko Station Now - Kore ga Ichiban^^!^^! Shin Pikaichi Tengoku
-SLPS_024.93 Hissatsu Pachinko Station Petit 2 - Areddin tte Great^^!
+SLPS_022.84 Hissatsu Pachinko Station Now - Kore ga Ichiban^!^! Shin Pikaichi Tengoku
+SLPS_024.93 Hissatsu Pachinko Station Petit 2 - Areddin tte Great^!
 SLPS_022.83 Hissatsu Pachinko Station Petit - Nanasy tte Nani
 SLPS_033.39 Hissatsu Pachinko Station SP3
 SLPS_015.77 Hissatsu Pachinko Station - Monster House Special
@@ -4171,8 +4171,8 @@ SLPS_013.82 Honoo no Ryourinin - Cooking Fighter Hao
 SLUS_013.94 Hooters - Road Trip
 SCPS_100.16 Horned Owl
 SCPS_100.17 Horned Owl
-SCPS_451.89 Hoshi de Hakken^^!^^! Tamagotchi
-SLPS_012.50 Hoshi de Hakken^^!^^! Tamagotchi
+SCPS_451.89 Hoshi de Hakken^!^! Tamagotchi
+SLPS_012.50 Hoshi de Hakken^!^! Tamagotchi
 SLPS_032.67 Hoshi no Mahoroba
 SLUS_013.75 Hoshigami - Ruining Blue Earth
 SLPS_029.04 Hoshigami - Shizumiyuku Aoki Daichi
@@ -4415,13 +4415,13 @@ SLES_004.43 Invasion
 SLUS_007.09 Invasion from Beyond
 SLPS_005.51 Ippatsu Gyakuten - Gamble King Densetsu
 SLPS_003.41 Irem Arcade Classics
-SLES_002.81 Iron Man  X-O Manowar in Heavy Metal
-SLPS_004.55 Iron Man  X-O Manowar in Heavy Metal
-SLUS_002.35 Iron Man  X-O Manowar in Heavy Metal
+SLES_002.81 Iron Man - X-O Manowar in Heavy Metal
+SLPS_004.55 Iron Man - X-O Manowar in Heavy Metal
+SLUS_002.35 Iron Man - X-O Manowar in Heavy Metal
 SLES_032.50 Iron Soldier 3
 SLUS_010.61 Iron Soldier 3
 SLUS_007.75 Irritating Stick
-SLPS_009.65 Iru^^!
+SLPS_009.65 Iru^!
 SLPS_011.58 Ishin no Arashi
 SLPM_861.44 Ishin no Arashi - Bakumatsu Shishiden
 SLPM_865.94 Ishin no Arashi - Bakumatsu Shishiden
@@ -4478,8 +4478,8 @@ SLES_019.84 Jeff Wayne's The War of the Worlds
 SLES_019.85 Jeff Wayne's The War of the Worlds
 SLES_019.86 Jeff Wayne's The War of the Worlds
 SLPS_028.92 Jellyfish - The Healing Friend
-SLUS_006.82 Jeopardy^^!
-SLUS_011.73 Jeopardy^^! 2nd Edition
+SLUS_006.82 Jeopardy^!
+SLUS_011.73 Jeopardy^! 2nd Edition
 SLES_019.81 Jeremy McGrath Supercross 2000
 SLUS_008.32 Jeremy McGrath Supercross 2000
 SLES_012.81 Jeremy McGrath Supercross 98
@@ -4499,10 +4499,10 @@ SCUS_945.55 Jet Moto 3
 SCUS_943.84 Jet Moto 3 (Demo)
 SCES_005.66 Jet Rider
 SCES_010.45 Jet Rider 2
-SLPM_863.23 Jet de Go^^! Let's Go by Airliner
-SLPM_868.12 Jet de Go^^! Let's Go by Airliner
-SLPM_863.24 Jet de Go^^! Let's Go by Airliner (Gentei)
-SLPM_805.15 Jet de Go^^! Let's Go by Airliner (Taikenban)
+SLPM_863.23 Jet de Go^! Let's Go by Airliner
+SLPM_868.12 Jet de Go^! Let's Go by Airliner
+SLPM_863.24 Jet de Go^! Let's Go by Airliner (Gentei)
+SLPM_805.15 Jet de Go^! Let's Go by Airliner (Taikenban)
 PCPX_960.80 JetMoto
 SIPS_600.20 JetMoto
 SLES_033.28 Jetracer
@@ -4552,19 +4552,19 @@ SLES_013.34 Jimmy White's 2 - Cueball
 SLUS_013.13 Jimmy White's 2 - Cueball
 PAPX_900.49 Jingle Cats - Love-Para Daisakusen no Maki (Taikenban)
 SCES_039.08 Jinx
-SLPS_026.48 Jishaku de Tonjau^^! Phix no Daibouken
-SLPS_007.94 Jissen Pachi-Slot Hisshouhou^^! 5
-SLPS_031.71 Jissen Pachi-Slot Hisshouhou^^! Disc Up
-SLPS_014.37 Jissen Pachi-Slot Hisshouhou^^! Sammy Revolution
-SLPS_019.36 Jissen Pachi-Slot Hisshouhou^^! Sammy Revolution 2
-SLPM_863.33 Jissen Pachi-Slot Hisshouhou^^! Single - Epsilon R
-SLPM_863.42 Jissen Pachi-Slot Hisshouhou^^! Single - Kamen Rider & Gallop (Disc 1) (Kamen Rider)
-SLPM_863.43 Jissen Pachi-Slot Hisshouhou^^! Single - Kamen Rider & Gallop (Disc 2) (Gallop)
-SLPM_863.35 Jissen Pachi-Slot Hisshouhou^^! Single - Kamen Rider V3
-SLPM_864.34 Jissen Pachi-Slot Hisshouhou^^! Single - Kung-Fu Lady
-SLPM_863.49 Jissen Pachi-Slot Hisshouhou^^! Single - Sea Master X
-SLPM_864.20 Jissen Pachi-Slot Hisshouhou^^! Single - Super Star Dust 2
-SLPM_864.44 Jissen Pachi-Slot Hisshouhou^^! Single - The Kongdom
+SLPS_026.48 Jishaku de Tonjau^! Phix no Daibouken
+SLPS_007.94 Jissen Pachi-Slot Hisshouhou^! 5
+SLPS_031.71 Jissen Pachi-Slot Hisshouhou^! Disc Up
+SLPS_014.37 Jissen Pachi-Slot Hisshouhou^! Sammy Revolution
+SLPS_019.36 Jissen Pachi-Slot Hisshouhou^! Sammy Revolution 2
+SLPM_863.33 Jissen Pachi-Slot Hisshouhou^! Single - Epsilon R
+SLPM_863.42 Jissen Pachi-Slot Hisshouhou^! Single - Kamen Rider & Gallop (Disc 1) (Kamen Rider)
+SLPM_863.43 Jissen Pachi-Slot Hisshouhou^! Single - Kamen Rider & Gallop (Disc 2) (Gallop)
+SLPM_863.35 Jissen Pachi-Slot Hisshouhou^! Single - Kamen Rider V3
+SLPM_864.34 Jissen Pachi-Slot Hisshouhou^! Single - Kung-Fu Lady
+SLPM_863.49 Jissen Pachi-Slot Hisshouhou^! Single - Sea Master X
+SLPM_864.20 Jissen Pachi-Slot Hisshouhou^! Single - Super Star Dust 2
+SLPM_864.44 Jissen Pachi-Slot Hisshouhou^! Single - The Kongdom
 SLPS_027.27 Jitsumei Jikkyou Keiba - Dream Classic
 SLES_025.99 JoJo's Bizarre Adventure
 SLUS_010.60 JoJo's Bizarre Adventure
@@ -4579,8 +4579,8 @@ SLES_003.77 Jonah Lomu Rugby
 SLES_006.11 Jonah Lomu Rugby
 SLPS_004.09 Joshikousei no Houkago... Pukunpa
 SLES_027.72 Joue avec les Teletubbies
-SLPS_017.39 Jouki Kikansha Unten Simulation - SL de Ikou^^!
-SLPS_024.78 Jouki Kikansha Unten Simulation - SL de Ikou^^! II
+SLPS_017.39 Jouki Kikansha Unten Simulation - SL de Ikou^!
+SLPS_024.78 Jouki Kikansha Unten Simulation - SL de Ikou^! II
 SLPS_009.36 Jounetsu Nekketsu Athletes - Nakimushi Coach no Diary
 SCED_011.38 Joypad Demo 01
 SLES_007.55 Judge Dredd
@@ -4596,14 +4596,14 @@ SLPS_029.17 Juggernaut - Senritsu no Tobira (Disc 2)
 SLPS_016.73 Juggernaut - Senritsu no Tobira (Disc 3)
 SLPS_029.18 Juggernaut - Senritsu no Tobira (Disc 3)
 SLUS_013.83 JumpStart Wildlife Safari - Field Trip
-SCES_000.03 Jumping Flash^^!
-SCPS_100.22 Jumping Flash^^!
-SCUS_941.03 Jumping Flash^^!
-SCPM_850.01 Jumping Flash^^! (Taikenban)
-SCES_001.11 Jumping Flash^^! 2
-SCUS_941.08 Jumping Flash^^! 2
-SCPS_100.21 Jumping Flash^^! 2 - Aloha Danshaku Ooyowari no Maki
-SCPS_100.07 Jumping Flash^^! Aloha Danshaku Funky Daisakusen no Maki
+SCES_000.03 Jumping Flash^!
+SCPS_100.22 Jumping Flash^!
+SCUS_941.03 Jumping Flash^!
+SCPM_850.01 Jumping Flash^! (Taikenban)
+SCES_001.11 Jumping Flash^! 2
+SCUS_941.08 Jumping Flash^! 2
+SCPS_100.21 Jumping Flash^! 2 - Aloha Danshaku Ooyowari no Maki
+SCPS_100.07 Jumping Flash^! Aloha Danshaku Funky Daisakusen no Maki
 SLPM_860.80 Junclassic C.C. & Rope Club
 SLES_027.50 Jungla de Cristal Trilogia 2 - Viva Las Vegas
 SLPS_010.86 Jungle Park
@@ -4617,7 +4617,7 @@ SLUS_001.77 Jupiter Strike
 SLUS_805.15 Jurassic Park - The Lost World (Trade Demo)
 SLES_027.53 K-1 Grand Prix
 SLUS_009.41 K-1 Grand Prix
-SLPS_026.02 K-1 Ouja ni Narou^^! King of Kings
+SLPS_026.02 K-1 Ouja ni Narou^! King of Kings
 SLUS_007.66 K-1 Revenge
 SLES_007.67 K-1 The Arena Fighters
 SLUS_004.14 K-1 The Arena Fighters
@@ -4625,7 +4625,7 @@ SLPM_867.63 K-1 World Grand Prix 2001 - Kaimakuban
 SLPS_014.13 K.O. - The Live Boxing
 SLPS_026.98 K.O. - The Live Boxing
 LSP09011.002 K9.5 1 - Live in Airedale
-LSP09022.001 K9.5 2 - We Are the Dogs^^!
+LSP09022.001 K9.5 2 - We Are the Dogs^!
 LSP09033.001 K9.5 3 - WebTunes
 LSP09044.001 K9.5 4 - The Tail-Wag Tour
 LSP90710.301 K9.5 5 - The Howlywood Premiere
@@ -4655,7 +4655,7 @@ SLPS_009.15 Kaibutsu Para-Dice - Monster Paradise
 SLPS_005.29 Kaijuu Senki
 SLPM_864.38 Kaikan Phrase - Datenshi Kourin
 SLPS_007.43 Kain the Vampire
-SLPS_030.79 Kaishin^^!^^! Derby Analyst
+SLPS_030.79 Kaishin^!^! Derby Analyst
 SLPS_015.53 Kaisoku Tenshi - The Rapid Angel
 SLPS_000.86 Kaitei Daisensou - In the Hunt
 SLPS_035.32 Kaitou Apricot
@@ -4670,7 +4670,7 @@ SLPS_015.70 Kamen Rider
 SLPS_911.39 Kamen Rider
 SLPM_803.26 Kamen Rider (Taikenban)
 SLPS_033.44 Kamen Rider Agito
-SLPM_806.29 Kamen Rider Agito  Hyakujuu Sentai GaoRanger (Taikenban)
+SLPM_806.29 Kamen Rider Agito - Hyakujuu Sentai GaoRanger (Taikenban)
 SLPS_030.90 Kamen Rider Kuuga
 SLPS_034.01 Kamen Rider Kuuga
 SLPS_034.95 Kamen Rider Ryuuki
@@ -4679,7 +4679,7 @@ SLPS_034.43 Kamen Rider V3
 SLPS_000.52 Kanazawa Shougi '95
 SLPS_020.59 Kanazawa Shougi - Tsuki
 SLES_032.09 Kart Challenge
-SLPS_030.41 Kart Race - Kimete wa Drift^^!
+SLPS_030.41 Kart Race - Kimete wa Drift^!
 SLUS_006.31 Kartia - The Word of Fate
 SLPS_005.63 Karyuujou (Disc 1) (Ryuu Hangan Hen)
 SLPS_005.64 Karyuujou (Disc 2) (Kou Yuukan Hen)
@@ -4708,24 +4708,24 @@ SLPS_019.29 Keiba Eight '99 Haru Natsu
 SLPS_000.63 Keiba Saishou no Housoku '95
 SLPS_001.46 Keiba Saishou no Housoku '96 Vol. 1
 SLPS_006.05 Keiba Saishou no Housoku '96 Vol. 2 - GI-Road
-SLPS_008.08 Keiba Saishou no Housoku '97 Vol. 1 - Nerae^^! Manbaken^^!
+SLPS_008.08 Keiba Saishou no Housoku '97 Vol. 1 - Nerae^! Manbaken^!
 SLPS_010.32 Keiba Saishou no Housoku '97 Vol. II - To Hit
 SLPS_023.39 Keiba Saishou no Housoku '99 Shuutou
 SLPS_027.17 Keitai Eddy
 PBPX_950.13 Keitai Henshuu
 SLPS_004.96 Kekkon - Marriage
-SLPM_840.02 Kellogg Original Waku Waku Doki Doki Ninki Game Chara Daishuugou^^!
-SLPM_840.03 Kellogg Original Waku Waku Doki Doki Ninki Game Chara Daishuugou^^! Waku Waku-shou (Taikenban)
+SLPM_840.02 Kellogg Original Waku Waku Doki Doki Ninki Game Chara Daishuugou^!
+SLPM_840.03 Kellogg Original Waku Waku Doki Doki Ninki Game Chara Daishuugou^! Waku Waku-shou (Taikenban)
 SCPS_454.66 Kenkaku Ibunroku - Yomigaerishi Souku no Yaiba - Samurai Spirits Shinshou
 SLPM_805.12 Kenkaku Ibunroku - Yomigaerishi Souku no Yaiba - Samurai Spirits Shinshou
 SLPM_863.45 Kenkaku Ibunroku - Yomigaerishi Souku no Yaiba - Samurai Spirits Shinshou
-SLPM_871.50 Kenki Ippatsu^^! Crane Master ni Narou^^!
-SLPS_028.31 Kenki Ippatsu^^! Crane Master ni Narou^^!
-SLPS_028.30 Kenki Ippatsu^^! Shovel Master ni Narou^^!
+SLPM_871.50 Kenki Ippatsu^! Crane Master ni Narou^!
+SLPS_028.31 Kenki Ippatsu^! Crane Master ni Narou^!
+SLPS_028.30 Kenki Ippatsu^! Shovel Master ni Narou^!
 SLES_010.81 Kensei - Sacred Fist
 SLUS_006.00 Kensei - Sacred Fist
 SLPS_005.02 Kensei - The King of Boxing
-SLPS_026.05 Kensetsu Kikai Simulator - Kenki Ippai^^!
+SLPS_026.05 Kensetsu Kikai Simulator - Kenki Ippai^!
 SLPS_011.86 Kenshou Akou Jiken - Chuushingura - Rekishi Adventure
 SLPM_866.21 Kero Kero King
 SLPS_914.51 Kero Kero King
@@ -4748,17 +4748,17 @@ SLPS_025.71 Kidou Senshi Gundam - Gihren no Yabou - Zeon no Keifu (Disc 2) (Zeon
 SLPS_022.02 Kidou Senshi Gundam - Gihren no Yabou - Zeon no Keifu - Kimitsu Eizou Disc Tokubetsu-hen
 SLPS_028.20 Kidou Senshi Gundam - Gihren no Yabou - Zeon no Keifu - Kouryaku Shireisho
 SCED_025.42 Kids Demo 01
-SLPM_869.07 Kids Station - Asobou^^! Hanasou^^! Guru Guru Town Hanamaru-kun
-SLPS_030.57 Kids Station - Asobou^^! Hanasou^^! Guru Guru Town Hanamaru-kun
+SLPM_869.07 Kids Station - Asobou^! Hanasou^! Guru Guru Town Hanamaru-kun
+SLPS_030.57 Kids Station - Asobou^! Hanasou^! Guru Guru Town Hanamaru-kun
 SLPS_033.01 Kids Station - Barbapapa
 SLPS_033.02 Kids Station - Barbapapa
 SLPM_840.17 Kids Station - Basic Soft
 SLPS_033.17 Kids Station - Bishoujo Senshi Sailor Moon World - Chibiusa to Tanoshii Mainichi
 SLPS_033.18 Kids Station - Bishoujo Senshi Sailor Moon World - Chibiusa to Tanoshii Mainichi
-SLPS_028.72 Kids Station - Bokura to Asobou^^! Ultraman TV
-SLPS_028.73 Kids Station - Bokura to Asobou^^! Ultraman TV
-SLPS_033.19 Kids Station - Crayon Shin-chan - Ora to Omoide Tsukuru zo^^!
-SLPS_033.20 Kids Station - Crayon Shin-chan - Ora to Omoide Tsukuru zo^^!
+SLPS_028.72 Kids Station - Bokura to Asobou^! Ultraman TV
+SLPS_028.73 Kids Station - Bokura to Asobou^! Ultraman TV
+SLPS_033.19 Kids Station - Crayon Shin-chan - Ora to Omoide Tsukuru zo^!
+SLPS_033.20 Kids Station - Crayon Shin-chan - Ora to Omoide Tsukuru zo^!
 SLPS_032.48 Kids Station - Digimon Park
 SLPS_032.49 Kids Station - Digimon Park
 SLPS_033.23 Kids Station - Doraemon - Himitsu no Yojigen Pocket
@@ -4769,12 +4769,12 @@ SLPM_885.07 Kids Station - Gomdori Pooh Hakseup Series - Gomdori Pooh Yuchiwon H
 SLPM_869.05 Kids Station - Hello Kitty no Oshaberi ABC
 SLPM_869.06 Kids Station - Hello Kitty no Oshaberi Town
 SLPS_030.60 Kids Station - Hello Kitty no Oshaberi Town
-SLPS_034.47 Kids Station - Hello Kitty no Ouchi e Oide yo^^!
-SLPS_034.48 Kids Station - Hello Kitty no Ouchi e Oide yo^^!
-SLPS_035.43 Kids Station - Hello Kitty to Album Nikki o Tsukurimasho^^!
-SLPS_035.44 Kids Station - Hello Kitty to Album Nikki o Tsukurimasho^^!
-SLPS_031.69 Kids Station - Hitori de Dekiru mon^^!
-SLPS_031.85 Kids Station - Hitori de Dekiru mon^^!
+SLPS_034.47 Kids Station - Hello Kitty no Ouchi e Oide yo^!
+SLPS_034.48 Kids Station - Hello Kitty no Ouchi e Oide yo^!
+SLPS_035.43 Kids Station - Hello Kitty to Album Nikki o Tsukurimasho^!
+SLPS_035.44 Kids Station - Hello Kitty to Album Nikki o Tsukurimasho^!
+SLPS_031.69 Kids Station - Hitori de Dekiru mon^!
+SLPS_031.85 Kids Station - Hitori de Dekiru mon^!
 SLPS_034.02 Kids Station - Kamen Rider Heroes
 SLPS_034.03 Kids Station - Kamen Rider Heroes
 SLPS_028.74 Kids Station - Kikansha Thomas to Nakama-tachi
@@ -4785,29 +4785,29 @@ SLPM_869.33 Kids Station - Kuma no Pooh-san - Mori no Nakama to 1, 2, 3
 SLPM_869.79 Kids Station - Kuma no Pooh-san - Mori no Tomodachi
 SLPM_869.99 Kids Station - Kuma no Pooh-san - Mori no Tomodachi
 SLPS_033.22 Kids Station - LEGO no Sekai
-SLPS_028.76 Kids Station - Magical Music - Eigo de One, Two, Three^^!
+SLPS_028.76 Kids Station - Magical Music - Eigo de One, Two, Three^!
 SLPM_870.02 Kids Station - Mickey & Minnie no Magical Kitchen
 SLPM_870.03 Kids Station - Mickey & Minnie no Magical Kitchen
 SLPM_869.30 Kids Station - Mickey to Nakama-tachi - Kazu Asobi Iro Iro
 SLPM_869.31 Kids Station - Mickey to Nakama-tachi - Kazu Asobi Iro Iro
-SLPS_034.62 Kids Station - Mini-Moni. ni Naru no da Pyon^^!
-SLPS_034.63 Kids Station - Mini-Moni. ni Naru no da Pyon^^!
-SLPS_032.46 Kids Station - Motto^^! Oja Majo DoReMi - Maho-dou Smile Party
-SLPS_032.47 Kids Station - Motto^^! Oja Majo DoReMi - Maho-dou Smile Party
-SLPS_034.07 Kids Station - Oja Majo DoReMi Dokkan^^! Maho-dou Eigo Festival
-SLPS_027.18 Kids Station - Oja Majo DoReMi - Maho-dou Dance Carnival^^!
-SLPS_028.75 Kids Station - Oja Majo DoReMi - Maho-dou Dance Carnival^^!
+SLPS_034.62 Kids Station - Mini-Moni. ni Naru no da Pyon^!
+SLPS_034.63 Kids Station - Mini-Moni. ni Naru no da Pyon^!
+SLPS_032.46 Kids Station - Motto^! Oja Majo DoReMi - Maho-dou Smile Party
+SLPS_032.47 Kids Station - Motto^! Oja Majo DoReMi - Maho-dou Smile Party
+SLPS_034.07 Kids Station - Oja Majo DoReMi Dokkan^! Maho-dou Eigo Festival
+SLPS_027.18 Kids Station - Oja Majo DoReMi - Maho-dou Dance Carnival^!
+SLPS_028.75 Kids Station - Oja Majo DoReMi - Maho-dou Dance Carnival^!
 SLPS_035.14 Kids Station - Oshaberi Oekaki - Kikansha Thomas to Nakama-tachi
 SLPS_035.15 Kids Station - Oshaberi Oekaki - Kikansha Thomas to Nakama-tachi
-SLPS_035.12 Kids Station - Oshaberi Oekaki - Soreike^^! Anpanman
-SLPS_035.13 Kids Station - Oshaberi Oekaki - Soreike^^! Anpanman
+SLPS_035.12 Kids Station - Oshaberi Oekaki - Soreike^! Anpanman
+SLPS_035.13 Kids Station - Oshaberi Oekaki - Soreike^! Anpanman
 SLPM_871.66 Kids Station - Plarail - Tetsudou Monoshiri Hyakka
 SLPM_871.67 Kids Station - Plarail - Tetsudou Monoshiri Hyakka
 SLPS_033.59 Kids Station - Ponkickies 21 - Game no Omocha-bako
-SLPS_027.00 Kids Station - Soreike^^! Anpanman
-SLPS_028.48 Kids Station - Soreike^^! Anpanman
-SLPS_031.97 Kids Station - Soreike^^! Anpanman 2 - Anpanman to Daibouken^^!
-SLPS_034.05 Kids Station - Soreike^^! Anpanman 3 - Sugoroku Anpanman
+SLPS_027.00 Kids Station - Soreike^! Anpanman
+SLPS_028.48 Kids Station - Soreike^! Anpanman
+SLPS_031.97 Kids Station - Soreike^! Anpanman 2 - Anpanman to Daibouken^!
+SLPS_034.05 Kids Station - Soreike^! Anpanman 3 - Sugoroku Anpanman
 SLPM_871.69 Kids Station - Ugoku Tomica Zukan
 SLPS_033.16 Kids Station - Ultraman Cosmos
 SLPS_033.37 Kids Station - Unten Daisuki - Doki Doki  Norimono Daibouken
@@ -4828,10 +4828,10 @@ SLES_004.46 Killing Zone
 SLPS_002.96 Killing Zone
 SLUS_003.69 Killing Zone
 SLPS_011.77 Kimagure My Baby - Musume no Sugoroku Seichouki
-SLPS_025.45 Kimero^^!^^! Hero Gakuen - Eiyuu ni Kotae Nashi
+SLPS_025.45 Kimero^!^! Hero Gakuen - Eiyuu ni Kotae Nashi
 SLPS_029.65 Kimi ni Steady
-SLPS_022.71 Kimi no Kimochi, Boku no Kokoro - I've Posessed Your Body^^!
-SLPS_030.72 Kimi no Kimochi, Boku no Kokoro - I've Posessed Your Body^^!
+SLPS_022.71 Kimi no Kimochi, Boku no Kokoro - I've Posessed Your Body^!
+SLPS_030.72 Kimi no Kimochi, Boku no Kokoro - I've Posessed Your Body^!
 SLPS_022.23 Kindaichi Shounen no Jikenbo 3 - Seiryuu Densetsu Satsujin Jiken (Disc 1)
 SLPS_022.24 Kindaichi Shounen no Jikenbo 3 - Seiryuu Densetsu Satsujin Jiken (Disc 2)
 SLPS_006.01 Kindaichi Shounen no Jikenbo - Hihou-tou Arata naru Sangeki
@@ -4863,20 +4863,20 @@ SLPS_914.26 King's Field III
 SLPM_800.29 King's Field III - Pilot Style
 SCES_016.59 Kingsley's Adventure
 SLUS_008.01 Kingsley's Adventure
-SLPM_863.81 Kinniku Banzuke Vol. 1 - Ore ga Saikyou no Otoko da^^!
-SLPM_864.57 Kinniku Banzuke Vol. 2 - Arata naru Genkai e no Chousen^^!
-SLPM_866.65 Kinniku Banzuke Vol. 2 - Arata naru Genkai e no Chousen^^!
-SLPM_866.90 Kinniku Banzuke Vol. 3 - Saikyou no Challenger Tanjou^^!
-SLPM_869.50 Kinniku Banzuke Vol. 3 - Saikyou no Challenger Tanjou^^!
+SLPM_863.81 Kinniku Banzuke Vol. 1 - Ore ga Saikyou no Otoko da^!
+SLPM_864.57 Kinniku Banzuke Vol. 2 - Arata naru Genkai e no Chousen^!
+SLPM_866.65 Kinniku Banzuke Vol. 2 - Arata naru Genkai e no Chousen^!
+SLPM_866.90 Kinniku Banzuke Vol. 3 - Saikyou no Challenger Tanjou^!
+SLPM_869.50 Kinniku Banzuke Vol. 3 - Saikyou no Challenger Tanjou^!
 SLPM_864.90 Kinniku Banzuke - Road to Sasuke
 SLPM_867.37 Kinniku Banzuke - Road to Sasuke
 SLES_036.76 Kirikou
 SLES_036.77 Kirikou
-SLPM_864.49 Kisha de Go^^!
+SLPM_864.49 Kisha de Go^!
 SLPS_018.21 Kita Denshi - Virtua Pachi-Slot
 SLPS_027.46 Kita Denshi - Virtua Pachi-Slot 2
 SLPS_013.95 Kitchen Panic
-SLPS_015.66 Kitty the Kool^^! Kabuki de Tanoshiku Odotte ne^^!^^!
+SLPS_015.66 Kitty the Kool^! Kabuki de Tanoshiku Odotte ne^!^!
 SLPM_870.19 Kiwame Daidougi
 SLPS_003.79 Kiwame Daidougi - Tsumuya Tsumazaruya
 SLPS_026.81 Kizuna toyuu Na no Pendant with Toybox Stories (Disc 1)
@@ -4887,7 +4887,7 @@ SLPS_021.47 Klaymen Klaymen 2 - Skullmonkey no Gyakushuu
 SLPS_013.65 Klaymen Klaymen - Neverhood no Nazo
 SLPS_911.16 Klaymen Klaymen - Neverhood no Nazo
 PAPX_900.53 Klaymen Series (Taikenban)
-SLPS_034.33 Klonoa Beach Volley - Saikyou Team Kettei-sen^^!
+SLPS_034.33 Klonoa Beach Volley - Saikyou Team Kettei-sen^!
 SCES_039.22 Klonoa Beach Volleyball
 SCES_009.42 Klonoa - Door to Phantomile
 SCES_011.85 Klonoa - Door to Phantomile
@@ -4905,20 +4905,20 @@ SLES_031.22 Knockout Kings 2001
 SLUS_012.69 Knockout Kings 2001
 SLES_014.48 Knockout Kings 99
 SLES_014.50 Knockout Kings 99
-SLPS_009.22 Kochira Katsushika-ku Kameari Kouen-mae Hashutsujo - High-Tech Buil Shinkou Soshi Sakusen^^! no Maki
+SLPS_009.22 Kochira Katsushika-ku Kameari Kouen-mae Hashutsujo - High-Tech Buil Shinkou Soshi Sakusen^! no Maki
 SLPS_034.99 Kogepan - Pan mo Game o Yarurashii...
 SLPM_801.95 Koguma-chan no Daibouken
 SLPM_868.47 Koiyohou
 SLPS_003.62 Kojima Takeo - Mahjong Teiou
 SLPM_802.04 Kojin Kyouju - La Lecon Particuliere
 SLPS_013.54 Kojin Kyouju - La Lecon Particuliere
-SCPS_101.33 Koko Hore^^! Pukka
+SCPS_101.33 Koko Hore^! Pukka
 SLPS_002.49 Kokumeikan
 SLPS_910.33 Kokumeikan
 SLPS_031.21 Komotchi
-SLPS_018.94 Kon'ya mo Dorubako^^!^^!
-SLPS_025.47 Kon'ya mo Dorubako^^!^^! 2000
-SLPS_033.28 Kon'ya mo Dorubako^^!^^! 2001
+SLPS_018.94 Kon'ya mo Dorubako^!^!
+SLPS_025.47 Kon'ya mo Dorubako^!^! 2000
+SLPS_033.28 Kon'ya mo Dorubako^!^! 2001
 SLPM_862.28 Konami 80's Arcade Gallery
 SLPM_860.52 Konami Antiques - MSX Collection Vol. 1
 SLPM_860.62 Konami Antiques - MSX Collection Vol. 2
@@ -4936,8 +4936,8 @@ SLPS_009.70 Kosodate Quiz My Angel
 SLPS_001.59 Koten Tsumego-shuu - Shijin no Maki
 SLPS_025.93 Koten Tsumego-shuu - Shijin no Maki
 SLES_040.07 Kotobuki Grand Prix
-SLPM_869.26 Kotobuki Grand Prix - Mezase^^! Genchari King
-SLPS_019.41 Kotobuki Grand Prix - Mezase^^! Genchari King
+SLPM_869.26 Kotobuki Grand Prix - Mezase^! Genchari King
+SLPS_019.41 Kotobuki Grand Prix - Mezase^! Genchari King
 SLPM_804.89 Koudelka
 SLES_028.97 Koudelka (Disc 1)
 SLES_028.98 Koudelka (Disc 1)
@@ -5014,11 +5014,11 @@ SLPS_004.92 Krazy Ivan
 SCES_010.00 Kula World
 SCPS_100.64 KulaQuest
 PCPX_961.21 KulaQuest (Taikenban)
-SLPS_001.15 Kuma no Pooh-tarou - Sora wa Pink da^^! Zen'in Shuugou^^!^^!
+SLPS_001.15 Kuma no Pooh-tarou - Sora wa Pink da^! Zen'in Shuugou^!^!
 SLPS_012.08 Kumitate Battle Kuttu Ketto
 SLPS_017.73 Kunoichi Torimonochou
 SLPS_016.76 Kuon no Kizuna
-PAPX_900.45 Kurashi Iki^^! Iki^^! PlayStation Welcome Disc (Taikenban)
+PAPX_900.45 Kurashi Iki^! Iki^! PlayStation Welcome Disc (Taikenban)
 SLPS_005.05 Kuro no Juusan
 SLPS_028.11 Kuro no Juusan
 SLPS_010.30 Kuro no Ken - Blade of the Darkness
@@ -5029,7 +5029,7 @@ SLPM_867.85 Kuru Kuru Maru Maru
 SLPS_006.51 Kuru Kuru Panic
 SLPS_004.32 Kuru Kuru Twinkle - Onegai Ohoshi-sama
 SLPS_007.86 Kurumi Miracle
-SLPS_000.66 Kururin Pa^^!
+SLPS_000.66 Kururin Pa^!
 SCES_008.66 Kurushi
 SCES_020.09 Kurushi Final
 SCES_020.10 Kurushi Final
@@ -5138,9 +5138,9 @@ SCUS_943.66 Legend of Legaia (Demo)
 SLUS_010.13 Legend of Mana
 SLES_041.45 Legend of Mulan
 SLES_029.55 Legend of Pocahontas
-SLES_014.61 Lemmings & Oh No^^! More Lemmings
-SLUS_007.60 Lemmings & Oh No^^! More Lemmings
-SLED_014.62 Lemmings & Oh No^^! More Lemmings (Demo)
+SLES_014.61 Lemmings & Oh No^! More Lemmings
+SLUS_007.60 Lemmings & Oh No^! More Lemmings
+SLED_014.62 Lemmings & Oh No^! More Lemmings (Demo)
 SCES_007.99 Les Boucliers de Quetzalcoatl - Les Chevaliers de Baphomet II
 SCES_003.47 Les Chevaliers de Baphomet
 SLES_033.19 Les Pierrafeu - Bedrock Bowling
@@ -5171,7 +5171,7 @@ SLPS_017.69 Ling Rise
 SLES_029.53 Lion and the King
 SLES_040.65 Lion and the King 2
 LSP01015.001 Liquid Books Adventure 1 - Lety's Favorite Stories
-LSP01025.001 Liquid Books Adventure 2 - Amrita's Trees  Cerdito and the Coyote
+LSP01025.001 Liquid Books Adventure 2 - Amrita's Trees - Cerdito and the Coyote
 LSP01035.001 Liquid Books Adventure 3 - Far-Fetched Frontier Tales
 LSP01035.501 Liquid Books Adventure 4 - The Adventures of Adelita and Bo
 LSP90314.300 Liquid Books Adventure 5 - Pop-Out Prose
@@ -5188,8 +5188,8 @@ SLPS_030.12 Little Princess - Marl Oukoku no Ningyou-hime 2 (Disc 1)
 SLPS_914.14 Little Princess - Marl Oukoku no Ningyou-hime 2 (Disc 1)
 SLPS_030.13 Little Princess - Marl Oukoku no Ningyou-hime 2 (Disc 2)
 SLPM_804.92 Little Princess - Marl Oukoku no Ningyou-hime 2 (Taikenban)
-SLES_013.32 Live Wire^^!
-SLED_015.61 Live Wire^^! (Demo)
+SLES_013.32 Live Wire^!
+SLED_015.61 Live Wire^! (Demo)
 SCES_030.31 Livro da Selva, O - Uma Festa Divertida
 SLES_000.13 Loaded
 SLUS_000.76 Loaded
@@ -5279,7 +5279,7 @@ SLUS_008.99 Lunar - Silver Star Story Complete (Disc 2) (Collector's Edition)
 SLUS_009.21 Lunar - Silver Star Story Complete (The Making of) (Collector's Edition)
 SLPS_017.49 Lunatic Dawn III
 SLPS_025.37 Lunatic Dawn III
-SLPM_803.53 Lunatic Dawn III & Susume^^! Kaizoku Promotion Disc
+SLPM_803.53 Lunatic Dawn III & Susume^! Kaizoku Promotion Disc
 SLPS_024.20 Lunatic Dawn - Odyssey
 SLPS_014.02 Lupin 3sei
 SLPS_005.35 Lupin 3sei - Cagliostro no Shiro - Saikai (Disc 1)
@@ -5353,7 +5353,7 @@ SLPM_800.83 Macross Digital Mission VF-X (Taikenban)
 SLPS_027.91 Macross Plus - Game Edition
 SLPM_805.61 Macross Plus - Game Edition (Taikenban)
 SLPS_022.37 Macross VF-X2
-SLPS_020.07 Macross VF-X2  Patlabor - The Game (Taikenban)
+SLPS_020.07 Macross VF-X2 - Patlabor - The Game (Taikenban)
 SLPS_008.80 Mad Panic Coaster
 SLPS_007.34 Mad Stalker - FullMetalForce
 SLES_021.92 Madden NFL 2000
@@ -5382,19 +5382,19 @@ SLPM_866.19 Magical Date - Doki Doki Kokuhaku Daisakusen
 SLPS_010.91 Magical Date - Doki Doki Kokuhaku Daisakusen
 SCPS_101.35 Magical Dice Kids
 SLPS_002.01 Magical Drop
-SLPM_868.05 Magical Drop F - Daibouken mo Rakujanai^^!
-SLPS_023.37 Magical Drop F - Daibouken mo Rakujanai^^!
+SLPM_868.05 Magical Drop F - Daibouken mo Rakujanai^!
+SLPS_023.37 Magical Drop F - Daibouken mo Rakujanai^!
 SLES_029.64 Magical Drop III (Disc 1) (Magical Drop III)
 SLES_129.64 Magical Drop III (Disc 2) (Magical Drop +1)
-SLPM_860.51 Magical Drop III - Yokubari Tokudai-gou^^!
-SLPS_019.17 Magical Drop III - Yokubari Tokudai-gou^^!
-SLPS_019.18 Magical Drop Plus 1^^!
+SLPM_860.51 Magical Drop III - Yokubari Tokudai-gou^!
+SLPS_019.17 Magical Drop III - Yokubari Tokudai-gou^!
+SLPS_019.18 Magical Drop Plus 1^!
 SLPS_007.37 Magical Hoppers
 SLPM_860.99 Magical Medical
 SCES_021.54 Magical Tetris Challenge
 SCES_021.75 Magical Tetris Challenge
 SLPS_017.86 Magical Tetris Challenge featuring Mickey
-SLPS_011.73 Magical Zunou Power^^!^^! Party Selection
+SLPS_011.73 Magical Zunou Power^!^! Party Selection
 SCES_021.78 Magische Tetris Uitdaging
 SLPS_000.43 Mahjong Ganryuu-jima
 SLPS_000.14 Mahjong Gokuu Tenjiku
@@ -5407,8 +5407,8 @@ SLPM_869.93 Mahjong Taikai II Special
 SLPS_006.03 Mahjong Taikai II Special
 SLPS_030.64 Mahjong Toriatama Kikou
 SLPS_031.23 Mahjong Uranai Fortuna - Tsuki no Megami-tachi
-SLPM_861.73 Mahjong Yarou ze^^!
-SLPS_029.56 Mahjong Youchien Tamago-gumi 2 - Taikai e Ikou^^!
+SLPM_861.73 Mahjong Yarou ze^!
+SLPS_029.56 Mahjong Youchien Tamago-gumi 2 - Taikai e Ikou^!
 SLPS_029.95 Mahjong de Asobo
 SLPS_004.60 Mahou Shoujo Fancy CoCo
 SLPS_006.45 Mahou Shoujo Pretty Samy - Part 1 - In the Earth (Disc 1) (Episode 23)
@@ -5418,7 +5418,7 @@ SLPS_007.61 Mahou Shoujo Pretty Samy - Part 2 - In the Julyhelm (Disc 2) (Episod
 SLPS_017.54 Mahoutsukai ni Naru Houhou
 SLPS_012.49 Mainichi Nekoyoubi
 SLPS_018.50 Majokko Daisakusen - Little Witching Mischiefs
-SLPS_001.28 Makeruna^^! Makendou 2
+SLPS_001.28 Makeruna^! Makendou 2
 SLES_029.79 Manager de Liga 2001
 SLES_036.07 Manager de Liga 2002
 SLUS_014.71 Marble Master
@@ -5442,10 +5442,10 @@ SLPS_008.56 Marie no Atelier - Salburg no Renkinjutsushi
 SLPS_009.64 Mario Mushano no Chou Shougi Juku - Mario Mushano's Hyper Shogi School
 SLPM_868.10 Marionette Company
 SLPS_020.58 Marionette Company
-SLPM_870.04 Marionette Company 2 Chu^^!
-SLPS_027.43 Marionette Company 2 Chu^^!
-SLPS_035.38 Marl Jong^^!^^!
-SLPS_035.37 Marl Jong^^!^^! (Genteiban)
+SLPM_870.04 Marionette Company 2 Chu^!
+SLPS_027.43 Marionette Company 2 Chu^!
+SLPS_035.38 Marl Jong^!^!
+SLPS_035.37 Marl Jong^!^! (Genteiban)
 SLPS_017.34 Marl Oukoku no Ningyou-hime - The Adventure of Puppet Princess
 SLPS_022.86 Marl Oukoku no Ningyou-hime - The Adventure of Puppet Princess
 SLPS_914.15 Marl Oukoku no Ningyou-hime - The Adventure of Puppet Princess
@@ -5507,16 +5507,16 @@ SLUS_011.13 Mat Hoffman's Pro BMX
 LSP90343.300 Math Gallery - Collection 1
 LSP90343.301 Math Gallery - Collection 1
 LSP90344.001 Math Gallery - Collection 2
-LSP10011.201 Math on the Move^^! 1 - AdditionSubtraction Advanced
-LSP10011.001 Math on the Move^^! 1 - AdditionSubtraction Intermediate
-LSP10011.301 Math on the Move^^! 2 - MultiplicationDivision Advanced
-LSP10011.101 Math on the Move^^! 2 - MultiplicationDivision Intermediate
+LSP10011.201 Math on the Move^! 1 - Addition-Subtraction Advanced
+LSP10011.001 Math on the Move^! 1 - Addition-Subtraction Intermediate
+LSP10011.301 Math on the Move^! 2 - Multiplication-Division Advanced
+LSP10011.101 Math on the Move^! 2 - Multiplication-Division Intermediate
 SLPS_001.98 Matsukata Hiroki no World Fishing
 SLPS_020.41 Matsukata Hiroki no World Fishing
 SLPS_032.20 Matsumoto Reiji 999 - Story of Galaxy Express 999 (Disc 1)
 SLPS_032.21 Matsumoto Reiji 999 - Story of Galaxy Express 999 (Disc 2)
-SLPS_013.59 Mawatte Mucho^^!
-SLPM_802.32 Mawatte Mucho^^! (Taikenban)
+SLPS_013.59 Mawatte Mucho^!
+SLPM_802.32 Mawatte Mucho^! (Taikenban)
 SLES_016.94 Max Power Racing
 SLPS_023.98 Max Surfing 2000
 SLPS_028.71 Max Surfing 2nd
@@ -5633,8 +5633,8 @@ SLPM_871.08 Mermaid no Kisetsu - Curtain Call (Disc 1)
 SLPM_871.09 Mermaid no Kisetsu - Curtain Call (Disc 2)
 SLPS_014.93 Merriment Carrying Caravan
 SLPS_003.59 Meru Purana
-SLPS_006.80 Meta-Ph-List µ.X.2297 (Disc 1)
-SLPS_006.81 Meta-Ph-List µ.X.2297 (Disc 2)
+SLPS_006.80 Meta-Ph-List μ.X.2297 (Disc 1)
+SLPS_006.81 Meta-Ph-List μ.X.2297 (Disc 2)
 SLPS_008.67 Metal Angel 3 (Disc 1)
 SLPS_008.68 Metal Angel 3 (Disc 2)
 SLPS_011.64 Metal Fist
@@ -5691,13 +5691,13 @@ SCPS_450.97 Metal Slug - Super Vehicle-001
 SLPM_863.15 Metal Slug - Super Vehicle-001
 SLPS_009.50 Metal Slug - Super Vehicle-001
 SLPS_915.16 Metal Slug - Super Vehicle-001
-SLPS_000.39 Metamor Panic - Doki Doki Youma Busters^^!^^!
-SLPS_019.11 Mezase^^! Meimon Yakyuubu
-SLPS_025.84 Mezase^^! Meimon Yakyuubu
-SLPS_914.18 Mezase^^! Meimon Yakyuubu
-SLPS_003.13 Mezase^^! Senkyuu-ou
-SLPS_022.14 Mezase^^! Senkyuu-ou
-SLPS_021.98 Mezase^^! Skymark - Challenge Airline Pilot
+SLPS_000.39 Metamor Panic - Doki Doki Youma Busters^!^!
+SLPS_019.11 Mezase^! Meimon Yakyuubu
+SLPS_025.84 Mezase^! Meimon Yakyuubu
+SLPS_914.18 Mezase^! Meimon Yakyuubu
+SLPS_003.13 Mezase^! Senkyuu-ou
+SLPS_022.14 Mezase^! Senkyuu-ou
+SLPS_021.98 Mezase^! Skymark - Challenge Airline Pilot
 SLES_015.94 Michael Owen's World League Soccer '99
 SLES_039.31 Michael Schumacher Racing World Kart 2002
 SLES_015.45 Michelin Rally Masters - Race of Champions
@@ -5720,7 +5720,7 @@ SLPS_016.11 Mikagura Shoujo Tanteidan (Disc 1) (Honpen Disc Ichi)
 SLPS_016.12 Mikagura Shoujo Tanteidan (Disc 2) (Honpen Disc Ni)
 SLPS_016.13 Mikagura Shoujo Tanteidan (Disc 3) (Intermission Disc)
 SLPS_016.14 Mikagura Shoujo Tanteidan (Disc 4) (Special Disc)
-SLPM_802.83 Mikagura Shoujo Tanteidan  Neko Zamurai (Taikenban)
+SLPM_802.83 Mikagura Shoujo Tanteidan - Neko Zamurai (Taikenban)
 SLES_028.39 Mike Tyson Boxing
 SLUS_011.62 Mike Tyson Boxing
 SLPS_033.67 Milky Season
@@ -5732,13 +5732,13 @@ SLPM_803.98 Million Classic (Disc 2) (Taisen Game Sen'you)
 SLPS_016.10 Million Classic (Disc 2) (Taisen Game Sen'you)
 SLPS_009.51 Minakata Hakudou Toujou (Disc 1)
 SLPS_009.52 Minakata Hakudou Toujou (Disc 2)
-SLPS_010.78 Mini Yonku Bakusou Kyoudai Let's & Go^^!^^! WGP Hyper Heat
-SLPS_910.91 Mini Yonku Bakusou Kyoudai Let's & Go^^!^^! WGP Hyper Heat
-SLPM_870.15 Mini-Moni. Dice de Pyon^^!
-SLPM_870.79 Mini-Moni. Shakatto Tambourine^^! da Pyon^^!
-SLPM_871.32 Mini-Moni. Shakatto Tambourine^^! da Pyon^^!
+SLPS_010.78 Mini Yonku Bakusou Kyoudai Let's & Go^!^! WGP Hyper Heat
+SLPS_910.91 Mini Yonku Bakusou Kyoudai Let's & Go^!^! WGP Hyper Heat
+SLPM_870.15 Mini-Moni. Dice de Pyon^!
+SLPM_870.79 Mini-Moni. Shakatto Tambourine^! da Pyon^!
+SLPM_871.32 Mini-Moni. Shakatto Tambourine^! da Pyon^!
 SLPM_871.95 Mini-Moni. Step Pyon Pyon Pyon
-SLPS_035.54 Minna Atsumare^^! Igo Kyoushitsu
+SLPS_035.54 Minna Atsumare^! Igo Kyoushitsu
 SCPS_100.42 Minna no Golf
 SCPS_450.96 Minna no Golf
 SCPS_911.26 Minna no Golf
@@ -5748,7 +5748,7 @@ PCPX_960.76 Minna no Golf (Taikenban)
 SCPS_100.93 Minna no Golf 2
 SCPS_454.21 Minna no Golf 2
 SCPS_911.97 Minna no Golf 2
-SLPS_031.86 Minna no Kanji Kyoushitsu - Chousen^^! Kanji Kentei
+SLPS_031.86 Minna no Kanji Kyoushitsu - Chousen^! Kanji Kentei
 SLPS_032.79 Minna no Shiiku Kyoushitsu - Kuwagata-hen
 SLPM_870.25 Minna no Takaramono - Watashi no Licca-chan - Otetsudai o Shiyou
 SLPS_034.91 Minnya de Ghost Hunter
@@ -5771,7 +5771,7 @@ SLPS_012.76 Misa no Mahou Monogatari (Disc 1)
 SLPS_012.74 Misa no Mahou Monogatari (Disc 1) (Shokai Genteiban)
 SLPS_012.77 Misa no Mahou Monogatari (Disc 2)
 SLPS_012.75 Misa no Mahou Monogatari (Disc 2) (Shokai Genteiban)
-SLPS_014.74 Misaki Aggressive^^!
+SLPS_014.74 Misaki Aggressive^!
 SLUS_011.23 Miss Spider's Tea Party
 SLES_022.45 Missile Command
 SLES_024.82 Missile Command
@@ -5812,7 +5812,7 @@ SCPS_451.61 Mobile Suit Z-Gundam (Disc 2)
 SLPS_011.43 Mobile Suit Z-Gundam (Disc 2)
 SLPS_032.33 Mobile Suit Z-Gundam (Disc 2)
 SLPM_871.51 Mobile Tomodachi
-SLPS_000.99 Moero^^!^^! Pro Yakyuu '95 - Double Header
+SLPS_000.99 Moero^!^! Pro Yakyuu '95 - Double Header
 SLPS_017.85 Momotarou Densetsu
 SLPS_911.71 Momotarou Densetsu
 SLPS_011.56 Momotarou Dentetsu 7
@@ -5823,9 +5823,9 @@ SLPS_024.56 Momotarou Dentetsu V
 SLPS_024.58 Momotarou Dentetsu V
 SLPS_024.56 Momotarou Dentetsu V (Shokai Genteiban)
 SLPM_868.88 Momotarou Matsuri - Ishikawa Rokuemon no Maki
-LSP05010.101 Mona & Moki 1 - Drive Me Wild^^!
-LSP05010.102 Mona & Moki 1 - Drive Me Wild^^!
-LSP05010.201 Mona & Moki 2 - Drive Me Wilder^^!
+LSP05010.101 Mona & Moki 1 - Drive Me Wild^!
+LSP05010.102 Mona & Moki 1 - Drive Me Wild^!
+LSP05010.201 Mona & Moki 2 - Drive Me Wilder^!
 SLUS_008.34 Monaco Grand Prix
 SLES_016.91 Monaco Grand Prix Racing Simulation 2
 SLPS_021.06 Monaco Grand Prix Racing Simulation 2
@@ -5935,9 +5935,9 @@ SCPS_100.19 Motor Toon Grand Prix 2 (Disc 2) (Taisen Sen'you Disc)
 SCPS_910.27 Motor Toon Grand Prix - USA Edition
 SLES_005.56 Motorhead
 SLUS_007.17 Motorhead
-SLPS_012.42 Motteke Tamago with Ganbare^^! Kamonohashi
-SLPS_033.21 Motto Trump Shiyou yo^^! i-Mode de Grand Prix
-SLPS_017.96 Motto^^! Nyan to Wonderful 2
+SLPS_012.42 Motteke Tamago with Ganbare^! Kamonohashi
+SLPS_033.21 Motto Trump Shiyou yo^! i-Mode de Grand Prix
+SLPS_017.96 Motto^! Nyan to Wonderful 2
 SLPS_006.74 Mouja
 SLPS_022.52 Mouja
 SLPS_012.85 Mouri Motonari - Chikai no Sanshi
@@ -5984,7 +5984,7 @@ SLPS_022.13 My Garden
 SLPS_009.31 My Home Dream
 SLPS_910.85 My Home Dream
 SLPS_915.20 My Home Dream
-SLPS_024.70 My Home Dream 2 - Niwatsuki Ikkodate de, Ikou^^!
+SLPS_024.70 My Home Dream 2 - Niwatsuki Ikkodate de, Ikou^!
 SLPM_801.94 Myaon o Sagase
 SCUS_946.02 Myst
 SLES_002.18 Myst
@@ -6367,7 +6367,7 @@ SLPS_033.84 Nice Price Series Vol. 06 - Quiz de Battle
 SLPS_033.98 Nice Price Series Vol. 07 - World Tournament Bowling
 SLPS_033.99 Nice Price Series Vol. 08 - Elemental Pinball
 SLPS_034.09 Nice Price Series Vol. 09 - Paradise Casino
-SLPS_034.10 Nice Price Series Vol. 10 - Igo o Utou^^!
+SLPS_034.10 Nice Price Series Vol. 10 - Igo o Utou^!
 SLPS_034.31 Nice Price Series Vol. 11 - Nikakudori Deluxe
 SLPS_001.84 Nichibutsu Arcade Classics
 SLPS_000.38 Nichibutsu Mahjong - Joshikou Meijinsen
@@ -6445,7 +6445,7 @@ SLPS_001.72 Ninkuu
 SLPS_034.93 Ninpuu Sentai Hurricanger
 SLPS_017.57 Ninteiou - Zen Nihon Tsume Shougi Renmei Kaichou Okada Toshi no Tsume Shougi Kyoushitsu
 SLPM_869.17 Nippon Ichi Mahjong - Souryuu
-SLPM_800.03 Nise Flopon-kun P^^! Famitsuu Nottori Version
+SLPM_800.03 Nise Flopon-kun P^! Famitsuu Nottori Version
 SLPS_021.75 Nishijin Pachinko Tengoku EX
 SLPS_006.14 Nishijin Pachinko Tengoku Vol. 1
 SLPS_008.86 Nishijin Pachinko Tengoku Vol. 2
@@ -6599,15 +6599,15 @@ SCUS_946.55 Official U.S. PlayStation Magazine Demo Disc 48
 SCUS_946.58 Official U.S. PlayStation Magazine Demo Disc 50
 SCUS_946.62 Official U.S. PlayStation Magazine Demo Disc 52
 SCUS_946.64 Official U.S. PlayStation Magazine Demo Disc 54
-SCED_034.08 Official UK PlayStation Best Games Ever^^!
+SCED_034.08 Official UK PlayStation Best Games Ever^!
 PDPX_990.05 Official Yarudora Fan Book - Double Cast - CD-ROM Special Data-shuu
 SCZS_941.01 Official Yarudora Fan Book - Double Cast - CD-ROM Special Data-shuu
 SCZS_941.02 Official Yarudora Fan Book - Kisetsu o Dakishimete
 SCZS_941.03 Official Yarudora Fan Book - Sampaguita
 SCZS_941.04 Official Yarudora Fan Book - Yukiwari no Hana - CD-ROM Special Data-shuu
 SLUS_004.67 Ogre Battle - Limited Edition
-SLPS_027.64 Oh No^^!
-SLPS_026.80 Oh^^! Bakyuuun
+SLPS_027.64 Oh No^!
+SLPS_026.80 Oh^! Bakyuuun
 SLPS_000.93 Oh-chan no Oekaki Logic
 SLPS_015.68 Oh-chan no Oekaki Logic
 SLPS_031.16 Oh-chan no Oekaki Logic
@@ -6616,13 +6616,13 @@ SLPS_021.45 Oh-chan no Oekaki Logic 2
 SLPS_031.17 Oh-chan no Oekaki Logic 2
 SLPS_031.34 Oh-chan no Oekaki Logic 3
 SLPM_866.03 Oha Suta Dance Dance Revolution
-SLPS_034.97 Oja Majo DoReMi Dokkan^^! Nijiiro ParaDice
+SLPS_034.97 Oja Majo DoReMi Dokkan^! Nijiiro ParaDice
 SLPS_014.95 Ojousama Express (Disc 1)
 SLPS_014.96 Ojousama Express (Disc 2)
 SLPM_802.55 Ojousama Express (Taikenban)
 SLPS_015.24 Okappari-ou
 SLPS_013.86 Olympia, Takasago - Virtua Pachi-Slot III
-SLPS_007.14 Olympia, Yamasa - Virtua Pachi-Slot II - Jissen^^! Bishoujo Kouryakuhou
+SLPS_007.14 Olympia, Yamasa - Virtua Pachi-Slot II - Jissen^! Bishoujo Kouryakuhou
 SLES_001.10 Olympic Games
 SLES_001.13 Olympic Soccer
 SLPS_005.23 Olympic Soccer
@@ -6665,9 +6665,9 @@ SCPS_100.74 Ore no Shikabane o Koete Yuke
 SCPS_911.30 Ore no Shikabane o Koete Yuke
 SCPS_911.98 Ore no Shikabane o Koete Yuke
 SCPS_913.30 Ore no Shikabane o Koete Yuke
-SLPS_021.32 Ore no Yotto - Ganbare^^! Nippon Challenge
-SLPS_011.44 Ore^^! Tomba
-SLPM_801.65 Ore^^! Tomba (Taikenban)
+SLPS_021.32 Ore no Yotto - Ganbare^! Nippon Challenge
+SLPS_011.44 Ore^! Tomba
+SLPM_801.65 Ore^! Tomba (Taikenban)
 SLES_031.86 Oro e Gloria - La Strada per El Dorado
 SLES_031.87 Oro y Gloria - La Ruta hacia El Dorado
 SLPS_020.13 Osaka Naniwa Matenrou
@@ -6687,8 +6687,8 @@ SLPM_806.23 Oumagatoki
 SLPS_032.35 Oumagatoki
 SLPS_915.21 Oumagatoki
 SLPS_032.72 Oumagatoki 2
-SLPS_025.76 Our Graduation - Mahjong de Pon^^! Hanafuda de Koi^^! (Disc 1) (Mahjong de Pon^^!)
-SLPS_025.77 Our Graduation - Mahjong de Pon^^! Hanafuda de Koi^^! (Disc 2) (Hanafuda de Koi^^!)
+SLPS_025.76 Our Graduation - Mahjong de Pon^! Hanafuda de Koi^! (Disc 1) (Mahjong de Pon^!)
+SLPS_025.77 Our Graduation - Mahjong de Pon^! Hanafuda de Koi^! (Disc 2) (Hanafuda de Koi^!)
 SLPS_007.46 Out Live - Be Eliminate Yesterday
 SLPS_003.27 Over Drivin' DX
 SLPM_800.32 Over Drivin' DX - Rally Edition
@@ -6715,18 +6715,18 @@ SLES_118.80 OverBlood 2 (Disc 2)
 SLES_121.87 OverBlood 2 (Disc 2)
 SLPS_012.62 OverBlood 2 (Disc 2)
 SLPM_802.70 OverBlood 2 - The ;East Edge; File
-SLES_008.65 Overboard^^!
-SLPS_025.91 Oyaji no Jikan - Nee-chan Hanafuda de Shoubu ya^^!
-SLPS_025.92 Oyaji no Jikan - Nee-chan Mahjong de Shoubu ya^^!
-SLPS_032.62 Oyaji no Jikan - Nee-chan Mahjong de Shoubu ya^^!
-SLPS_025.90 Oyaji no Jikan - Nee-chan Tsuri Iku de^^!
+SLES_008.65 Overboard^!
+SLPS_025.91 Oyaji no Jikan - Nee-chan Hanafuda de Shoubu ya^!
+SLPS_025.92 Oyaji no Jikan - Nee-chan Mahjong de Shoubu ya^!
+SLPS_032.62 Oyaji no Jikan - Nee-chan Mahjong de Shoubu ya^!
+SLPS_025.90 Oyaji no Jikan - Nee-chan Tsuri Iku de^!
 SLPM_863.93 Oyako Entertainment Series - TV Kamishibai Vol. 1
 SLPS_023.35 Oz no Mahoutsukai - Another World - Rung Rung
 LSP06019.001 P.K.'s Math Studio
-LSP06031.001 P.K.'s Place 1 - Party on the Patio^^!
-LSP18021.001 P.K.'s Place 2 - Hoopo at Sea^^!
-LSP90535.200 P.K.'s Place 2 - Hoopo at Sea^^!
-LSP18031.001 P.K.'s Place 3 - Carlos at the Races^^!
+LSP06031.001 P.K.'s Place 1 - Party on the Patio^!
+LSP18021.001 P.K.'s Place 2 - Hoopo at Sea^!
+LSP90535.200 P.K.'s Place 2 - Hoopo at Sea^!
+LSP18031.001 P.K.'s Place 3 - Carlos at the Races^!
 LSP18041.001 P.K.'s Place 4 - Daphne and the Seventh Wonder
 SCPS_100.97 PAQA
 PAPX_900.92 PAQA (Taikenban)
@@ -6819,7 +6819,7 @@ SLPS_033.91 Pachi-Slot Teiou - Maker Suishou Manual Vol. 7 - Trick Monster 2
 SLPS_034.23 Pachi-Slot Teiou - Naniwa Sakura Fubuki
 SLPS_034.42 Pachi-Slot Teiou - Shimauta-30, Twist, Nangoku Monogatari-30
 SLPS_029.05 Pachi-Slot Teiou - Yamasa Remix
-SLPS_028.60 Pachinko & Pachi-Slot - Parlor^^! Pro Extra - CR Inakappe Taishou A & Pachi-Slot Lupin Sansei
+SLPS_028.60 Pachinko & Pachi-Slot - Parlor^! Pro Extra - CR Inakappe Taishou A & Pachi-Slot Lupin Sansei
 SLPM_860.06 Pachinko Dream
 SLPS_010.89 Pachinko Hall - Shinsou Daikaiten
 SLPS_032.54 Pachinko Teiou - CR Sore Ute Hama-chan 2 & CR Sore Yuke Matchan S
@@ -6838,13 +6838,13 @@ SLES_009.65 Pandemonium 2
 SLUS_005.78 Pandemonium 2
 SLED_010.15 Pandemonium 2 (Demo)
 SLUS_805.78 Pandemonium 2 (Trade Demo)
-SLES_005.26 Pandemonium^^!
-SLUS_002.32 Pandemonium^^!
-SLED_005.70 Pandemonium^^! (Demo)
+SLES_005.26 Pandemonium^!
+SLUS_002.32 Pandemonium^!
+SLED_005.70 Pandemonium^! (Demo)
 SLPS_023.91 Pandora Max Series Vol. 1 - Dragon Knights Glorious
 SLPS_025.51 Pandora Max Series Vol. 2 - Shisha no Yobu Yakata
 SLPS_026.37 Pandora Max Series Vol. 3 - Rubbish Blazon
-SLPS_027.12 Pandora Max Series Vol. 4 - Catch^^! Kimochi Sensation
+SLPS_027.12 Pandora Max Series Vol. 4 - Catch^! Kimochi Sensation
 SLPS_029.44 Pandora Max Series Vol. 5 - Gochachiru (Genteiban)
 SLPS_031.06 Pandora Max Series Vol. 6 - Oni Zero - Fukkatsu
 SLPS_003.47 Pandora Project - The Logic Master
@@ -6888,25 +6888,25 @@ SLES_031.08 Paris-Marseille Racing
 SLES_039.18 Paris-Marseille Racing II
 SLPS_015.39 Parlor Station
 SLPS_027.32 Parlor Station
-SLPS_008.38 Parlor^^! Pro
-SLPS_911.83 Parlor^^! Pro
-SLPS_010.43 Parlor^^! Pro 2
-SLPS_014.53 Parlor^^! Pro 3
-SLPS_016.46 Parlor^^! Pro 4
-SLPS_911.85 Parlor^^! Pro 4
-SLPS_018.28 Parlor^^! Pro 5
-SLPS_018.59 Parlor^^! Pro 6
-SLPS_019.71 Parlor^^! Pro 7
-SLPS_024.83 Parlor^^! Pro 8
-SLPS_029.49 Parlor^^! Pro Collection
-SLPS_027.81 Parlor^^! Pro Jr. Collection
-SLPS_020.92 Parlor^^! Pro Jr. Vol. 1 - CR Dera Maitta J-3
-SLPS_023.57 Parlor^^! Pro Jr. Vol. 2 - CR Lupin Sansei K
-SLPS_024.26 Parlor^^! Pro Jr. Vol. 3 - CR Shin Pikaichi Tengoku T
-SLPS_025.19 Parlor^^! Pro Jr. Vol. 4 - Thunder Skeleton X
-SLPS_025.62 Parlor^^! Pro Jr. Vol. 5 - CR Fruit World X
-SLPS_026.90 Parlor^^! Pro Jr. Vol. 6 - CR Tsumo Tsumo Tengoku Nan 2-kyoku
-SLPS_029.96 Parlor^^! Pro Special - CR Harenchi Gakuen & CR Toukon
+SLPS_008.38 Parlor^! Pro
+SLPS_911.83 Parlor^! Pro
+SLPS_010.43 Parlor^! Pro 2
+SLPS_014.53 Parlor^! Pro 3
+SLPS_016.46 Parlor^! Pro 4
+SLPS_911.85 Parlor^! Pro 4
+SLPS_018.28 Parlor^! Pro 5
+SLPS_018.59 Parlor^! Pro 6
+SLPS_019.71 Parlor^! Pro 7
+SLPS_024.83 Parlor^! Pro 8
+SLPS_029.49 Parlor^! Pro Collection
+SLPS_027.81 Parlor^! Pro Jr. Collection
+SLPS_020.92 Parlor^! Pro Jr. Vol. 1 - CR Dera Maitta J-3
+SLPS_023.57 Parlor^! Pro Jr. Vol. 2 - CR Lupin Sansei K
+SLPS_024.26 Parlor^! Pro Jr. Vol. 3 - CR Shin Pikaichi Tengoku T
+SLPS_025.19 Parlor^! Pro Jr. Vol. 4 - Thunder Skeleton X
+SLPS_025.62 Parlor^! Pro Jr. Vol. 5 - CR Fruit World X
+SLPS_026.90 Parlor^! Pro Jr. Vol. 6 - CR Tsumo Tsumo Tengoku Nan 2-kyoku
+SLPS_029.96 Parlor^! Pro Special - CR Harenchi Gakuen & CR Toukon
 SLPM_860.16 Paro Wars
 SLES_000.36 Parodius
 SLPS_009.59 Pastel Muses
@@ -6946,7 +6946,7 @@ SLPS_022.92 Pet Pet Pet
 SLPS_030.82 Pet Pet Pet
 SCES_009.81 Pet in TV
 SCES_013.58 Pet in TV
-SCES_013.57 Pet in TV - Ton Nouveau Meilleur Ami^^!
+SCES_013.57 Pet in TV - Ton Nouveau Meilleur Ami^!
 PCPX_961.80 Pet in TV - With My Dear Dog
 SCPS_101.11 Pet in TV - With My Dear Dog
 SLUS_011.30 Peter Jacobsen's Golden Tee Golf
@@ -6961,12 +6961,12 @@ SLUS_015.23 Phix - The Adventure
 SLPS_011.16 Photo Genic
 SLPS_010.92 Photo Genic (Genteiban)
 SLPS_018.66 Pi to Mail
-SLPS_013.45 Pikiinya^^! Excellent
-SLPS_018.47 Pikupiku Sentaro - Puzzle de Gohan^^!
-SLPS_016.00 Pilot ni Narou^^!
-SLPS_911.65 Pilot ni Narou^^!
-SLPS_914.98 Pilot ni Narou^^!
-SLPM_802.93 Pilot ni Narou^^! (Taikenban)
+SLPS_013.45 Pikiinya^! Excellent
+SLPS_018.47 Pikupiku Sentaro - Puzzle de Gohan^!
+SLPS_016.00 Pilot ni Narou^!
+SLPS_911.65 Pilot ni Narou^!
+SLPS_914.98 Pilot ni Narou^!
+SLPM_802.93 Pilot ni Narou^! (Taikenban)
 SLPS_004.82 Pinball Fantasies Deluxe
 SLES_029.22 Pinball Power
 SLES_039.32 Pink Panther - Pinkadelic Pursuit
@@ -7000,17 +7000,17 @@ SLPM_804.42 Planet Dob (Taikenban)
 SLPM_862.64 Planet Laika
 SLES_038.44 Planet of the Apes
 SLUS_014.68 Planet of the Apes
-SLED_025.19 Play Fun 0100
-SLED_023.09 Play Fun 0200
-SLED_025.94 Play Fun 0400
-SLED_020.65 Play Fun 0699
-SLED_021.10 Play Fun 0799
-SLED_021.88 Play Fun 0999
-SLED_022.91 Play Fun 1099
-SLED_023.11 Play Fun 1199
-SLED_024.14 Play Fun 1299
-SLED_025.93 Play Fun 300
-SLED_021.55 Play Fun 899
+SLED_025.19 Play Fun 01-00
+SLED_023.09 Play Fun 02-00
+SLED_025.94 Play Fun 04-00
+SLED_020.65 Play Fun 06-99
+SLED_021.10 Play Fun 07-99
+SLED_021.88 Play Fun 09-99
+SLED_022.91 Play Fun 10-99
+SLED_023.11 Play Fun 11-99
+SLED_024.14 Play Fun 12-99
+SLED_025.93 Play Fun 3-00
+SLED_021.55 Play Fun 8-99
 SLES_002.21 Play It
 SLED_020.97 Play Power 4 (Demo)
 SLED_021.38 Play Power 5
@@ -7037,8 +7037,8 @@ SLPS_026.97 Play de Oboeru Series - Nihonshi Keyword Deruderu 1800
 SLPS_026.96 Play de Oboeru Series - Sekaishi Keyword Deruderu 1800
 SLES_023.74 Play with the Teletubbies
 SLUS_009.59 Play with the Teletubbies
-PAPX_900.61 Play^^! '98 Fuyu Taikenban (Taikenban)
-PAPX_900.62 Play^^! '98 Fuyu Taikenban (Taikenban)
+PAPX_900.61 Play^! '98 Fuyu Taikenban (Taikenban)
+PAPX_900.62 Play^! '98 Fuyu Taikenban (Taikenban)
 PCPD_995.01 Play-Pre PlayStation Soukan Junbi-gou
 PCPX_961.73 Play-Pre Plus 001 - 1999 October (Disc 1) (Demo)
 PCPX_961.74 Play-Pre Plus 001 - 1999 October (Disc 2) (What's Next) (Demo)
@@ -7099,10 +7099,10 @@ SCUS_946.19 PlayStation Demo Disc Ver. 1.15
 SCUS_946.18 PlayStation Demo Disc Version 1.3
 SCUS_946.50 PlayStation Demo Disc Version 1.4
 SCUS_946.74 PlayStation Demo Disc Version 1.5
-SCUS_944.97 PlayStation Demo Disc Winter 1999 - Shock Your System^^!
-SCUS_944.82 PlayStation Demo Disc - Shock Your System^^!
-SCUS_944.83 PlayStation Demo Disc - Shock Your System^^!
-SCUS_944.96 PlayStation Demo Disc - Shock Your System^^!
+SCUS_944.97 PlayStation Demo Disc Winter 1999 - Shock Your System^!
+SCUS_944.82 PlayStation Demo Disc - Shock Your System^!
+SCUS_944.83 PlayStation Demo Disc - Shock Your System^!
+SCUS_944.96 PlayStation Demo Disc - Shock Your System^!
 SCUS_945.94 PlayStation Demo Disc - Spring 2000 (Demo)
 SCUS_945.95 PlayStation Demo Disc - Spring 2000 (Demo)
 SCUS_949.54 PlayStation Developer's Demo Disc
@@ -7177,7 +7177,7 @@ SLED_019.68 PlayStation Zone CD Vol. 6
 SLED_020.42 PlayStation Zone CD Vol. 7
 SLED_020.78 PlayStation Zone CD Vol. 8
 SLED_021.39 PlayStation Zone CD Vol. 9
-SCUS_941.93 PlayStationPepsi Sampler Disc
+SCUS_941.93 PlayStation-Pepsi Sampler Disc
 SLES_003.19 Player Manager
 SLES_023.25 Player Manager 2000
 SLES_026.13 Player Manager 2000
@@ -7246,7 +7246,7 @@ SLPS_002.16 Policenauts (Disc 2)
 SLES_020.20 Pong
 SLUS_008.89 Pong - The Next Level
 SLUS_808.89 Pong - The Next Level
-SLPS_034.60 Pooh-san no Minna de Mori no Daikyousou^^!
+SLPS_034.60 Pooh-san no Minna de Mori no Daikyousou^!
 SLES_026.97 Pool Academy
 SLES_016.88 Pool Hustler
 SLUS_007.58 Pool Hustler
@@ -7263,7 +7263,7 @@ SLPM_870.89 Pop'n Music 6
 SLPM_865.92 Pop'n Music - Animation Melody
 SLPM_866.70 Pop'n Music - Disney Tunes
 SLPS_016.36 Pop'n Pop
-SLPM_861.46 Pop'n Tanks^^!
+SLPM_861.46 Pop'n Tanks^!
 SLES_036.57 Popstar Maker
 SLES_017.60 Populous - The Beginning
 SLPS_020.85 Populous - The Beginning
@@ -7287,8 +7287,8 @@ SLES_037.31 Power Rangers - La Force du Temps
 SLES_001.18 Power Serve
 SLUS_001.05 Power Serve 3D Tennis
 SLUS_013.43 Power Shovel
-SLPM_866.29 Power Shovel ni Norou^^!^^!
-SLPM_805.71 Power Shovel ni Norou^^!^^! (Taikenban)
+SLPM_866.29 Power Shovel ni Norou^!^!
+SLPM_805.71 Power Shovel ni Norou^!^! (Taikenban)
 SCES_006.67 Power Source
 SLUS_011.96 Power Spike - Pro Beach Volleyball
 SLPM_860.32 Power Stakes
@@ -7308,7 +7308,7 @@ SLPS_005.43 Primal Rage
 SLUS_001.26 Primal Rage
 SLES_027.02 Primera División Stars
 SLES_000.17 Prince Naseem Boxing
-SLPM_865.90 Princess Maker - Go^^! Go^^! Princess
+SLPM_865.90 Princess Maker - Go^! Go^! Princess
 SLPM_865.91 Princess Maker - Pocket Daisakusen
 SLPS_014.77 Princess Maker - Pocket Daisakusen
 SCPS_100.32 Princess Maker - Yumemiru Yousei
@@ -7340,16 +7340,16 @@ SLPS_019.87 Pro Mahjong Tsuwamono 2
 SLPS_030.65 Pro Mahjong Tsuwamono 2
 SLPS_026.59 Pro Mahjong Tsuwamono 3
 SLPS_034.64 Pro Mahjong Tsuwamono 3
-SLPS_023.59 Pro Mahjong Tsuwamono Series - Joryuu Janshi ni Chousen - Watashi-tachi ni Chousen Shite ne^^!
-SLPS_032.18 Pro Mahjong Tsuwamono Series - Joryuu Janshi ni Chousen - Watashi-tachi ni Chousen Shite ne^^!
+SLPS_023.59 Pro Mahjong Tsuwamono Series - Joryuu Janshi ni Chousen - Watashi-tachi ni Chousen Shite ne^!
+SLPS_032.18 Pro Mahjong Tsuwamono Series - Joryuu Janshi ni Chousen - Watashi-tachi ni Chousen Shite ne^!
 SLES_012.11 Pro Pinball - Big Race USA
 SLUS_012.60 Pro Pinball - Big Race USA
 SLES_024.66 Pro Pinball - Fantastic Journey
 SLUS_012.61 Pro Pinball - Fantastic Journey
 SLES_002.59 Pro Pinball - The Web
-SLES_006.06 Pro Pinball - Timeshock^^!
-SLUS_006.39 Pro Pinball - Timeshock^^!
-SLUS_900.39 Pro Pinball - Timeshock^^! (Demo)
+SLES_006.06 Pro Pinball - Timeshock^!
+SLUS_006.39 Pro Pinball - Timeshock^!
+SLUS_900.39 Pro Pinball - Timeshock^! (Demo)
 SLES_039.62 Pro Racer
 SLPS_010.06 Pro Wres Sengokuden - Hyper Tag Match
 SLPS_013.88 Pro Wrestling Sengokuden 2 - Kakutou Emaki
@@ -7392,11 +7392,11 @@ SLPM_865.45 Puchi Carat
 SLPS_014.35 Puchi Carat
 ESPM_700.03 Puffy no P.S. I Love You
 SLES_012.03 Puma Street Soccer
-SLPS_028.05 Punch the Monkey^^! Game Edition
+SLPS_028.05 Punch the Monkey^! Game Edition
 SLUS_005.79 Punky Skunk
 SLPS_001.49 Puppet Zoo Pilomy
 SLPS_021.63 Purumui Purumui
-SLPS_006.79 Pururun^^! with Shape Up Girls
+SLPS_006.79 Pururun^! with Shape Up Girls
 SLUS_013.71 Putter Golf
 SLES_035.65 Puuha Pete - Korjataanko
 SLPS_031.14 Puyo Puyo Box
@@ -7437,10 +7437,10 @@ SCPS_180.05 Quest for Fame - Be a Virtual Rock Legend (Disc 2)
 SLES_035.93 Qui Veut Gagner des Millions - Junior
 SLES_035.90 Qui Veut Gagner des Millions - Seconde Edition
 SLES_034.80 Qui Veut Gagner des Millions
-SLPS_021.89 Quiz Chara-Oke Don^^! Toei Tokusatsu Hero Part 1
-SLPS_023.10 Quiz Chara-Oke Don^^! Toei Tokusatsu Hero Part 2
-SLPM_870.97 Quiz Darake no Jinsei Game - Un to Atama de Daifugou^^!
-SLPS_022.82 Quiz Darake no Jinsei Game - Un to Atama de Daifugou^^!
+SLPS_021.89 Quiz Chara-Oke Don^! Toei Tokusatsu Hero Part 1
+SLPS_023.10 Quiz Chara-Oke Don^! Toei Tokusatsu Hero Part 2
+SLPM_870.97 Quiz Darake no Jinsei Game - Un to Atama de Daifugou^!
+SLPS_022.82 Quiz Darake no Jinsei Game - Un to Atama de Daifugou^!
 SLPS_008.75 Quiz Nanairo Dreams - Nijiiro-chou no Kiseki
 SLES_037.52 Quiz Show (Disc 1) (CD Gioco)
 SLES_137.52 Quiz Show (Disc 2) (CD Help e Backstage)
@@ -7458,13 +7458,13 @@ SLUS_008.77 R-Type Delta
 SLES_013.55 R-Types
 SLPS_012.36 R-Types
 SLUS_007.53 R-Types
-SLES_014.59 RC Stunt Copter
-SLES_021.40 RC Stunt Copter
-SLES_021.41 RC Stunt Copter
-SLPM_864.07 RC Stunt Copter
-SLUS_009.54 RC Stunt Copter
-SLED_015.01 RC Stunt Copter (Demo)
-SLED_022.31 RC Stunt Copter (Demo)
+SLES_014.59 R-C Stunt Copter
+SLES_021.40 R-C Stunt Copter
+SLES_021.41 R-C Stunt Copter
+SLPM_864.07 R-C Stunt Copter
+SLUS_009.54 R-C Stunt Copter
+SLED_015.01 R-C Stunt Copter (Demo)
+SLED_022.31 R-C Stunt Copter (Demo)
 SCPS_453.56 R4 - Ridge Racer Type 4
 SCPS_460.01 R4 - Ridge Racer Type 4
 SLPS_017.98 R4 - Ridge Racer Type 4
@@ -7480,17 +7480,17 @@ SLES_028.24 RC Revenge
 SLPM_866.35 RC Revenge
 SLUS_011.68 RC Revenge
 SLED_031.00 RC Revenge (Demo)
-SLES_030.68 RC de Go^^!
-SLPM_865.46 RC de Go^^!
-SLUS_012.85 RC de Go^^!
-SLPM_805.63 RC de Go^^! (Taikenban)
+SLES_030.68 RC de Go^!
+SLPM_865.46 RC de Go^!
+SLUS_012.85 RC de Go^!
+SLPM_805.63 RC de Go^! (Taikenban)
 SLUS_006.40 RPG Maker
 SLPS_010.93 RPG Tkool 3
 SLPS_911.14 RPG Tkool 3
 SLPS_028.61 RPG Tkool 4
 SLES_037.72 RTL Skispringen 2002
 SLPS_022.93 Raamen-bashi
-SLPS_001.67 Race Drivin' a Go^^! Go^^!
+SLPS_001.67 Race Drivin' a Go^! Go^!
 SLUS_012.91 Racing
 SCPS_454.04 Racing Lagoon
 SLPS_020.38 Racing Lagoon
@@ -7531,7 +7531,7 @@ SLES_010.11 Rampage - World Tour
 SLUS_005.49 Rampage - World Tour
 SLES_002.14 Ran Soccer
 SLPS_005.22 Ranma ½ - Battle Renaissance
-PAPX_900.07 Rap-la-MuuMuu from JumpingFlash^^! 2
+PAPX_900.07 Rap-la-MuuMuu from JumpingFlash^! 2
 SCES_003.94 Rapid Racer
 SCPS_100.60 Rapid Racer
 SCES_000.04 Rapid Reload
@@ -7542,7 +7542,7 @@ SLUS_900.15 Rascal (Demo)
 SLES_040.58 Rascal Racers
 SLUS_015.75 Rascal Racers
 SLES_011.03 Rat Attack
-SLUS_006.56 Rat Attack^^!
+SLUS_006.56 Rat Attack^!
 SCES_007.41 Ray Tracers
 SLPS_000.98 Ray Tracers
 SLUS_005.34 Ray Tracers
@@ -7713,7 +7713,7 @@ SCED_019.82 Ridge Racer Type 4 Collectors Demo (Demo)
 SCPS_453.57 Ridge Racer - High Spec Ver. & Namco Catalogue '98
 SLPS_017.99 Ridge Racer - High Spec Ver. & Namco Catalogue '98
 SLPS_018.01 Ridge Racer - High Spec Ver. & Namco Catalogue '98
-SLPS_030.23 Riichi Mahjong - Ohitorisama demo Utemasu^^!
+SLPS_030.23 Riichi Mahjong - Ohitorisama demo Utemasu^!
 SLPM_872.10 Rikujou Boueitai Mao-chan
 SLPM_871.98 Rikujou Boueitai Mao-chan (DX Pack)
 SLPS_002.07 Ring of Sias
@@ -7764,8 +7764,8 @@ SLES_410.99 Riven - The Sequel to Myst (Disc 5)
 SLES_411.00 Riven - The Sequel to Myst (Disc 5)
 SLPS_011.84 Riven - The Sequel to Myst (Disc 5)
 SLUS_005.80 Riven - The Sequel to Myst (Disc 5)
-SLPS_016.41 RoX - 6  Six
-SLPS_023.88 RoX - 6  Six
+SLPS_016.41 RoX - 6 = Six
+SLPS_023.88 RoX - 6 = Six
 SLES_002.23 Road & Track Presents - The Need for Speed
 SLUS_002.04 Road & Track Presents - The Need for Speed
 SLES_005.43 Road Rage
@@ -7808,18 +7808,18 @@ SLPM_872.50 Rockman
 SLPS_022.20 Rockman
 SLPM_872.49 Rockman 2 - Dr. Wily no Nazo
 SLPS_022.55 Rockman 2 - Dr. Wily no Nazo
-SLPM_872.58 Rockman 3 - Dr. Wily no Saigo^^!
-SLPS_022.62 Rockman 3 - Dr. Wily no Saigo^^!
-SLPM_872.59 Rockman 4 - Aratanaru Yabou^^!^^!
-SLPS_023.24 Rockman 4 - Aratanaru Yabou^^!^^!
-SLPM_872.68 Rockman 5 - Blues no Wana^^!
-SLPS_023.38 Rockman 5 - Blues no Wana^^!
-SLPM_872.69 Rockman 6 - Shijou Saidai no Tatakai^^!^^!
-SLPS_023.79 Rockman 6 - Shijou Saidai no Tatakai^^!^^!
+SLPM_872.58 Rockman 3 - Dr. Wily no Saigo^!
+SLPS_022.62 Rockman 3 - Dr. Wily no Saigo^!
+SLPM_872.59 Rockman 4 - Aratanaru Yabou^!^!
+SLPS_023.24 Rockman 4 - Aratanaru Yabou^!^!
+SLPM_872.68 Rockman 5 - Blues no Wana^!
+SLPS_023.38 Rockman 5 - Blues no Wana^!
+SLPM_872.69 Rockman 6 - Shijou Saidai no Tatakai^!^!
+SLPS_023.79 Rockman 6 - Shijou Saidai no Tatakai^!^!
 SLPS_006.30 Rockman 8 - Metal Heroes
 SLPS_910.45 Rockman 8 - Metal Heroes
-SLPS_021.09 Rockman Dash 2 - Episode 1 - 'Roll-chan Kiki Ippatsu^^!' no Maki
-SLPS_912.04 Rockman Dash 2 - Episode 1 - 'Roll-chan Kiki Ippatsu^^!' no Maki
+SLPS_021.09 Rockman Dash 2 - Episode 1 - 'Roll-chan Kiki Ippatsu^!' no Maki
+SLPS_912.04 Rockman Dash 2 - Episode 1 - 'Roll-chan Kiki Ippatsu^!' no Maki
 SLPM_868.13 Rockman Dash 2 - Episode 2 - Ooinaru Isan
 SLPS_027.11 Rockman Dash 2 - Episode 2 - Ooinaru Isan
 SLPS_011.41 Rockman Dash - Hagane no Boukenshin
@@ -7899,7 +7899,7 @@ SLPS_010.35 Ryuuki Denshou - Dragoon
 SLES_012.86 S.C.A.R.S.
 SLUS_006.92 S.C.A.R.S.
 SLED_014.15 S.C.A.R.S. (Demo)
-SLPS_031.45 SD Gundam Eiyuuden - Daikessen^^!^^! Kishi vs. Musha
+SLPS_031.45 SD Gundam Eiyuuden - Daikessen^!^! Kishi vs. Musha
 SCPS_450.34 SD Gundam - GCentury
 SLPS_007.85 SD Gundam - GCentury
 SLPS_910.65 SD Gundam - GCentury
@@ -7951,8 +7951,8 @@ SLUS_013.51 Saban's Power Rangers - Time Force
 SLPS_007.39 Saber Marionette J - Battle Sabers
 SLPS_007.38 Saber Marionette J - Battle Sabers (Shokai Genteiban)
 SLES_036.28 Sabrina l'Apprentie Sorcière et l'Horloge Cosmique
-SLES_035.61 Sabrina the Teenage Witch - A Twitch in Time^^!
-SLUS_012.08 Sabrina the Teenage Witch - A Twitch in Time^^!
+SLES_035.61 Sabrina the Teenage Witch - A Twitch in Time^!
+SLUS_012.08 Sabrina the Teenage Witch - A Twitch in Time^!
 SLPS_026.11 Saibara Rieko no Mahjong Toriatama Kikou
 SLPS_034.82 Saikyou Ginsei Chess
 SLPS_034.61 Saikyou Ginsei Mahjong
@@ -8031,16 +8031,16 @@ SLES_029.19 Sanvein
 SLPS_021.64 Sanyo Pachinko Paradise
 SLPS_023.89 Sanyo Pachinko Paradise 2 - Umi Monogatari Special
 SLPS_026.33 Sanyo Pachinko Paradise 3 - Wan Wan Daikoushin
-SLPS_029.88 Sanyo Pachinko Paradise 4 - Sushiya da Gen-san^^!^^!
+SLPS_029.88 Sanyo Pachinko Paradise 4 - Sushiya da Gen-san^!^!
 SLPS_031.90 Sanyo Pachinko Paradise 5 - Uki Uki Tairyoubata
 SLPS_027.61 Saraba Uchuu Senkan Yamato - Ai no Senshi-tachi (Disc 1)
 SLPS_027.62 Saraba Uchuu Senkan Yamato - Ai no Senshi-tachi (Disc 2)
 SLPS_027.63 Saraba Uchuu Senkan Yamato - Ai no Senshi-tachi (Disc 3)
-SCPS_100.91 Saru^^! Get You^^!
-SCPS_911.96 Saru^^! Get You^^!
-PAPX_900.79 Saru^^! Get You^^! (Taikenban)
-SCPS_100.84 Saru^^! Get You^^! (Taikenban)
-SCPS_453.96 Saru^^! Get You^^! (Taikenban)
+SCPS_100.91 Saru^! Get You^!
+SCPS_911.96 Saru^! Get You^!
+PAPX_900.79 Saru^! Get You^! (Taikenban)
+SCPS_100.84 Saru^! Get You^! (Taikenban)
+SCPS_453.96 Saru^! Get You^! (Taikenban)
 SLPS_012.03 SatelliTV
 SLPS_006.13 Satomi no Nazo
 SLES_041.77 Schnappi - Das kleine Krokodil - 3 Fun-Games
@@ -8082,8 +8082,8 @@ SLPS_031.51 Sengoku Mugen
 SLPS_027.36 Senkai Taisen - TV Animation Senkaiden Houshin Engi yori
 SLPS_031.76 Senkai Tsuuroku Seishi - TV Animation Senkaiden Houshin Engi yori
 SLPS_004.27 Senran
-SLPS_026.31 Senryaku Shidan - Tora^^! Tora^^! Tora^^! Rikusen-hen
-SLPS_914.22 Senryaku Shidan - Tora^^! Tora^^! Tora^^! Rikusen-hen
+SLPS_026.31 Senryaku Shidan - Tora^! Tora^! Tora^! Rikusen-hen
+SLPS_914.22 Senryaku Shidan - Tora^! Tora^! Tora^! Rikusen-hen
 SLPS_001.42 Senryaku Shougi
 SLES_010.21 Sensible Soccer
 SCUS_941.10 Sentient
@@ -8167,7 +8167,7 @@ SLPM_865.32 Shichida-shiki Unou de Asobenture Vol. 6 - Katachi 123 - 4-6-sai Muk
 SLPS_016.19 Shichisei Toushin Guyferd - Crown Kaimetsu Sakusen
 SLPS_000.82 Shichuu Suimei Pitagraph
 SLPS_028.10 Shiki Oriori no Bass Tsuri
-SLPM_872.51 Shin DX Okuman Chouja Game - Tsukutte^^! Utte^^! Oomouke^^!
+SLPM_872.51 Shin DX Okuman Chouja Game - Tsukutte^! Utte^! Oomouke^!
 SLPS_003.81 Shin Fortune Quest - Shokutaku no Kishi-tachi (Gentei)
 SLPS_003.82 Shin Fortune Quest - Shokutaku no Kishi-tachi (Gentei)
 SLPM_861.77 Shin Jidaigeki Action - Rasetsu no Ken
@@ -8195,17 +8195,17 @@ SLPS_005.50 Shin Super Robot Taisen
 SLPS_007.87 Shin Super Robot Taisen - Special Disc
 SLPS_008.10 Shin Theme Park
 SLPS_911.31 Shin Theme Park
-SLPS_004.14 Shingata Kururin Pa^^!
+SLPS_004.14 Shingata Kururin Pa^!
 SLPS_028.77 Shinobi no Roku
 SLPS_009.25 Shinseiden Megaseed - Fukkatsu-hen
 SLPM_861.09 Shinsetsu Samurai Spirits - Bushidou Retsuden
 SLPS_008.14 Shinsetsu Samurai Spirits - Bushidou Retsuden
-SLPS_011.14 Shinshuku Taisen - It's a Nony^^!
-SLPS_028.65 Shinshuku Taisen - It's a Nony^^!
-SLPM_801.56 Shinshuku Taisen - It's a Nony^^! (Taikenban)
-SLPS_033.12 Shinsou Kaiten^^!^^! Wan Wan Umi Monogatari - Sanyo Pachinko Paradise DX
-SLUS_005.58 Shipwreckers^^!
-SLUS_900.13 Shipwreckers^^! (Demo)
+SLPS_011.14 Shinshuku Taisen - It's a Nony^!
+SLPS_028.65 Shinshuku Taisen - It's a Nony^!
+SLPM_801.56 Shinshuku Taisen - It's a Nony^! (Taikenban)
+SLPS_033.12 Shinsou Kaiten^!^! Wan Wan Umi Monogatari - Sanyo Pachinko Paradise DX
+SLUS_005.58 Shipwreckers^!
+SLUS_900.13 Shipwreckers^! (Demo)
 SLPS_012.40 Shiritsu Justice Gakuen - Legion of Heroes (Disc 1) (Evolution Disc)
 SLPS_012.41 Shiritsu Justice Gakuen - Legion of Heroes (Disc 2) (Arcade Disc)
 SLPM_867.50 Shiritsu Justice Gakuen - Nekketsu Seishun Nikki 2
@@ -8299,8 +8299,8 @@ SLPM_870.49 Simple 1500 Jitsuyou Series Vol. 17 - Planetarium
 SLPM_870.72 Simple 1500 Jitsuyou Series Vol. 18 - Kanji Quiz - Kanji Kentei ni Challenge
 SLPM_871.41 Simple 1500 Series Vol. 100 - The Uchuu Hikoushi
 SLPM_871.42 Simple 1500 Series Vol. 101 - The Sentou
-SLPM_871.44 Simple 1500 Series Vol. 102 - The Densha Untenshu - Densha de Go^^! Nagoya Tetsudou-hen
-SLPM_872.12 Simple 1500 Series Vol. 103 - The Ganso Densha Untenshi - Densha de Go^^!
+SLPM_871.44 Simple 1500 Series Vol. 102 - The Densha Untenshu - Densha de Go^! Nagoya Tetsudou-hen
+SLPM_872.12 Simple 1500 Series Vol. 103 - The Ganso Densha Untenshi - Densha de Go^!
 SLPM_872.15 Simple 1500 Series Vol. 104 - The Pink Panther - Pinkadelic Pursuit
 SLPS_020.30 Simple 1500 Series Vol. 10 - The Billiard
 SLPS_024.46 Simple 1500 Series Vol. 10 - The Billiard
@@ -8376,9 +8376,9 @@ SLPM_868.01 Simple 1500 Series Vol. 62 - The Ski
 SLPM_868.16 Simple 1500 Series Vol. 63 - The Gun Shooting 2
 SLPM_868.41 Simple 1500 Series Vol. 64 - The Kick Boxing
 SLPM_868.42 Simple 1500 Series Vol. 65 - The Golf
-SLPM_868.40 Simple 1500 Series Vol. 66 - The Kaiten - Mawasundaa^^!^^!
+SLPM_868.40 Simple 1500 Series Vol. 66 - The Kaiten - Mawasundaa^!^!
 SLPM_868.64 Simple 1500 Series Vol. 67 - The Soccer - Dynamite Soccer 1500
-SLPM_868.65 Simple 1500 Series Vol. 68 - The RC Car - RC de Go^^!
+SLPM_868.65 Simple 1500 Series Vol. 68 - The RC Car - RC de Go^!
 SLPM_868.68 Simple 1500 Series Vol. 69 - The Putter Golf
 SLPS_016.84 Simple 1500 Series Vol. 6 - The Hanafuda
 SLPS_024.42 Simple 1500 Series Vol. 6 - The Hanafuda
@@ -8395,15 +8395,15 @@ SLPM_869.70 Simple 1500 Series Vol. 79 - The Shisenshou
 SLPS_016.85 Simple 1500 Series Vol. 7 - The Card
 SLPS_024.43 Simple 1500 Series Vol. 7 - The Card
 SLPM_869.71 Simple 1500 Series Vol. 80 - The Jintori
-SLPM_869.72 Simple 1500 Series Vol. 81 - The Ren'ai Adventure - Okaeri^^!
+SLPM_869.72 Simple 1500 Series Vol. 81 - The Ren'ai Adventure - Okaeri^!
 SLPM_869.73 Simple 1500 Series Vol. 82 - The Sensuikan
-SLPM_869.98 Simple 1500 Series Vol. 83 - The Wakeboard - BursTrick - Wake Boarding^^!^^!
+SLPM_869.98 Simple 1500 Series Vol. 83 - The Wakeboard - BursTrick - Wake Boarding^!^!
 SLPM_869.74 Simple 1500 Series Vol. 84 - The Intro Quiz
 SLPM_870.08 Simple 1500 Series Vol. 85 - The Sengoku Bushou - Tenka Touitsu no Yabou
 SLPM_870.17 Simple 1500 Series Vol. 86 - The Onigokko
 SLPM_870.26 Simple 1500 Series Vol. 87 - The Kyoutei
 SLPM_870.23 Simple 1500 Series Vol. 88 - The Gal Mahjong - Love Songs - Idol wa High Rate
-SLPM_870.35 Simple 1500 Series Vol. 89 - The Power Shovel ni Norou^^!^^!
+SLPM_870.35 Simple 1500 Series Vol. 89 - The Power Shovel ni Norou^!^!
 SLPS_016.86 Simple 1500 Series Vol. 8 - The Solitaire
 SLPS_024.44 Simple 1500 Series Vol. 8 - The Solitaire
 SLPM_870.44 Simple 1500 Series Vol. 90 - The Sensha
@@ -8427,12 +8427,12 @@ SLPS_033.09 Simple Character 2000 Series Vol. 01 - Kidou Senshi Gundam - The Gun
 SLPS_033.07 Simple Character 2000 Series Vol. 02 - Afro-ken - The Puzzle
 SLPS_033.08 Simple Character 2000 Series Vol. 03 - Kamen Rider - The Bike Race
 SLPS_033.50 Simple Character 2000 Series Vol. 04 - Jarinko Chie - The Hanafuda
-SLPS_033.62 Simple Character 2000 Series Vol. 05 - High School^^! Kimengumi - The Table Hockey
+SLPS_033.62 Simple Character 2000 Series Vol. 05 - High School^! Kimengumi - The Table Hockey
 SLPS_033.63 Simple Character 2000 Series Vol. 06 - Dokonjou Gaeru - The Mahjong
 SLPS_034.18 Simple Character 2000 Series Vol. 07 - Ikkyuu-san - The Quiz
 SLPS_034.44 Simple Character 2000 Series Vol. 08 - Kagaku Ninja-tai Gatchaman - The Shooting
 SLPS_034.45 Simple Character 2000 Series Vol. 09 - Tsurikichi Sanpei - The Tsuri
-SLPS_034.57 Simple Character 2000 Series Vol. 10 - Sakigake^^!^^! Otokojuku - The Dodgeball
+SLPS_034.57 Simple Character 2000 Series Vol. 10 - Sakigake^!^! Otokojuku - The Dodgeball
 SLPS_034.58 Simple Character 2000 Series Vol. 11 - Meitantei Conan - The Board Game
 SLPS_034.71 Simple Character 2000 Series Vol. 12 - Kidou Butouden G Gundam - The Battle
 SLPS_034.72 Simple Character 2000 Series Vol. 13 - Shin Kidou Senki Gundam W - The Battle
@@ -8485,27 +8485,27 @@ SLUS_009.55 Sled Storm
 SLUS_900.72 Sled Storm & Medal of Honor Demo CD
 SLED_023.00 Sled Storm (Demo)
 SCUS_944.72 Slim Jim
-SLPS_005.04 Slime Shiyou^^!
-SLPS_031.79 Slot^^! Pro 2 - Bakuretsu Oozumou Aka & Murasaki
-SLPS_032.53 Slot^^! Pro 3 - Juggler Special
-SLPS_033.94 Slot^^! Pro 4 - Tairyou Special
-SLPS_034.39 Slot^^! Pro 5 - Naniwa Sakura Fubuki & Shimauta
-SLPS_034.69 Slot^^! Pro 6 - Hyper Juggler V
-SLPS_034.85 Slot^^! Pro 7 - Hana Densetsu
-SLPS_035.51 Slot^^! Pro 8 - Shimamusume 30 & Hana Densetsu 25
-SLPS_029.97 Slot^^! Pro - Ooedo Sakura Fubuki 2
+SLPS_005.04 Slime Shiyou^!
+SLPS_031.79 Slot^! Pro 2 - Bakuretsu Oozumou Aka & Murasaki
+SLPS_032.53 Slot^! Pro 3 - Juggler Special
+SLPS_033.94 Slot^! Pro 4 - Tairyou Special
+SLPS_034.39 Slot^! Pro 5 - Naniwa Sakura Fubuki & Shimauta
+SLPS_034.69 Slot^! Pro 6 - Hyper Juggler V
+SLPS_034.85 Slot^! Pro 7 - Hana Densetsu
+SLPS_035.51 Slot^! Pro 8 - Shimamusume 30 & Hana Densetsu 25
+SLPS_029.97 Slot^! Pro - Ooedo Sakura Fubuki 2
 SLUS_015.55 Slots
-SLPS_033.49 Slotter Mania 2 - Chounetsu 30 Phi^^! Hana Hana & KingBary & Hai Hai Siosai
-SLPS_034.14 Slotter Mania 3 - Bakuryou Houshutsu^^! Uminchu & Fire Element
-SLPS_034.38 Slotter Mania 4 - Gekiatsu Youkou^^! Siolar & King Castle & Kabuto
-SLPS_034.68 Slotter Mania 5 - Gekiuchi Shinzui^^! Hyper Juggler V & Kita-chan Country & Wonder Review 2
-SLPS_034.83 Slotter Mania 6 - Bakuretsu Sairai^^! Wadatsumi (2 Types) & Blue Lagoon
-SLPS_035.11 Slotter Mania 7 - Gekiatsu^^! Siosai-musume Seizoroi DX + Apache A
-SLPS_035.20 Slotter Mania 8 - Miwaku no Takarabako^^! Jewel Magic 2 & Gold & Silver
-SLPS_035.33 Slotter Mania 9 - Gokunetsu 30 Phi^^! Haibi & Splash Seven
-SLPS_029.60 Slotter Mania Core - Tokonatsu no Atsusa^^! Oasis
-SLPS_034.67 Slotter Mania Gaiden - Chouatsu Densetsu^^! Golden Rookie & Fire V & Ryuuou
-SLPS_031.92 Slotter Mania - Gekinetsu Oki-Slot^^! Siosai Special
+SLPS_033.49 Slotter Mania 2 - Chounetsu 30 Phi^! Hana Hana & KingBary & Hai Hai Siosai
+SLPS_034.14 Slotter Mania 3 - Bakuryou Houshutsu^! Uminchu & Fire Element
+SLPS_034.38 Slotter Mania 4 - Gekiatsu Youkou^! Siolar & King Castle & Kabuto
+SLPS_034.68 Slotter Mania 5 - Gekiuchi Shinzui^! Hyper Juggler V & Kita-chan Country & Wonder Review 2
+SLPS_034.83 Slotter Mania 6 - Bakuretsu Sairai^! Wadatsumi (2 Types) & Blue Lagoon
+SLPS_035.11 Slotter Mania 7 - Gekiatsu^! Siosai-musume Seizoroi DX + Apache A
+SLPS_035.20 Slotter Mania 8 - Miwaku no Takarabako^! Jewel Magic 2 & Gold & Silver
+SLPS_035.33 Slotter Mania 9 - Gokunetsu 30 Phi^! Haibi & Splash Seven
+SLPS_029.60 Slotter Mania Core - Tokonatsu no Atsusa^! Oasis
+SLPS_034.67 Slotter Mania Gaiden - Chouatsu Densetsu^! Golden Rookie & Fire V & Ryuuou
+SLPS_031.92 Slotter Mania - Gekinetsu Oki-Slot^! Siosai Special
 SLES_015.80 Small Soldiers
 SLES_015.81 Small Soldiers
 SLES_015.82 Small Soldiers
@@ -8515,7 +8515,7 @@ SLPS_910.53 Smash Court
 SLPS_914.07 Smash Court
 SLPS_016.93 Smash Court 2
 SLPS_030.01 Smash Court 3
-SLUS_013.59 Smurf Racer^^!
+SLUS_013.59 Smurf Racer^!
 SLPS_001.54 Snatcher
 SLPS_026.50 Sno Pokeler
 SLES_027.63 SnoCross Championship Racing
@@ -8719,9 +8719,9 @@ SLUS_000.14 Spot Goes to Hollywood
 SLPS_021.17 Spriggan - Lunar Verse
 PAPX_900.34 Spring Special (Demo)
 SCES_021.04 Spyro 2 - Gateway to Glimmer
-SCUS_944.25 Spyro 2 - Ripto's Rage^^!
-SCUS_944.60 Spyro 2 - Ripto's Rage^^! (Demo)
-SCUS_946.32 Spyro 2 - Ripto's Rage^^!  Crash Team Racing (Demo)
+SCUS_944.25 Spyro 2 - Ripto's Rage^!
+SCUS_944.60 Spyro 2 - Ripto's Rage^! (Demo)
+SCUS_946.32 Spyro 2 - Ripto's Rage^! - Crash Team Racing (Demo)
 SCES_014.38 Spyro the Dragon
 SCPS_100.85 Spyro the Dragon
 SCUS_942.28 Spyro the Dragon
@@ -8756,7 +8756,7 @@ SLPS_026.38 St. Luminous Jogakuin
 SLPS_001.62 Stahlfeder - Tekkou Hikuudan
 SLPS_008.50 Stakes Winner 2 - Saikyouba Densetsu
 SLPS_004.68 Stakes Winner - G1 Kanzen Seiha e no Michi
-SLPS_007.83 Standby Say You^^!
+SLPS_007.83 Standby Say You^!
 SLUS_002.41 Star Fighter
 SLED_005.53 Star Gladiator (Demo)
 SLES_004.95 Star Gladiator - Episode I - Final Crusade
@@ -8766,7 +8766,7 @@ SLPM_800.56 Star Gladiator - Episode I - Final Crusade (Demo)
 SCES_017.07 Star Ixiom
 SLPS_016.80 Star Ixiom
 SLPS_013.90 Star Monja
-SLPM_802.74 Star Ocean - The Second Story & Hello Charlie^^!^^! (Taikenban)
+SLPM_802.74 Star Ocean - The Second Story & Hello Charlie^!^! (Taikenban)
 SCES_021.59 Star Ocean - The Second Story (Disc 1)
 SCES_021.60 Star Ocean - The Second Story (Disc 1)
 SCES_021.61 Star Ocean - The Second Story (Disc 1)
@@ -8834,9 +8834,9 @@ SLES_029.21 StarSweep
 SLPS_010.40 StarSweep
 SLPM_801.36 StarSweep (Taikenban)
 SLPM_801.51 StarSweep (Taikenban)
-SCES_000.34 Starblade a
-SLPS_000.22 Starblade a
-SLUS_000.57 Starblade a
+SCES_000.34 Starblade α
+SLPS_000.22 Starblade α
+SLUS_000.57 Starblade α
 SLPS_009.58 Starborders
 SLUS_013.02 Starfighter Sanvein
 SLPS_014.07 Starlight Scramble - Ren'ai Kouhosei
@@ -8868,13 +8868,13 @@ LSP99014.301 Story Lane Theater 3
 LSP99014.401 Story Lane Theater 4
 LSP99014.501 Story Lane Theater 5
 LSP03010.101 Str.at.e.s. 1 - Match-A-Batch
-LSP03010.201 Str.at.e.s. 2 - Matchamania^^!
-LSP03010.301 Str.at.e.s. 3 - Title This^^! Title That^^!
-LSP03010.401 Str.at.e.s. 4 - Titlerama^^!
-LSP03010.501 Str.at.e.s. 5 - Parallel Lives^^!
-LSP03010.601 Str.at.e.s. 6 - Analogy-ology^^!
-LSP03010.701 Str.at.e.s. 7 - Riddle Roundup^^!
-LSP03010.801 Str.at.e.s. 8 - Riddle Wrangler^^!
+LSP03010.201 Str.at.e.s. 2 - Matchamania^!
+LSP03010.301 Str.at.e.s. 3 - Title This^! Title That^!
+LSP03010.401 Str.at.e.s. 4 - Titlerama^!
+LSP03010.501 Str.at.e.s. 5 - Parallel Lives^!
+LSP03010.601 Str.at.e.s. 6 - Analogy-ology^!
+LSP03010.701 Str.at.e.s. 7 - Riddle Roundup^!
+LSP03010.801 Str.at.e.s. 8 - Riddle Wrangler^!
 SLPS_013.10 Straight Victory - Hoshino Kazuyoshi e no Chousen
 SCED_015.28 Strategie Speziale '98 (Demo)
 SLPM_865.47 Stray Sheep - The Adventure of Poe & Merry
@@ -8899,7 +8899,7 @@ SLUS_005.84 Street Fighter Collection (Disc 2)
 SLPM_801.54 Street Fighter Collection (Taikenban)
 SLES_017.21 Street Fighter Collection 2
 SLUS_007.46 Street Fighter Collection 2
-SLED_004.73 Street Fighter EX + a (Demo)
+SLED_004.73 Street Fighter EX + α (Demo)
 SLES_009.39 Street Fighter EX Plus Alpha
 SLPM_860.41 Street Fighter EX Plus Alpha
 SLPS_910.88 Street Fighter EX Plus Alpha
@@ -8996,8 +8996,8 @@ SLPS_032.38 Summon Night 2 (Disc 2)
 SLPS_915.18 Summon Night 2 (Disc 2)
 SLPS_028.58 Suna no Embrace - Edin no Sato no Navel
 SLPS_010.51 Super Adventure Rockman (Disc 1) (Episode 1 ;Tsuki no Shinden;)
-SLPS_010.52 Super Adventure Rockman (Disc 2) (Episode 2 ;Shitou^^! Wily Numbers;)
-SLPS_010.53 Super Adventure Rockman (Disc 3) (Episode 3 ;Saigo no Tatakai^^!^^!;)
+SLPS_010.52 Super Adventure Rockman (Disc 2) (Episode 2 ;Shitou^! Wily Numbers;)
+SLPS_010.53 Super Adventure Rockman (Disc 3) (Episode 3 ;Saigo no Tatakai^!^!;)
 SLPS_022.19 Super Bass Fishing
 SLPS_028.67 Super Bass Fishing
 SLPS_008.39 Super Black Bass X
@@ -9009,7 +9009,7 @@ SLPS_004.67 Super Casino Special
 SLES_040.45 Super Dropzone - Intergalactic Rescue Mission
 SLES_007.15 Super Football Champ
 SLPS_005.69 Super Football Champ
-SLPM_871.35 Super Gals^^! Kotobuki Ran Special - Ikemen Get You Gals Party
+SLPM_871.35 Super Gals^! Kotobuki Ran Special - Ikemen Get You Gals Party
 SLPS_017.76 Super Hero Sakusen
 SLPM_803.58 Super Hero Sakusen (Taikenban)
 SLPS_030.20 Super Hero Sakusen - Diedal no Yabou
@@ -9053,7 +9053,7 @@ SLPS_028.63 Super Tokusatsu Taisen 2001
 SCUS_944.53 SuperCross Circuit
 SCUS_943.96 SuperCross Circuit (Demo)
 SLPM_872.31 SuperLite 1500 Series - A Ressha de Ikou 4 - Evolution Global
-SLPM_872.82 SuperLite 1500 Series - A Ressha de Ikou Z - Mezase^^! Tairiku Oudan
+SLPM_872.82 SuperLite 1500 Series - A Ressha de Ikou Z - Mezase^! Tairiku Oudan
 SLPM_872.38 SuperLite 1500 Series - A5 - A Ressha de Ikou 5
 SLPM_872.27 SuperLite 1500 Series - Advanced V.G.
 SLPM_872.26 SuperLite 1500 Series - Advanced V.G. 2
@@ -9075,10 +9075,10 @@ SLPM_866.60 SuperLite 1500 Series - Crazy Balloon 2000
 SLPM_864.26 SuperLite 1500 Series - Crossword
 SLPM_865.35 SuperLite 1500 Series - Crossword 2
 SLPM_867.96 SuperLite 1500 Series - Crossword 3
-SLPM_865.80 SuperLite 1500 Series - Cyber Daisenryaku - Shutsugeki^^! Haruka-tai
+SLPM_865.80 SuperLite 1500 Series - Cyber Daisenryaku - Shutsugeki^! Haruka-tai
 SLPM_864.97 SuperLite 1500 Series - Deep Freeze
 SLPM_871.15 SuperLite 1500 Series - Densetsu-juu no Ana - Monster Complete World Ver. 2
-SLPM_865.82 SuperLite 1500 Series - Dezaemon Kids^^!
+SLPM_865.82 SuperLite 1500 Series - Dezaemon Kids^!
 SLPM_870.43 SuperLite 1500 Series - Emmyrea
 SLPM_863.66 SuperLite 1500 Series - F1 Grand Prix 1996 - Team Un'ei Simulation
 SLPM_864.61 SuperLite 1500 Series - Fantastic Night Dreams - Cotton Original
@@ -9090,7 +9090,7 @@ SLPM_866.24 SuperLite 1500 Series - Fishing Club - Hama no Tsuri-hen
 SLPM_867.11 SuperLite 1500 Series - Flamberge no Seirei
 SLPM_862.97 SuperLite 1500 Series - Game de Seishun
 SLPM_863.19 SuperLite 1500 Series - Hanafuda II
-SLPM_864.88 SuperLite 1500 Series - Hooockey^^!^^!
+SLPM_864.88 SuperLite 1500 Series - Hooockey^!^!
 SLPM_863.20 SuperLite 1500 Series - Kaette kita Pachio-kun - Dream Collection
 SLPM_868.32 SuperLite 1500 Series - Kaiteiban Mark Yazaki no Seiyou Senseijutsu
 SLPM_868.33 SuperLite 1500 Series - Kaiteiban Shichuu Suimei - Mark Yazaki Kanshuu
@@ -9103,7 +9103,7 @@ SLPM_862.58 SuperLite 1500 Series - Mahjong II
 SLPM_868.56 SuperLite 1500 Series - Mahjong Senjutsu - Andou Mitsuru Pro no Akuukan Sappou
 SLPM_871.43 SuperLite 1500 Series - Mahjong Uranai Fortuna - Tsuki no Megami-tachi
 SLPM_868.17 SuperLite 1500 Series - Makikou
-SLPM_864.43 SuperLite 1500 Series - Mawatte Mucho^^!
+SLPM_864.43 SuperLite 1500 Series - Mawatte Mucho^!
 SLPM_865.83 SuperLite 1500 Series - Memories Off
 SLPM_871.20 SuperLite 1500 Series - Monster Complete World
 SLPM_872.11 SuperLite 1500 Series - Märchen Adventure - Cotton 100%
@@ -9121,7 +9121,7 @@ SLPM_865.33 SuperLite 1500 Series - Oekaki Puzzle 3
 SLPM_866.75 SuperLite 1500 Series - Oekaki Puzzle 4
 SLPM_868.00 SuperLite 1500 Series - Oekaki Puzzle 5
 SLPM_871.64 SuperLite 1500 Series - Option - Tuning Car Battle Spec R
-SLPM_863.18 SuperLite 1500 Series - Pachi-Slot Hisshouhou^^! Sammy Revolution
+SLPM_863.18 SuperLite 1500 Series - Pachi-Slot Hisshouhou^! Sammy Revolution
 SLPM_862.76 SuperLite 1500 Series - Pangaea
 SLPM_870.69 SuperLite 1500 Series - Pao Leeming Kanshuu - Fuusui Nyuumon
 SLPM_862.60 SuperLite 1500 Series - Pinball - Golden Logres
@@ -9181,13 +9181,13 @@ SLPM_870.37 SuperLite Gold Series - Wizardry - Llylgamyn Saga
 SLPM_868.78 SuperLite Gold Series - Wizardry - New Age of Llylgamyn
 SLES_041.54 Superbike Masters
 SLES_000.80 Supersonic Racers
-SLES_040.88 Superstar Dance Club - #1 Hits^^!^^!^^!
-SLUS_014.93 Superstar Dance Club - #1 Hits^^!^^!^^!
+SLES_040.88 Superstar Dance Club - #1 Hits^!^!^!
+SLUS_014.93 Superstar Dance Club - #1 Hits^!^!^!
 SLES_028.38 Surf Riders
 SLUS_011.90 Surf Riders
-SLPS_017.37 Susume^^! Kaizoku - Be Pirates^^!
-SLPM_803.67 Susume^^! Kaizoku - Be Pirates^^! (Taikenban)
-SLPS_002.55 Susume^^! Taisen Puzzle-dama
+SLPS_017.37 Susume^! Kaizoku - Be Pirates^!
+SLPM_803.67 Susume^! Kaizoku - Be Pirates^! (Taikenban)
+SLPS_002.55 Susume^! Taisen Puzzle-dama
 SLPS_027.30 Suzu Monogatari
 SLES_022.21 Suzuki Alstare Challenge
 SLPM_865.13 Suzuki Bakuhatsu
@@ -9271,14 +9271,14 @@ SLPS_021.81 Tactical Armor Custom Gasaraki
 SLUS_005.60 Tactics Ogre
 SLPS_007.67 Tactics Ogre - Let Us Cling Together
 SLPS_025.24 Tactics Ogre - Let Us Cling Together
-SLPS_001.16 Tadaima Wakusei Kaitaku-chuu^^!
+SLPS_001.16 Tadaima Wakusei Kaitaku-chuu^!
 SLPM_867.82 Taiho Shichau zo - You're Under Arrest (Disc 1)
 SLPM_867.80 Taiho Shichau zo - You're Under Arrest (Disc 1) (Shokai Genteiban)
 SLPM_867.83 Taiho Shichau zo - You're Under Arrest (Disc 2)
 SLPM_867.81 Taiho Shichau zo - You're Under Arrest (Disc 2) (Shokai Genteiban)
 SLPM_804.15 Taiken Bandai Vol. 2 (Taikenban)
-SLPM_803.05 Taiken Bandai^^! Vol. 1 (Taikenban)
-SLPS_002.02 Taiketsu Rumiizu^^! Meruhen Land
+SLPM_803.05 Taiken Bandai^! Vol. 1 (Taikenban)
+SLPS_002.02 Taiketsu Rumiizu^! Meruhen Land
 SLPM_867.89 Taikou Risshiden II
 SLPS_002.34 Taikou Risshiden II
 SLPS_910.42 Taikou Risshiden II
@@ -9399,10 +9399,10 @@ SLES_003.16 Tempest X3
 SLUS_002.83 Tempest X3
 SLES_005.34 Ten Pin Alley
 SLUS_003.77 Ten Pin Alley
-SLPM_863.68 Ten made Jack - Odoroki Mamenoki Daitoubou^^!^^!
+SLPM_863.68 Ten made Jack - Odoroki Mamenoki Daitoubou^!^!
 SLPS_012.43 Tenant Wars
-SLPS_004.51 Tenchi Muyou^^! Toukou Muyou (Disc 1)
-SLPS_004.52 Tenchi Muyou^^! Toukou Muyou (Disc 2)
+SLPS_004.51 Tenchi Muyou^! Toukou Muyou (Disc 1)
+SLPS_004.52 Tenchi Muyou^! Toukou Muyou (Disc 2)
 SLPM_874.00 Tenchi o Kurau II - Sekiheki no Tatakai
 SLPS_002.03 Tenchi o Kurau II - Sekiheki no Tatakai
 SLES_024.52 Tenchu 2 - Birth of the Stealth Assassins
@@ -9420,7 +9420,7 @@ SLPS_010.15 Tenkuu no Escaflowne
 SLPS_010.14 Tenkuu no Escaflowne (Genteiban)
 SLPM_865.84 Tenkuu no Restaurant
 SLPS_914.52 Tenkuu no Restaurant
-SLPM_867.34 Tenkuu no Restaurant - Hello^^! Project Ver.
+SLPM_867.34 Tenkuu no Restaurant - Hello^! Project Ver.
 SLUS_013.48 Tennis
 SLES_009.35 Tennis Arena
 SLPS_013.03 Tennis Arena
@@ -9460,8 +9460,8 @@ SLUS_003.38 Tetris Plus
 SLPS_003.21 Tetris X
 SLPS_910.36 Tetris X
 SLPS_028.86 Tetris with Cardcaptor Sakura - Eternal Heart
-SLPS_001.64 Tetsudou-ou '96 - Iku ze Okuman Chouja^^!^^!
-SLPS_010.12 Tetsudou-ou 2 - Sekai Seifuku no Yabou^^!^^!
+SLPS_001.64 Tetsudou-ou '96 - Iku ze Okuman Chouja^!^!
+SLPS_010.12 Tetsudou-ou 2 - Sekai Seifuku no Yabou^!^!
 SLPS_006.75 Tetsuya Komuro - Gaball Screen
 SLPS_006.76 Tetsuya Komuro - Gaball Screen
 SLPS_017.18 Tettei Kaiseki - Hisshou Pachi-Slot Doujou - Yamasa & Pioneer
@@ -9487,8 +9487,8 @@ SLES_001.87 The Chessmaster 3-D
 SLUS_000.52 The Chessmaster 3-D
 SCUS_941.50 The City of Lost Children
 SLES_001.70 The City of Lost Children
-SLPM_866.91 The Conveni 2 - Zenkoku Chain Tenkai da^^!
-SLPS_011.46 The Conveni 2 - Zenkoku Chain Tenkai da^^!
+SLPM_866.91 The Conveni 2 - Zenkoku Chain Tenkai da^!
+SLPS_011.46 The Conveni 2 - Zenkoku Chain Tenkai da^!
 SLPS_013.01 The Conveni Special - 3-tsu no Sekai o Dokusen seyo
 SLPM_866.55 The Conveni - Ano Machi o Dokusen seyo
 SLPS_007.82 The Conveni - Ano Machi o Dokusen seyo
@@ -9497,7 +9497,7 @@ SLES_002.79 The Crow - City of Angels
 SLES_006.48 The Crow - City of Angels
 SLPS_007.69 The Crow - City of Angels
 SLUS_002.42 The Crow - City of Angels
-SLPS_015.58 The Crown Knights - Jaja-uma^^! Quartet - Mega Dream Destruction+
+SLPS_015.58 The Crown Knights - Jaja-uma^! Quartet - Mega Dream Destruction+
 SLPM_804.22 The Cybernetic Tuning Master - Exhaust King
 SLES_029.59 The Dalmatians
 SLPS_005.01 The Deep - Ushinawareta Shinkai
@@ -9505,7 +9505,7 @@ SLUS_003.17 The Divide - Enemies Within
 SLPM_872.52 The Dog Master
 SLPM_871.75 The Dog Master (Shokai Genteiban)
 SLPM_866.78 The Drug Store
-SLPS_015.16 The Drug Store - MatsumotoKiyoshi de Okaimono^^!
+SLPS_015.16 The Drug Store - MatsumotoKiyoshi de Okaimono^!
 SLES_033.93 The Dukes of Hazzard II - Daisy Dukes It Out
 SLUS_012.43 The Dukes of Hazzard II - Daisy Dukes It Out
 SLES_023.43 The Dukes of Hazzard - Racing for Home
@@ -9525,7 +9525,7 @@ SLPS_001.48 The Firemen 2 - Pete & Danny
 SLPS_020.90 The Firemen 2 - Pete & Danny
 SLES_023.45 The Flintstones - Bedrock Bowling
 SLUS_009.31 The Flintstones - Bedrock Bowling
-SLPS_015.83 The Game Maker - Ureyuki 100-manbon Get da ze^^!
+SLPS_015.83 The Game Maker - Ureyuki 100-manbon Get da ze^!
 SLUS_007.69 The Game of Life
 SLPS_001.55 The Game of Life - DX Jinsei Game
 SLPS_910.25 The Game of Life - DX Jinsei Game
@@ -9652,16 +9652,16 @@ SLUS_008.62 The Next Tetris
 SLPM_803.68 The Next Tetris (Taikenban)
 SLPS_025.07 The Next Tetris DLX
 SLES_007.49 The Note
-SLPM_869.89 The Oni Taiji^^!^^! - Mezase^^! Nidaime Momotarou
-SLPS_000.89 The Oni Taiji^^!^^! - Mezase^^! Nidaime Momotarou
+SLPM_869.89 The Oni Taiji^!^! - Mezase^! Nidaime Momotarou
+SLPS_000.89 The Oni Taiji^!^! - Mezase^! Nidaime Momotarou
 SLPS_004.18 The Open Golf - History of Turnberry
 SLPS_000.87 The Perfect Golf
 SLES_036.29 The Powerpuff Girls - Chemical X-Traction
 SLUS_014.23 The Powerpuff Girls - Chemical X-Traction
 SLPM_861.39 The Pro Mahjong - Menkyo Kaiden
-LSP06010.101 The Quaddle Family Mysteries 1 - The Case of the Scarce Scarab - Lobby  Kitchen
+LSP06010.101 The Quaddle Family Mysteries 1 - The Case of the Scarce Scarab - Lobby - Kitchen
 LSP06010.201 The Quaddle Family Mysteries 2 - The Case of the Scarce Scarab - Garden
-LSP06010.301 The Quaddle Family Mysteries 3 - The Case of the Scarce Scarab - Parlor  Family Room
+LSP06010.301 The Quaddle Family Mysteries 3 - The Case of the Scarce Scarab - Parlor - Family Room
 SCUS_944.02 The Raiden Project
 SLES_000.51 The Raiden Project
 SLES_000.39 The Raven Project (Disc 1)
@@ -9676,11 +9676,11 @@ LSP02015.001 The Secret of Googol 1b - Reshaping Googol - The Tower
 LSP02018.001 The Secret of Googol 2a - Reshaping Googol - The Castle
 LSP02017.001 The Secret of Googol 2b - Reshaping Googol - Under the Ocean
 LSP02026.001 The Secret of Googol 3 - The Googol Counting Fair - Midways
-LSP02028.001 The Secret of Googol 4 - The Googol Counting Fair - Corral  Fun House
-LSP02045.001 The Secret of Googol 5 - Googolfest - Party Isle  Toy Isle
-LSP02057.001 The Secret of Googol 6 - Googolfest - Arcade Isle  Moon Feast Isle
-LSP02065.001 The Secret of Googol 7 - Eggs All Around - Egg Trek  Balloon Picnic
-LSP02078.001 The Secret of Googol 8 - Googol Gulch - General Store  Math Arcade
+LSP02028.001 The Secret of Googol 4 - The Googol Counting Fair - Corral - Fun House
+LSP02045.001 The Secret of Googol 5 - Googolfest - Party Isle - Toy Isle
+LSP02057.001 The Secret of Googol 6 - Googolfest - Arcade Isle - Moon Feast Isle
+LSP02065.001 The Secret of Googol 7 - Eggs All Around - Egg Trek - Balloon Picnic
+LSP02078.001 The Secret of Googol 8 - Googol Gulch - General Store - Math Arcade
 SLPS_001.69 The Shinri Game
 SLPS_020.48 The Shinri Game
 SLPS_031.74 The Shinri Game 10
@@ -9815,12 +9815,12 @@ SLES_007.28 Tigershark
 SLPS_010.17 Tigershark
 SLUS_003.46 Tigershark
 SLPS_007.17 Tilk - Aoi Umi kara Kita Shoujo
-SLES_001.52 Tilt^^!
+SLES_001.52 Tilt^!
 SLPS_031.33 Time Bokan Series - Bokan GoGoGo
 SLPS_012.11 Time Bokan Series - Bokan desu yo
-SLPS_006.09 Time Bokan Series - Bokan to Ippatsu^^! Doronbow
-SLPS_910.51 Time Bokan Series - Bokan to Ippatsu^^! Doronbow
-SLPM_800.64 Time Bokan Series - Bokan to Ippatsu^^! Doronbow (Taikenban)
+SLPS_006.09 Time Bokan Series - Bokan to Ippatsu^! Doronbow
+SLPS_910.51 Time Bokan Series - Bokan to Ippatsu^! Doronbow
+SLPM_800.64 Time Bokan Series - Bokan to Ippatsu^! Doronbow (Taikenban)
 SLES_036.51 Time Bokan - Yattaman
 SLES_002.24 Time Commando
 SLES_004.88 Time Commando
@@ -9859,9 +9859,9 @@ SCES_019.98 Tiny Toon Adventures - Buster and the Beanstalk
 SLES_035.47 Tiny Toon Adventures - Plucky's Big Adventure
 SLUS_013.93 Tiny Toon Adventures - Plucky's Big Adventure
 SLUS_006.38 Tiny Toon Adventures - The Great Beanstalk
-SLES_029.23 Tiny Toon Adventures - Toonenstein - Dare to Scare^^!
-SLUS_009.67 Tiny Toon Adventures - Toonenstein - Dare to Scare^^!
-SLES_029.27 Tiny Toon Adventures - Toonenstein - Geisterstunde^^!
+SLES_029.23 Tiny Toon Adventures - Toonenstein - Dare to Scare^!
+SLUS_009.67 Tiny Toon Adventures - Toonenstein - Dare to Scare^!
+SLES_029.27 Tiny Toon Adventures - Toonenstein - Geisterstunde^!
 SLES_029.26 Tiny Toon Adventures - Toonenstein - Le Château hanté
 SLUS_900.82 Titan A.E. (Demo)
 SLES_002.75 Titan Wars
@@ -9926,7 +9926,7 @@ SLPS_000.64 Tokimeki Memorial - Forever with You (Shokai Genteiban)
 SLPM_860.36 Tokimeki Memorial - Taisen Tokkaedama
 SLPM_860.94 Tokimeki no Houkago - Ne Quiz Shiyo
 SLPM_863.47 Tokimeki no Houkago - Ne Quiz Shiyo
-SLPS_035.28 Toko Toko Trouble - Chikyuu Itadaki^^!
+SLPS_035.28 Toko Toko Trouble - Chikyuu Itadaki^!
 SLPM_866.64 Tokoro-san no Daifugou
 SLPM_868.24 Tokoro-san no Daifugou
 SLPS_012.59 Tokyo 23-ku Seifuku Wars
@@ -9950,7 +9950,7 @@ SLPS_014.33 Tokyo Majin Gakuen - Kenpuuchou (Disc 2) (In)
 SLPS_028.35 Tokyo Majin Gakuen - Kenpuuchou (Disc 2) (In)
 SLPS_020.15 Tokyo Majin Gakuen - Oboro Kitan
 SLPS_028.36 Tokyo Majin Gakuen - Oboro Kitan
-SLPM_871.78 Tokyo Mew Mew - Toujou Shin Mew Mew^^! Minna Issho ni Gohoushi suru nyan
+SLPM_871.78 Tokyo Mew Mew - Toujou Shin Mew Mew^! Minna Issho ni Gohoushi suru nyan
 SLPM_800.21 Tokyo Shadow
 SLPS_002.85 Tokyo Shadow (Disc 1)
 SLPS_002.86 Tokyo Shadow (Disc 2)
@@ -9972,7 +9972,7 @@ SLES_000.24 Tomb Raider
 SLES_004.85 Tomb Raider
 SLES_004.86 Tomb Raider
 SLUS_001.52 Tomb Raider
-SLED_005.13 Tomb Raider & Blam^^! Machinehead
+SLED_005.13 Tomb Raider & Blam^! Machinehead
 SLED_005.71 Tomb Raider (Demo)
 SLPS_012.00 Tomb Raider 2
 SLPS_911.19 Tomb Raider 2
@@ -10016,21 +10016,21 @@ SLED_024.18 Tomb Raider - The Last Revelation (Demo)
 SLPS_006.17 Tomb Raiders
 SLPS_910.49 Tomb Raiders
 SLPS_914.33 Tomb Raiders
-SCUS_942.36 Tomba^^!
-SCUS_942.55 Tomba^^! (Demo)
-SCUS_944.54 Tomba^^! 2 - The Evil Swine Return
-SCUS_944.64 Tomba^^! 2 - The Evil Swine Return (Demo)
-SLPS_023.50 Tomba^^! The Wild Adventures
-PAPX_900.96 Tomba^^! The Wild Adventures (Taikenban)
-SLPM_804.76 Tomba^^! The Wild Adventures (Taikenban)
-SCES_013.30 Tombi^^!
-SCES_013.31 Tombi^^!
-SCES_021.47 Tombi^^! 2
-SCES_026.84 Tombi^^! 2
-SCES_026.85 Tombi^^! 2
-SCES_026.86 Tombi^^! 2
-SCES_026.87 Tombi^^! 2 - Contra los Cerdiablos
-SLPS_019.35 Tomica Town o Tsukurou^^!
+SCUS_942.36 Tomba^!
+SCUS_942.55 Tomba^! (Demo)
+SCUS_944.54 Tomba^! 2 - The Evil Swine Return
+SCUS_944.64 Tomba^! 2 - The Evil Swine Return (Demo)
+SLPS_023.50 Tomba^! The Wild Adventures
+PAPX_900.96 Tomba^! The Wild Adventures (Taikenban)
+SLPM_804.76 Tomba^! The Wild Adventures (Taikenban)
+SCES_013.30 Tombi^!
+SCES_013.31 Tombi^!
+SCES_021.47 Tombi^! 2
+SCES_026.84 Tombi^! 2
+SCES_026.85 Tombi^! 2
+SCES_026.86 Tombi^! 2
+SCES_026.87 Tombi^! 2 - Contra los Cerdiablos
+SLPS_019.35 Tomica Town o Tsukurou^!
 SLES_012.28 Tommi Mäkinen Rally
 SLES_012.35 Tommi Mäkinen Rally
 SLED_013.29 Tommi Mäkinen Rally (Demo)
@@ -10040,9 +10040,9 @@ SCPS_180.08 Tomoyasu Hotei - Stolen Song (Disc 2)
 SCPS_180.10 Tomoyasu Hotei - Stolen Song (Disc 2)
 PCPX_961.05 Tomoyasu Hotei - Stolen Song (Taikenban)
 PCPX_961.12 Tomoyasu Hotei - Stolen Song (Taikenban)
-SLPS_033.47 Tonde^^! Tonde^^! Diet - Stepper Action Game
-SLPS_021.13 Tondemo Crisis^^!
-SLPM_804.35 Tondemo Crisis^^! (Taikenban)
+SLPS_033.47 Tonde^! Tonde^! Diet - Stepper Action Game
+SLPS_021.13 Tondemo Crisis^!
+SLPM_804.35 Tondemo Crisis^! (Taikenban)
 SLUS_010.07 Tonka Space Station
 SLPM_864.29 Tony Hawk's Pro Skater
 SLPM_869.43 Tony Hawk's Pro Skater
@@ -10066,14 +10066,14 @@ SLUS_014.85 Tony Hawk's Pro Skater 4
 SLES_020.55 Tony Hawk's Skateboarding
 SLED_020.54 Tony Hawk's Skateboarding (Demo)
 SLPS_004.30 Tonzura-kun
-SLES_003.52 Top Gun - Fire at Will^^!
-SLPS_006.65 Top Gun - Fire at Will^^!
-SLUS_000.32 Top Gun - Fire at Will^^!
+SLES_003.52 Top Gun - Fire at Will^!
+SLPS_006.65 Top Gun - Fire at Will^!
+SLUS_000.32 Top Gun - Fire at Will^!
 SLUS_013.33 Top Shop
 SCES_002.48 Topolino e le Sue Avventure
-SLPS_008.55 Tora^^! Tora^^! Tora^^!
-SLPS_016.97 Tora^^! Tora^^! Tora^^!
-PCPX_961.88 Toro Channel - Zoukangou nano nya^^! SCEI Nenmatsu Shinsaku Soft Information Movie Disc
+SLPS_008.55 Tora^! Tora^! Tora^!
+SLPS_016.97 Tora^! Tora^! Tora^!
+PCPX_961.88 Toro Channel - Zoukangou nano nya^! SCEI Nenmatsu Shinsaku Soft Information Movie Disc
 SLPM_802.20 Toshiba Emi Egg & Zutto Issho Demo Disc (Taikenban)
 SLES_024.93 Toshinden 4
 SLED_020.23 Total Activision Demo
@@ -10114,7 +10114,7 @@ SLES_041.27 Toys
 SCUS_941.90 Toys ;R; Us ;Test; Drive Promotion
 SCUS_942.66 Toys ;R; Us Demo Disc (Demo)
 SCUS_946.11 Toys ;R; Us Summer Demo Disc
-SCUS_943.97 Toys ;R; Us - Attack of the Killer Demos^^! (Demo)
+SCUS_943.97 Toys ;R; Us - Attack of the Killer Demos^! (Demo)
 SCUS_943.71 Toys ;R; Us - Interactive CD Sampler Disc
 SLPS_017.04 Toys Dream
 SLPS_010.76 Transformers - Beast Wars
@@ -10122,7 +10122,7 @@ SLPS_022.08 Transformers - Beast Wars
 SLPS_024.68 Transformers - Beast Wars Metals
 SLUS_011.60 Transformers - Beast Wars Transmetals
 SLES_002.62 Transport Tycoon
-SLPS_006.94 Transport Tycoon 3D - SL Kara Hajimeyou^^!^^!
+SLPS_006.94 Transport Tycoon 3D - SL Kara Hajimeyou^!^!
 SLPS_014.94 Trap Gunner
 SLUS_006.79 Trap Gunner
 SLPM_802.63 Trap Gunner (Taikenban)
@@ -10163,9 +10163,9 @@ SLPS_024.04 True Love Story Fan Disc
 SLPS_011.51 True Love Story - Remember My Heart
 SLES_000.52 True Pinball
 SLUS_003.37 True Pinball
-SLPS_014.40 Trump Shiyou yo^^!
-SLPS_022.25 Trump Shiyou yo^^!
-SLPS_026.12 Trump Shiyou yo^^!
+SLPS_014.40 Trump Shiyou yo^!
+SLPS_022.25 Trump Shiyou yo^!
+SLPS_026.12 Trump Shiyou yo^!
 SLPS_017.46 Tsumu
 SLPS_022.53 Tsumu Light
 SLPS_016.94 TsunTsun-gumi 2 - MojiMoji Pakkun
@@ -10175,7 +10175,7 @@ SLPS_004.40 Tsuri Baka Nisshi
 SLPS_017.52 Tsuridou - Keiryuu Mizuumi-hen
 SLPS_011.39 Tsuridou - Umizuri-hen
 SLPS_911.25 Tsuridou - Umizuri-hen
-SLPS_003.34 Tsuukai^^!^^! Slot Shooting
+SLPS_003.34 Tsuukai^!^! Slot Shooting
 SLES_032.98 Tunguska - Legend of Faith
 SLES_003.22 Tunnel B1
 SLUS_001.88 Tunnel B1
@@ -10212,29 +10212,29 @@ SCUS_946.42 Twisted Metal - Small Brawl
 SCES_005.67 Twisted Metal - World Tour
 SCED_025.40 Two Product Psygnosis Demo (Demo)
 SLPS_001.31 Two-Ten Kaku
-SLUS_010.74 Tyco RC - Assault with a Battery
-SLUS_900.85 Tyco RC - Assault with a Battery (Demo)
+SLUS_010.74 Tyco R-C - Assault with a Battery
+SLUS_900.85 Tyco R-C - Assault with a Battery (Demo)
 SLES_021.31 Téléfoot Manager
 SLPS_026.93 U-SA
 SLPS_014.80 U.P.P.
 SLPS_009.94 U.S. Navy Fighters
 SLES_028.06 UEFA Challenge
 SLES_028.07 UEFA Challenge
-SLES_017.44 UEFA Champions League - Saison 199899
-SLES_017.45 UEFA Champions League - Saison 199899
-SLES_016.22 UEFA Champions League - Season 199899
-SLES_025.77 UEFA Champions League - Season 19992000
-SLES_025.78 UEFA Champions League - Season 19992000
-SLES_025.79 UEFA Champions League - Season 19992000
-SLES_025.80 UEFA Champions League - Season 19992000
-SLES_025.81 UEFA Champions League - Season 19992000
-SLES_032.62 UEFA Champions League - Season 20002001
-SLES_032.80 UEFA Champions League - Season 20002001
-SLES_032.81 UEFA Champions League - Season 20002001
-SLES_032.82 UEFA Champions League - Season 20002001
-SLES_032.83 UEFA Champions League - Season 20002001
-SLES_017.46 UEFA Champions League - Stagione 199899
-SLES_017.47 UEFA Champions League - Temporada 199899
+SLES_017.44 UEFA Champions League - Saison 1998-99
+SLES_017.45 UEFA Champions League - Saison 1998-99
+SLES_016.22 UEFA Champions League - Season 1998-99
+SLES_025.77 UEFA Champions League - Season 1999-2000
+SLES_025.78 UEFA Champions League - Season 1999-2000
+SLES_025.79 UEFA Champions League - Season 1999-2000
+SLES_025.80 UEFA Champions League - Season 1999-2000
+SLES_025.81 UEFA Champions League - Season 1999-2000
+SLES_032.62 UEFA Champions League - Season 2000-2001
+SLES_032.80 UEFA Champions League - Season 2000-2001
+SLES_032.81 UEFA Champions League - Season 2000-2001
+SLES_032.82 UEFA Champions League - Season 2000-2001
+SLES_032.83 UEFA Champions League - Season 2000-2001
+SLES_017.46 UEFA Champions League - Stagione 1998-99
+SLES_017.47 UEFA Champions League - Temporada 1998-99
 SLES_027.04 UEFA Euro 2000
 SLES_027.05 UEFA Euro 2000
 SLES_027.06 UEFA Euro 2000
@@ -10247,7 +10247,7 @@ SLES_038.10 US Racer
 SLES_007.22 Ubik
 SLPM_861.90 Uchi ni Pochi ga Yattekita in my Pocket
 SLPS_002.36 Uchuu Goushouden - Bakuretsu Akindo
-SLPS_000.32 Uchuu Seibutsu Flopon-kun P^^!
+SLPS_000.32 Uchuu Seibutsu Flopon-kun P^!
 SLPS_029.52 Uchuu Senkan Yamato - Eiyuu no Kiseki
 SLPS_019.00 Uchuu Senkan Yamato - Haruka naru Hoshi Iscandar
 SLPS_032.34 Uchuu Senkan Yamato - Haruka naru Hoshi Iscandar
@@ -10281,12 +10281,12 @@ SLPM_864.03 Umapoly
 SLPS_017.67 Umezawa Yukari no Taikyoku Igo - Heisei Kiin II
 SLPS_021.72 Umi no Nushi-tsuri - Takarajima ni Mukatte
 SLPM_804.59 Umi no Nushi-tsuri - Takarajima ni Mukatte (Taikenban)
-SLPS_016.23 Umi no Oh^^! Yah^^!
-SLPM_803.22 Umi no Oh^^! Yah^^! (Taikenban)
+SLPS_016.23 Umi no Oh^! Yah^!
+SLPM_803.22 Umi no Oh^! Yah^! (Taikenban)
 SLPS_006.43 Umihara Kawase Shun
 SLPS_025.49 Umihara Kawase Shun - Second Edition
 SLPM_870.55 UnGro Walker
-SLPS_033.80 Undou Busoku Kaishou^^! Punch de Diet
+SLPS_033.80 Undou Busoku Kaishou^! Punch de Diet
 SLPS_012.25 Universal Nuts
 SLPS_000.46 Universal Virtua Pachi-Slot - Hisshou Kouryakuhou
 SLPS_001.01 Universal-ki Kanzen Kaiseki - Pachi-Slot Simulator
@@ -10302,7 +10302,7 @@ SLPM_864.37 Utauta Woo - Seirei-Songs
 SLPS_013.17 Utchan Nanchan no Honoo no Challenger - Denryuu Iraira-bou Returns
 SLPM_802.29 Utchan Nanchan no Honoo no Challenger - Denryuu Iraira-bou Returns (Taikenban)
 SLES_008.46 V-Ball - Beach Volley Heroes
-SLPM_806.35 V-Jump Soukan 9-shuunen Kinen Special Disc^^!^^! (Taikenban)
+SLPM_806.35 V-Jump Soukan 9-shuunen Kinen Special Disc^!^! (Taikenban)
 SLES_002.50 V-Rally - 97 Championship Edition
 SLPM_801.91 V-Rally - Championship Edition
 SLPS_011.49 V-Rally - Championship Edition
@@ -10471,8 +10471,8 @@ SLUS_003.97 WCW Nitro
 SLED_012.71 WCW Nitro (Demo)
 SLES_007.63 WCW vs. the World
 SLUS_004.55 WCW vs. the World
-SLES_016.63 WCWnWo Thunder
-SLUS_007.79 WCWnWo Thunder
+SLES_016.63 WCW-nWo Thunder
+SLUS_007.79 WCW-nWo Thunder
 SLES_038.69 WM Nationalspieler
 SCES_039.07 WRC - FIA World Rally Championship Arcade
 SLPS_028.52 WTC - World Touring Car Championship
@@ -10482,11 +10482,11 @@ SLUS_008.31 WWF Attitude
 SLES_002.86 WWF In Your House
 SLPS_006.95 WWF In Your House
 SLUS_002.46 WWF In Your House
-SLES_026.19 WWF SmackDown^^!
-SLUS_009.27 WWF SmackDown^^!
-SLED_027.41 WWF SmackDown^^! (Demo)
-SLES_032.51 WWF SmackDown^^! 2 - Know Your Role
-SLUS_012.34 WWF SmackDown^^! 2 - Know Your Role
+SLES_026.19 WWF SmackDown^!
+SLUS_009.27 WWF SmackDown^!
+SLED_027.41 WWF SmackDown^! (Demo)
+SLES_032.51 WWF SmackDown^! 2 - Know Your Role
+SLUS_012.34 WWF SmackDown^! 2 - Know Your Role
 SLES_008.04 WWF War Zone
 SLUS_004.95 WWF War Zone
 SLES_001.03 WWF WrestleMania - The Arcade Game
@@ -10494,7 +10494,7 @@ SLPS_002.23 WWF WrestleMania - The Arcade Game
 SLUS_000.13 WWF WrestleMania - The Arcade Game
 SLES_024.68 Wacky Races
 SLPM_868.45 Wacky Races
-SLPM_872.20 Wagamama Fairy Mirumo de Pon^^! Mirumo no Mahou Gakkou Monogatari
+SLPM_872.20 Wagamama Fairy Mirumo de Pon^! Mirumo no Mahou Gakkou Monogatari
 SLPM_866.96 Wai Wai 3-nin Uchi Mahjong
 SLPM_872.25 Wai Wai Bowling
 SLPM_865.44 Wai Wai Jansou
@@ -10510,7 +10510,7 @@ SLPM_803.42 Waku Waku Volley (Taikenban)
 SLPS_013.74 Wakusei Koukitai - Little Cats
 SCES_030.29 Walt Disney El Libro de la Selva - Muevete con Ritmo
 SCES_030.26 Walt Disney Il Libro della Giungla - Il Ballo della Giungla
-SCES_030.28 Walt Disney Ksiega Dzungli - Groove Party
+SCES_030.28 Walt Disney Księga Dżungli - Groove Party
 SCES_030.24 Walt Disney Le Livre de la Jungle - Groove Party
 SLES_027.33 Walt Disney World Quest - Magical Racing Tour
 SLUS_011.06 Walt Disney World Quest - Magical Racing Tour
@@ -10537,7 +10537,7 @@ SLUS_004.80 WarCraft II - The Dark Saga
 SLES_009.78 WarGames - Defcon 1
 SLUS_005.99 WarGames - Defcon 1
 SLED_013.66 WarGames - Defcon 1 (Demo)
-SLPS_026.58 Warera Mitsurin Tankentai^^!^^!
+SLPS_026.58 Warera Mitsurin Tankentai^!^!
 SLPS_005.96 Wares 1092 - Souheiden
 SLPS_007.40 Wares 1092 - Souheiden
 SLES_011.59 Warhammer - Dark Omen
@@ -10546,7 +10546,7 @@ SLES_000.28 Warhammer - Shadow of the Horned Rat
 SLUS_001.17 Warhammer - Shadow of the Horned Rat
 SCES_000.62 Warhawk - The Red Mercury Missions
 SCUS_943.05 Warhawk - The Red Mercury Missions
-SLES_032.47 Warm Up^^!
+SLES_032.47 Warm Up^!
 SLES_022.53 Warpath - Jurassic Park
 SLUS_009.76 Warpath - Jurassic Park
 SLES_032.63 Warriors of Might and Magic
@@ -10588,7 +10588,7 @@ SLES_035.92 Who Wants to Be a Millionaire - Junior
 SLES_013.33 Wild 9
 SLUS_004.25 Wild 9
 SLED_014.96 Wild 9 (Demo)
-SLED_016.89 Wild 9  MDK  Crime Killer (Demo)
+SLED_016.89 Wild 9 - MDK - Crime Killer (Demo)
 SCES_003.21 Wild Arms
 SCES_011.71 Wild Arms
 SCES_011.72 Wild Arms
@@ -10701,7 +10701,7 @@ SLPS_001.97 Wolkenkratzer - Shinpan no Tou
 SCPS_100.72 Wonder Trek
 SLES_029.72 Woody Woodpecker Racing
 SLUS_011.88 Woody Woodpecker Racing
-SLPM_867.30 Woody Woodpecker no Go^^! Go^^! Racing
+SLPM_867.30 Woody Woodpecker no Go^! Go^! Racing
 SLES_021.96 World Championship Snooker
 SLES_012.65 World Cup 98
 SLUS_006.44 World Cup 98
@@ -10719,7 +10719,7 @@ SLPM_870.58 World Greatest Hits Series Vol. 1 - Pro Pinball - Big Race USA
 SLPM_870.45 World Greatest Hits Series Vol. 2 - Pipe Dreams 3D
 SLPM_870.61 World Greatest Hits Series Vol. 3 - Speedball 2100
 SLPM_870.84 World Greatest Hits Series Vol. 4 - Tom Clancy's Rainbow Six
-SLPM_870.78 World Greatest Hits Series Vol. 5 - Tyco RC - Assault with a Battery
+SLPM_870.78 World Greatest Hits Series Vol. 5 - Tyco R-C - Assault with a Battery
 SLES_006.26 World League Basketball
 SLPS_013.89 World League Soccer
 SLPS_026.87 World League Soccer
@@ -10846,9 +10846,9 @@ SLUS_006.64 Xenogears (Disc 1)
 SLPS_011.61 Xenogears (Disc 2)
 SLPS_027.76 Xenogears (Disc 2)
 SLUS_006.69 Xenogears (Disc 2)
-SCES_007.36 Xevious 3DG+
-SLPS_007.50 Xevious 3DG+
-SLUS_004.61 Xevious 3DG+
+SCES_007.36 Xevious 3D-G+
+SLPS_007.50 Xevious 3D-G+
+SLUS_004.61 Xevious 3D-G+
 SLPS_020.64 Yagami Hiroki no Game-Taste - Munasawagi no Yokan
 SLPS_032.09 Yakiniku Action Game - Yakiniku Bugyou
 SLPM_806.13 Yakiniku Action Game - Yakiniku Bugyou (Taikenban)
@@ -10875,7 +10875,7 @@ SLPS_034.84 Yamasa Digi Selection 2
 SLPM_806.16 Yamasa Digi World - Tetra Master
 SLPS_032.12 Yamasa Digi World - Tetra Master
 SLPS_018.78 Yamifuku Natsu - Teito Monogatari Futatabi
-SLPS_000.54 Yaoi Jun'ichi Gokuhi Project - UFO o Oe^^!^^!
+SLPS_000.54 Yaoi Jun'ichi Gokuhi Project - UFO o Oe^!^!
 PAPX_900.58 Yarudora (Taikenban)
 SCPS_100.53 Yarudora Series Vol. 1 - Double Cast (Disc 1)
 SCPS_100.54 Yarudora Series Vol. 1 - Double Cast (Disc 2)
@@ -10909,18 +10909,18 @@ SLUS_007.62 You Don't Know Jack (Disc 2)
 SLUS_011.94 You Don't Know Jack - Mock 2
 SLPS_030.98 Youchien Gaiden - Karei naru Casino Club - Double Draw
 SLPM_868.57 Youkai Hana Asobi
-SLES_039.47 Yu-Gi-Oh^^! Forbidden Memories
-SLES_039.48 Yu-Gi-Oh^^! Forbidden Memories
-SLES_039.49 Yu-Gi-Oh^^! Forbidden Memories
-SLES_039.50 Yu-Gi-Oh^^! Forbidden Memories
-SLES_039.51 Yu-Gi-Oh^^! Forbidden Memories
-SLUS_014.11 Yu-Gi-Oh^^! Forbidden Memories
-SLPM_860.96 Yu-Gi-Oh^^! Monster Capsule Breed & Battle
-SLPM_862.21 Yu-Gi-Oh^^! Monster Capsule Breed & Battle
-SLPM_863.98 Yu-Gi-Oh^^! Shin Duel Monsters - Fuuin Sareshi Kioku
-SLPM_865.73 Yu-Gi-Oh^^! Shin Duel Monsters - Fuuin Sareshi Kioku
-SLPM_870.66 Yu-Gi-Oh^^! Shin Duel Monsters - Fuuin Sareshi Kioku
-SLPM_863.96 Yu-Gi-Oh^^! Shin Duel Monsters - Fuuin Sareshi Kioku (Genteiban)
+SLES_039.47 Yu-Gi-Oh^! Forbidden Memories
+SLES_039.48 Yu-Gi-Oh^! Forbidden Memories
+SLES_039.49 Yu-Gi-Oh^! Forbidden Memories
+SLES_039.50 Yu-Gi-Oh^! Forbidden Memories
+SLES_039.51 Yu-Gi-Oh^! Forbidden Memories
+SLUS_014.11 Yu-Gi-Oh^! Forbidden Memories
+SLPM_860.96 Yu-Gi-Oh^! Monster Capsule Breed & Battle
+SLPM_862.21 Yu-Gi-Oh^! Monster Capsule Breed & Battle
+SLPM_863.98 Yu-Gi-Oh^! Shin Duel Monsters - Fuuin Sareshi Kioku
+SLPM_865.73 Yu-Gi-Oh^! Shin Duel Monsters - Fuuin Sareshi Kioku
+SLPM_870.66 Yu-Gi-Oh^! Shin Duel Monsters - Fuuin Sareshi Kioku
+SLPM_863.96 Yu-Gi-Oh^! Shin Duel Monsters - Fuuin Sareshi Kioku (Genteiban)
 SLPM_870.13 Yukinko Burning
 SLPS_014.01 Yume Iroiro
 SLPS_029.54 Yume no Tsubasa
@@ -10957,8 +10957,8 @@ SCES_006.04 Z
 SLPS_004.24 ZXE-D - Legend of Plasmatlite
 SLPS_033.54 Zanac x Zanac
 SLPM_806.26 Zanac x Zanac (Taikenban)
-SLPS_030.34 Zap^^! Snowboarding Trix
-SLPS_009.09 Zap^^! Snowboarding Trix '98
+SLPS_030.34 Zap^! Snowboarding Trix
+SLPS_009.09 Zap^! Snowboarding Trix '98
 SLPS_000.34 Zeitgeist
 SLPS_002.19 Zen Nihon GT Senshuken Kai
 SLPS_007.15 Zen Nihon GT Senshuken Max Rev. (Disc 1)
@@ -10991,12 +10991,12 @@ SLPS_016.66 Zeus - Carnage Heart Second
 SLPS_014.83 ZigZagBall
 SLPM_863.11 Zill O'll
 SLPM_867.03 Zill O'll
-SLPM_866.43 Zipangu-jima - Unmei wa Saikoro ga Kimeru^^!
-SLPS_022.60 Zipangu-jima - Unmei wa Saikoro ga Kimeru^^!
-SLPM_804.88 Zipangu-jima - Unmei wa Saikoro ga Kimeru^^! (Taikenban)
-SLPS_022.44 Zipangu-jima - Unmei wa Saikoro ga Kimeru^^! (Taikenban)
-SLPM_804.66 Zipangu - Unmei wa Saikoro ga Kimeru^^! (Taikenban)
-SLUS_014.01 Zoboomafoo - Leapin' Lemurs^^!
+SLPM_866.43 Zipangu-jima - Unmei wa Saikoro ga Kimeru^!
+SLPS_022.60 Zipangu-jima - Unmei wa Saikoro ga Kimeru^!
+SLPM_804.88 Zipangu-jima - Unmei wa Saikoro ga Kimeru^! (Taikenban)
+SLPS_022.44 Zipangu-jima - Unmei wa Saikoro ga Kimeru^! (Taikenban)
+SLPM_804.66 Zipangu - Unmei wa Saikoro ga Kimeru^! (Taikenban)
+SLUS_014.01 Zoboomafoo - Leapin' Lemurs^!
 SLPS_033.89 Zoids 2 - Heric Kyouwakoku vs. Guylos Teikoku
 SLPS_032.55 Zoids - Battle Card Game - Seihou Tairiku Senki
 SLPS_029.82 Zoids - Teikoku vs Kyouwakoku - Meka Seitai no Idenshi
@@ -11010,7 +11010,7 @@ SLPS_022.67 Zoku Mikagura Shoujo Tanteidan - Kanketsu-hen (Disc 2)
 SLPS_022.68 Zoku Mikagura Shoujo Tanteidan - Kanketsu-hen (Disc 3)
 SLPS_022.69 Zoku Mikagura Shoujo Tanteidan - Kanketsu-hen (Disc 4)
 SLPS_005.34 Zoop
-SLUS_000.78 Zoop - America's Largest Killer of Time^^!
+SLUS_000.78 Zoop - America's Largest Killer of Time^!
 SLPS_002.71 Zork I - The Great Underground Empire
 SLPM_865.23 Zutto Issho - With Me Everytime...
 SLPS_012.38 Zutto Issho - With Me Everytime...
